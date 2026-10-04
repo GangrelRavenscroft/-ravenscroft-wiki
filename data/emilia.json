@@ -9,10 +9,10 @@
   "birthDate": "1970-09-03",
   "age2026": 56,
   "apparentAge2026": 40,
-  "birthplace": "Not yet established",
+  "birthplace": "Madrid, Spain",
   "nationality": "Spanish",
   "appearance": {
-    "height": "5'7\" / 170 cm",
+    "height": "5'7\"",
     "build": "Slender, athletic",
     "hair": "Dark brown",
     "eyes": "Green-brown / hazel",
@@ -64,25 +64,35 @@
     "familyBackground": "Major Spanish industrial dynasty with multigenerational interests in heavy engineering, manufacturing, shipping, infrastructure, industrial property, and European investments; independently wealthy and internationally connected but not a Great House."
   },
   "originalPatron": {
-    "name": "Not yet named in locked canon",
-    "status": "Unassigned",
-    "patronageHistory": "Emilia's original patron and route into the patronage system remain intentionally unassigned. Do not infer a patron from her marriage to Thomas."
+    "name": null,
+    "status": "None",
+    "patronageHistory": "Emilia was not discovered, raised, or advanced through Ravenscroft patronage. She entered the Ravenscroft sphere independently as a physician from the de Aranda industrial dynasty.",
+    "pathIntoHouse": "Independent dynastic/professional relationship culminating in marriage to Thomas Julian Ravenscroft."
   },
   "education": [
     {
+      "institution": "Colegio Monteluz, Madrid",
+      "degree": "Private bilingual preparatory education; Bachillerato/COU advanced science track",
+      "start": "1976",
+      "end": "1988"
+    },
+    {
       "institution": "Complutense University of Madrid",
       "degree": "M.D., Medicine",
-      "dates": "Dates not yet separately established"
+      "start": "1988",
+      "end": "1994"
     },
     {
       "institution": "Hospital Universitario La Paz, Madrid",
       "degree": "Neurology residency",
-      "dates": "Dates not yet separately established"
+      "start": "1994",
+      "end": "1998"
     },
     {
       "institution": "United Kingdom and Switzerland",
-      "degree": "Advanced research and fellowship training",
-      "dates": "Dates not yet separately established",
+      "degree": "Advanced neuroscience research and fellowship training",
+      "start": "1998",
+      "end": "2002",
       "focus": [
         "Neurodegenerative disease",
         "Cognitive decline",
@@ -284,6 +294,15 @@
       "Original Patron remains unassigned until explicitly established.",
       "Parents and siblings remain text-based unless separate character entries are warranted.",
       "Order authority derives from induction, expertise, and assigned access rather than marriage alone."
-    ]
+    ],
+    "birthplaceControl": "Madrid, Spain",
+    "patronControl": "No original patron; Emilia entered the Ravenscroft sphere independently.",
+    "heightStandard": "Imperial only: 5'7\"",
+    "educationControl": "Colegio Monteluz 1976–1988; Complutense M.D. 1988–1994; La Paz neurology residency 1994–1998; UK/Swiss advanced research fellowships 1998–2002."
+  },
+  "primaryResidence": {
+    "name": "Cologny Residence",
+    "location": "Cologny, Geneva, Switzerland",
+    "description": "Discreet lake-view villa combining an older European residential core with restrained modern interiors, research-grade communications, privacy, and House security systems."
   }
 }

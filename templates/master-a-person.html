@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>House Ravenscroft — {{FULL_NAME}}</title>
+<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<div class="site-shell">
+
+<header class="masthead">
+  <div class="crest"><img src="../assets/houses/ravenscroft/crest-simplified.png" alt="House Ravenscroft crest"></div>
+  <div class="masthead-copy">
+    <p class="eyebrow">House Ravenscroft • Family Intelligence Archive • Master A</p>
+    <h1>{{FULL_NAME}}</h1>
+    <p class="subtitle">Locked Canon • {{HOUSE_LINE}} • Blood Family • Age {{AGE}} • {{CANON_YEAR}}</p>
+  </div>
+  <div class="classification">MASTER A<br><span>LOCKED CANON</span></div>
+</header>
+
+<main>
+
+<section class="hero dossier-panel">
+  <figure class="hero-image image-frame">
+    <img class="canon-image portrait" src="{{PRIMARY_PORTRAIT_PATH}}" alt="{{FULL_NAME}}, {{CANON_YEAR}}">
+    <figcaption>Current canonical portrait • {{CANON_YEAR}}</figcaption>
+  </figure>
+  <div class="hero-copy">
+    <div class="status-strip">
+      <span>{{BLOOD_STATUS}}</span><span>{{ORDER_STATUS}}</span><span>{{CLEARANCE}}</span><span>{{PRIMARY_LOCATION}}</span>
+    </div>
+    <dl class="facts-grid">
+      <div><dt>Born</dt><dd>{{BIRTH_DATE}}</dd></div>
+      <div><dt>Age</dt><dd>{{AGE}}</dd></div>
+      <div><dt>Apparent Age</dt><dd>{{APPARENT_AGE}}</dd></div>
+      <div><dt>Birthplace</dt><dd>{{BIRTHPLACE}}</dd></div>
+      <div><dt>Nationality</dt><dd>{{NATIONALITY}}</dd></div>
+      <div><dt>Height</dt><dd>{{HEIGHT}}</dd></div>
+      <div><dt>Build</dt><dd>{{BUILD}}</dd></div>
+      <div><dt>Hair</dt><dd>{{HAIR}}</dd></div>
+      <div><dt>Eyes</dt><dd>{{EYES}}</dd></div>
+      <div><dt>Primary Role</dt><dd>{{PRIMARY_ROLE}}</dd></div>
+      <div><dt>Field</dt><dd>{{FIELD}}</dd></div>
+    </dl>
+    <p class="lede">{{LEDE}}</p>
+  </div>
+</section>
+
+<section class="identity-rail">
+  <div><span>Blood Status</span><strong>{{BLOOD_STATUS}}</strong></div>
+  <div><span>Order Membership</span><strong>{{ORDER_STATUS}}</strong></div>
+  <div><span>Clearance</span><strong>{{CLEARANCE}}</strong></div>
+  <div><span>Covert Authority</span><strong>{{AUTHORITY}}</strong></div>
+  <div><span>Patronage</span><strong>{{PATRONAGE_SUMMARY}}</strong></div>
+</section>
+
+<section class="current-status">
+  <div class="status-title"><span>Current Status</span><strong>{{CANON_YEAR}} Snapshot</strong></div>
+  <div><span>House</span><strong>{{HOUSE_LINE}}</strong></div>
+  <div><span>Dossier</span><strong>Master A • Locked Canon</strong></div>
+  <div><span>Marital Status</span><strong>{{MARITAL_STATUS}}</strong></div>
+  <div><span>Children</span><strong>{{CHILDREN_SUMMARY}}</strong></div>
+  <div><span>Primary Residence</span><strong>{{PRIMARY_RESIDENCE}}</strong></div>
+  <div><span>Secondary Residence</span><strong>{{SECONDARY_RESIDENCE}}</strong></div>
+  <div><span>Current Role</span><strong>{{PRIMARY_ROLE}}</strong></div>
+  <div><span>Order / Clearance</span><strong>{{ORDER_STATUS}} • {{CLEARANCE}}</strong></div>
+</section>
+
+<!-- 01 Age Progression -->
+<section class="dossier-section">
+<header class="section-header"><span>01</span><h2>Age Progression</h2><em>Canonical Visual Record</em></header>
+{{AGE_PROGRESSION_BLOCK}}
+</section>
+
+<!-- 02 Family & Household -->
+<section class="dossier-section">
+<header class="section-header"><span>02</span><h2>Family & Household</h2><em>Dynastic Record</em></header>
+{{FAMILY_HOUSEHOLD_BLOCK}}
+</section>
+
+<!-- 03 Education & Formation -->
+<section class="dossier-section">
+<header class="section-header"><span>03</span><h2>Education & Formation</h2><em>Academic + Ravenscroft Curriculum</em></header>
+{{EDUCATION_BLOCK}}
+</section>
+
+<!-- 04 Training & Core Formation -->
+<section class="dossier-section">
+<header class="section-header"><span>04</span><h2>Training & Core Formation</h2><em>House + Professional Repertoire</em></header>
+{{TRAINING_BLOCK}}
+</section>
+
+<!-- 05 Career Chronology -->
+<section class="dossier-section">
+<header class="section-header"><span>05</span><h2>Career Chronology</h2><em>Locked Canon Timeline</em></header>
+{{CAREER_TIMELINE_BLOCK}}
+</section>
+
+<!-- 06 Appearance & Presentation -->
+<section class="dossier-section">
+<header class="section-header"><span>06</span><h2>Appearance & Presentation</h2><em>Current Visual Canon</em></header>
+{{APPEARANCE_BLOCK}}
+</section>
+
+<!-- 07 Career & Major Roles -->
+<section class="dossier-section">
+<header class="section-header"><span>07</span><h2>Career & Major Roles</h2><em>Professional Record</em></header>
+{{CAREER_ROLES_BLOCK}}
+</section>
+
+<!-- 08 Notable Professional Projects -->
+<section class="dossier-section">
+<header class="section-header"><span>08</span><h2>Notable Professional Projects</h2><em>Selected Record</em></header>
+{{PROJECTS_BLOCK}}
+</section>
+
+<!-- 09 Professional Affiliations & Credentials -->
+<section class="dossier-section">
+<header class="section-header"><span>09</span><h2>Professional Affiliations & Credentials</h2><em>External Professional Standing</em></header>
+{{AFFILIATIONS_CREDENTIALS_BLOCK}}
+</section>
+
+<!-- 10 Behavioral Assessment -->
+<section class="dossier-section">
+<header class="section-header"><span>10</span><h2>Behavioral Assessment</h2><em>Observed Profile</em></header>
+{{BEHAVIORAL_ASSESSMENT_BLOCK}}
+</section>
+
+<!-- 11 Relationship History -->
+<section class="dossier-section">
+<header class="section-header"><span>11</span><h2>Relationship History</h2><em>Locked Chronology</em></header>
+{{RELATIONSHIP_HISTORY_BLOCK}}
+</section>
+
+<!-- 12 Order -->
+<section class="dossier-section">
+<header class="section-header"><span>12</span><h2>Order Status, Access & Authority</h2><em>Separate Dossier Categories</em></header>
+{{ORDER_BLOCK}}
+</section>
+
+<!-- 13 Patronage -->
+<section class="dossier-section">
+<header class="section-header"><span>13</span><h2>Patronage</h2><em>Talent Network</em></header>
+{{PATRONAGE_BLOCK}}
+</section>
+
+<!-- 14 Wealth -->
+<section class="dossier-section">
+<header class="section-header"><span>14</span><h2>Wealth & Resources</h2><em>Personal ≠ Household ≠ House</em></header>
+{{WEALTH_BLOCK}}
+</section>
+
+<!-- 15 Institutional Footprint -->
+<section class="dossier-section">
+<header class="section-header"><span>15</span><h2>Institutional Footprint</h2><em>Professional & Cultural Network</em></header>
+{{INSTITUTIONAL_FOOTPRINT_BLOCK}}
+</section>
+
+<!-- 16 Residences -->
+<section class="dossier-section">
+<header class="section-header"><span>16</span><h2>Residences & Estate</h2><em>Domestic Base</em></header>
+{{RESIDENCES_BLOCK}}
+</section>
+
+<!-- 17 Languages -->
+<section class="dossier-section">
+<header class="section-header"><span>17</span><h2>Languages</h2><em>Working Fluency</em></header>
+{{LANGUAGES_BLOCK}}
+</section>
+
+<!-- 18 Current Priorities -->
+<section class="dossier-section">
+<header class="section-header"><span>18</span><h2>Current Priorities — {{CANON_YEAR}}</h2><em>Active Workload</em></header>
+{{CURRENT_PRIORITIES_BLOCK}}
+</section>
+
+<!-- 19 Interests -->
+<section class="dossier-section">
+<header class="section-header"><span>19</span><h2>Interests & Personal Life</h2><em>Private Profile</em></header>
+{{INTERESTS_BLOCK}}
+</section>
+
+<!-- 20 Canon Control -->
+<section class="dossier-section canon-control">
+<header class="section-header"><span>20</span><h2>Canon Control & Continuity</h2><em>Authoritative Notes</em></header>
+{{CANON_CONTROL_BLOCK}}
+</section>
+
+<section class="quote-panel">
+<p class="micro-label">Personal Philosophy</p>
+<blockquote>{{PERSONAL_PHILOSOPHY}}</blockquote>
+</section>
+
+</main>
+<footer>House Ravenscroft • Family Intelligence Archive • Master A • Canon Record {{CANON_YEAR}}</footer>
+</div>
+</body>
+</html>

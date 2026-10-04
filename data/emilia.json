@@ -9,7 +9,7 @@
   "birthDate": "1970-09-03",
   "age2026": 56,
   "apparentAge2026": 40,
-  "birthplace": "Not yet established",
+  "birthplace": "Madrid, Spain",
   "nationality": "Spanish",
   "appearance": {
     "height": "5'7\"",
@@ -289,9 +289,9 @@
     "lockedNotes": [
       "Master B preserves Emilia's pre-marriage de Aranda identity, independent wealth, professional identity, and patronage.",
       "Emilia had no original Ravenscroft patron; she entered independently as an elite de Aranda family member.",
-      "Birthplace has not yet been established.",
       "Parents and siblings remain text-based unless separate character entries are warranted.",
-      "Order authority derives from induction, expertise, and assigned access rather than marriage alone."
+      "Order authority derives from induction, expertise, and assigned access rather than marriage alone.",
+      "Birthplace locked as Madrid, Spain."
     ],
     "birthplaceControl": "Madrid, Spain",
     "patronControl": "No original patron; Emilia entered the Ravenscroft sphere independently.",

@@ -61,3 +61,20 @@
 .quote-panel{background:linear-gradient(180deg,rgba(20,33,50,.98),rgba(8,16,29,.98))}
 .quote-panel .micro-label{text-align:center;margin-bottom:10px}
 @media(max-width:760px){.appearance-grid,.institution-grid{grid-template-columns:1fr}.dossier-section:after{left:8px;right:8px}.section-header:after{left:12px;right:12px}.masthead:after{display:none}}
+
+.project-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.project-card{border:1px solid rgba(199,164,91,.26);background:linear-gradient(180deg,rgba(10,20,35,.88),rgba(6,13,24,.88));padding:17px}
+.project-card h3{margin:.25rem 0 .55rem;color:var(--gold)}
+.project-card p{margin:.45rem 0}
+.project-date{font-size:.67rem;letter-spacing:.11em;text-transform:uppercase;color:var(--muted)}
+.affiliation-grid,.behavior-grid,.priority-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.affiliation-grid>div,.behavior-grid>article,.priority-grid>div{border:1px solid rgba(199,164,91,.24);background:rgba(6,14,25,.46);padding:15px;display:grid;gap:5px}
+.affiliation-grid strong,.behavior-grid strong,.priority-grid strong{color:var(--gold);text-transform:uppercase;letter-spacing:.08em;font-size:.72rem}
+.behavior-grid span,.affiliation-grid span,.priority-grid span{font-size:.91rem}
+.assessment-pairs{display:grid;gap:10px;margin-top:14px}
+.assessment-pairs>div{display:grid;grid-template-columns:100px 1fr 115px 2fr;gap:10px;align-items:start;border:1px solid rgba(199,164,91,.22);background:rgba(7,15,27,.55);padding:12px}
+.assessment-pairs b{color:var(--gold);font-size:.69rem;text-transform:uppercase;letter-spacing:.08em}
+.knowledge-box{margin-top:15px;border-left:3px solid var(--gold);background:rgba(199,164,91,.05);padding:14px 16px}
+.knowledge-box>strong{display:block;color:var(--gold);text-transform:uppercase;letter-spacing:.09em;font-size:.74rem;margin-bottom:6px}
+.timeline.compact>div{padding-bottom:13px}
+@media(max-width:760px){.project-grid,.affiliation-grid,.behavior-grid,.priority-grid{grid-template-columns:1fr}.assessment-pairs>div{grid-template-columns:1fr;gap:4px}.assessment-pairs b:nth-of-type(2){margin-top:7px}}

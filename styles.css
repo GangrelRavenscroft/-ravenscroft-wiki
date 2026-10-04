@@ -118,3 +118,16 @@
 .entity-link:hover{color:var(--cream);border-bottom-color:var(--gold)}
 .embedded-family-image{margin-top:14px}
 .residence-image{margin-top:14px}
+
+
+/* Residence gallery */
+.residence-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.residence-card{padding:14px;display:flex;flex-direction:column}
+.residence-heading{min-height:64px;padding:2px 2px 8px}
+.residence-heading h3{margin:2px 0 0;color:var(--cream);font-size:1.08rem}
+.residence-type{display:block;color:var(--gold);font-size:.68rem;letter-spacing:.14em;text-transform:uppercase}
+.residence-card .residence-image{margin:0 0 12px}
+.residence-card .residence-image img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover}
+.residence-card .residence-image figcaption{padding:8px 4px 1px}
+.residence-card p{margin:0;padding:0 2px 2px;color:#d5dae2}
+@media(max-width:760px){.residence-grid{grid-template-columns:1fr}.residence-heading{min-height:0}.residence-card{padding:10px}}

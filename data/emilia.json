@@ -284,8 +284,9 @@
     "sailing": "assets/characters/emilia-sofia-de-aranda-ravenscroft/mediterranean-sailing.png",
     "primaryResidence": "assets/locations/cologny-residence/exterior.png",
     "residenceImage": "assets/locations/cologny-residence/exterior.png",
-    "secondaryResidence": "assets/locations/2E9B6C92-14AA-4A10-B410-E24EFC0FFC1D.png",
-    "seasonalResidence": "assets/locations/4987B059-8DEE-444F-A2A9-9006D4219B48.png"
+    "secondaryResidence": "assets/locations/london-residence/exterior.png",
+    "seasonalResidence": "assets/locations/mallorca-residence/exterior.png",
+    "madridResidence": "assets/locations/madrid-de-aranda-estate/exterior.png"
   },
   "continuity": {
     "lockedNotes": [

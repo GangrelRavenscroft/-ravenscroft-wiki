@@ -89,7 +89,7 @@
     "Italian": "Conversational"
   },
   "continuity": {
-    "ageControl": "Age 30 in 2026; older age-29 renderings are superseded",
+    "ageControl": "Born 1996-09-14; chronological age 30 in 2026; apparent age approximately 25",
     "residenceControl": "Alderwick Estate outside Savannah, acquired 2022-11, is primary residence",
     "danielOrderStatus": "Limited/basic exposure through marriage; not fully inducted",
     "careerControl": "Preservation career is genuine and independently credible",
@@ -151,7 +151,8 @@
   "appearance": {
     "build": "Slim, athletic",
     "presentation": "Polished, understated, contemporary old-money professional",
-    "visualContinuity": "Approved face locked; hairstyle, clothing, setting, and age-appropriate styling may vary"
+    "visualContinuity": "Approved face locked; hairstyle, clothing, setting, and age-appropriate styling may vary",
+    "apparentAge": "Approximately 25"
   },
   "institutionalFootprint": {
     "practice": "Ravenscroft Heritage Conservation, Savannah",
@@ -304,5 +305,6 @@
     "founded": "2023-03",
     "base": "Savannah, Georgia",
     "staff2026": "Approximately 18–25 employees plus regular specialist contractors"
-  }
+  },
+  "apparentAge2026": 25
 }

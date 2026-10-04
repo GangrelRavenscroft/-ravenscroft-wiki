@@ -2,16 +2,63 @@
   "name": "Isabella Genevieve Ravenscroft",
   "canonStatus": "Locked Canon",
   "dossierType": "Master A",
+  "houseLine": "House Ravenscroft — senior/main line",
   "birthDate": "1996-09-14",
   "age2026": 30,
   "birthplace": "Geneva, Switzerland",
+  "nationality": "American",
+  "height": "5'7\" / 170 cm",
+  "hair": "Light brown",
+  "eyes": "Hazel",
   "primaryResidence": "Ravenscroft estate outside Savannah, Georgia",
   "secondaryResidence": "Geneva, Switzerland",
   "occupation": "Principal, Ravenscroft Heritage Conservation",
-  "orderStatus": "Fully Inducted",
-  "clearance": "Tier III",
+  "field": "Architectural conservation and historic preservation",
+  "education": [
+    "University of Virginia — Architectural History",
+    "Columbia University — M.S. Historic Preservation"
+  ],
+  "order": {
+    "membership": "Fully Inducted",
+    "initialInduction": "House-standard initial induction at approximately age 18; precise date not yet fixed",
+    "fullInduction": "Fully inducted by adulthood; precise completion date not yet fixed",
+    "knowledgeLevel": "Advanced family and Order knowledge appropriate to a fully inducted senior-line Ravenscroft",
+    "clearance": "Tier III",
+    "compartmentAccess": "Specialist access centered on cultural heritage, archives, historical sites, institutional networks, philanthropy, and related House interests",
+    "authority": "Limited / specialist",
+    "lethalParamilitaryAuthority": "None established"
+  },
+  "patronage": {
+    "active": "Approximately 10–15 active protégés and sponsored professionals",
+    "legacy": "No significant legacy cohort yet established",
+    "sectors": [
+      "Architecture",
+      "Historic preservation",
+      "Museums",
+      "Arts administration",
+      "Academia",
+      "Conservation",
+      "Nonprofit cultural work"
+    ]
+  },
+  "wealth": {
+    "personal": "$3–6M",
+    "trustInterests": "$10–25M",
+    "household": "$12–25M"
+  },
   "spouse": "Daniel James Parker",
   "marriageDate": "2024-08-17",
   "children": [],
-  "languages": {"English":"Native","Spanish":"Fluent","French":"Fluent","Italian":"Conversational"}
+  "languages": {
+    "English": "Native",
+    "Spanish": "Fluent",
+    "French": "Fluent",
+    "Italian": "Conversational"
+  },
+  "continuity": {
+    "ageControl": "Age 30 in 2026; older age-29 renderings are superseded",
+    "residenceControl": "Savannah-area Georgia is primary; earlier Boston concepts are superseded",
+    "danielOrderStatus": "Limited/basic exposure through marriage; not fully inducted",
+    "careerControl": "Preservation career is genuine and independently credible"
+  }
 }

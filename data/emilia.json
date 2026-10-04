@@ -29,7 +29,7 @@
       "Philanthropist"
     ],
     "field": "Neurology, translational neuroscience, neurodegenerative disease, cognitive preservation, neural repair, and traumatic neurological injury",
-    "primaryResidence": "Geneva, Switzerland",
+    "primaryResidence": "Cologny, Geneva, Switzerland",
     "otherResidences": [
       "Madrid, Spain — de Aranda family estate",
       "London, United Kingdom — secondary",
@@ -286,7 +286,8 @@
     "dressage": "assets/characters/emilia-sofia-de-aranda-ravenscroft/dressage.png",
     "piano": "assets/characters/emilia-sofia-de-aranda-ravenscroft/classical-piano.png",
     "botanicalGarden": "assets/characters/emilia-sofia-de-aranda-ravenscroft/botanical-garden.png",
-    "sailing": "assets/characters/emilia-sofia-de-aranda-ravenscroft/mediterranean-sailing.png"
+    "sailing": "assets/characters/emilia-sofia-de-aranda-ravenscroft/mediterranean-sailing.png",
+    "primaryResidence": "assets/locations/cologny-residence/exterior.svg"
   },
   "continuity": {
     "lockedNotes": [
@@ -298,7 +299,8 @@
     "birthplaceControl": "Madrid, Spain",
     "patronControl": "No original patron; Emilia entered the Ravenscroft sphere independently.",
     "heightStandard": "Imperial only: 5'7\"",
-    "educationControl": "Colegio Monteluz 1976–1988; Complutense M.D. 1988–1994; La Paz neurology residency 1994–1998; UK/Swiss advanced research fellowships 1998–2002."
+    "educationControl": "Colegio Monteluz 1976–1988; Complutense M.D. 1988–1994; La Paz neurology residency 1994–1998; UK/Swiss advanced research fellowships 1998–2002.",
+    "residenceControl": "Primary residence: Cologny, Geneva, Switzerland."
   },
   "primaryResidence": {
     "name": "Cologny Residence",

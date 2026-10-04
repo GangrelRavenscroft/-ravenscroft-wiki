@@ -10,20 +10,42 @@
   "height": "5'7\" / 170 cm",
   "hair": "Light brown",
   "eyes": "Hazel",
-  "primaryResidence": "Ravenscroft estate outside Savannah, Georgia",
+  "primaryResidence": {
+    "name": "Alderwick Estate",
+    "location": "Outside Savannah, Georgia",
+    "distanceFromSavannah": "Approximately 25–35 minutes",
+    "coreBuilt": "c. 1838",
+    "expansions": [
+      "1870s expansion",
+      "1910s Colonial Revival alterations"
+    ],
+    "acreage": 72,
+    "features": [
+      "Mature live oaks",
+      "Formal gardens",
+      "Pasture",
+      "Secondary woodland",
+      "Historic dependencies",
+      "Modern veterinary-grade equestrian complex"
+    ],
+    "acquired": "2022-11",
+    "restorationStarted": "2023-01",
+    "fullTimeOccupancy": "2023-summer",
+    "conservationApproach": "Preserve significant fabric from multiple historical periods rather than restore to a single imagined date"
+  },
   "secondaryResidence": "Geneva, Switzerland",
   "occupation": "Principal, Ravenscroft Heritage Conservation",
   "field": "Architectural conservation and historic preservation",
   "education": [
     {
       "institution": "University of Virginia",
-      "degree": "B.A. Architectural History",
+      "degree": "Bachelor of Arts (B.A.) in Architectural History",
       "start": "2014-08",
       "end": "2018-05-19"
     },
     {
       "institution": "Columbia University",
-      "degree": "M.S. Historic Preservation",
+      "degree": "Master of Science (M.S.) in Historic Preservation",
       "start": "2018-09",
       "end": "2020-05-20"
     }
@@ -68,11 +90,13 @@
   },
   "continuity": {
     "ageControl": "Age 30 in 2026; older age-29 renderings are superseded",
-    "residenceControl": "Savannah-area Georgia is primary; earlier Boston concepts are superseded",
+    "residenceControl": "Alderwick Estate outside Savannah, acquired 2022-11, is primary residence",
     "danielOrderStatus": "Limited/basic exposure through marriage; not fully inducted",
     "careerControl": "Preservation career is genuine and independently credible",
-    "educationControl": "University of Virginia 2014–2018; Columbia University M.S. Historic Preservation 2018–2020",
-    "orderInductionControl": "Initial 2014-09-20; deeper 2017-09-16; full 2019-06-15"
+    "educationControl": "University of Virginia — Bachelor of Arts (B.A.) in Architectural History, 2014–2018; Columbia University — Master of Science (M.S.) in Historic Preservation, 2018–2020",
+    "orderInductionControl": "Initial 2014-09-20; deeper 2017-09-16; full 2019-06-15",
+    "relationshipControl": "Daniel first met 2021-10-09; first date 2022-04-23; exclusive 2022-07-02; engaged 2023-12-16; married 2024-08-17",
+    "professionalTitleControl": "Architectural conservationist / historic preservation specialist; not represented as a licensed architect unless future canon explicitly establishes licensure"
   },
   "careerChronology": [
     {
@@ -141,5 +165,144 @@
       "Cultural foundations"
     ],
     "houseValue": "Legitimate long-term access to archives, heritage properties, elite cultural networks, and institutional decision-makers"
+  },
+  "professionalTitle": "Architectural conservationist / historic preservation specialist",
+  "credentials": [
+    {
+      "name": "LEED AP BD+C",
+      "earned": "2021"
+    },
+    {
+      "name": "Preservation technical continuing education",
+      "areas": [
+        "Historic masonry",
+        "Timber structures",
+        "Architectural finishes",
+        "Moisture management",
+        "Preservation technology"
+      ]
+    }
+  ],
+  "affiliations": [
+    {
+      "name": "Historic Savannah Foundation",
+      "role": "Board member",
+      "since": "2025-01"
+    },
+    {
+      "name": "Association for Preservation Technology International",
+      "role": "Professional member; technical-conservation programming"
+    },
+    {
+      "name": "National Trust for Historic Preservation",
+      "role": "Professional and donor-level involvement"
+    },
+    {
+      "name": "Society of Architectural Historians",
+      "role": "Professional member"
+    },
+    {
+      "name": "Columbia Historic Preservation alumni network",
+      "role": "Active alumna; occasional mentor and panel participant"
+    },
+    {
+      "name": "University of Virginia Architectural History network",
+      "role": "Active faculty/alumni/research relationships"
+    }
+  ],
+  "notableProjects": [
+    {
+      "name": "Caldwell Row Stabilization & Adaptive Reuse",
+      "location": "Baltimore, Maryland",
+      "dates": "2020–2021",
+      "significance": "Early post-graduate assignment under senior conservation professionals; established practical adaptive-reuse and materials-conservation experience."
+    },
+    {
+      "name": "Foxmere Equestrian Estate Conservation Plan",
+      "location": "Virginia Piedmont",
+      "dates": "2021–2022",
+      "significance": "Historic working-estate plan balancing preservation with equine health and safety; project where Isabella met Daniel James Parker."
+    },
+    {
+      "name": "St. Celeste Hall Rehabilitation",
+      "location": "Charleston, South Carolina",
+      "dates": "2022",
+      "significance": "Adaptive-reuse project balancing preservation, redevelopment, accessibility, modernization, donors, and municipal interests."
+    },
+    {
+      "name": "Armitage House & Gardens",
+      "location": "Savannah, Georgia",
+      "dates": "2023–2025",
+      "significance": "First marquee Ravenscroft Heritage Conservation project and the commission that established Isabella's independent professional reputation."
+    },
+    {
+      "name": "Meridian Archive Recovery Project",
+      "location": "New York / Geneva / Savannah",
+      "dates": "2024–2026",
+      "significance": "Multi-institution archival recovery, conservation, and digitization program expanding Isabella's museum, university, and European networks."
+    },
+    {
+      "name": "Westhaven Terminal Adaptive Reuse",
+      "location": "Savannah River District",
+      "dates": "2025–2026",
+      "significance": "Most publicly visible 2026 project; politically difficult compromise between preservation and major redevelopment."
+    }
+  ],
+  "behavioralAssessment": {
+    "coreTemperament": "Composed, observant, patient, and highly self-controlled; reflective rather than dominance-seeking.",
+    "socialStyle": "Polished and adaptable across elite, academic, professional, craft, donor, and ordinary client environments; understands status games but does not treat every interaction as one.",
+    "leadershipStyle": "Consensus-oriented and expertise-driven; delegates readily and becomes difficult to move once evidence and principle align.",
+    "conflictStyle": "Prefers de-escalation, private negotiation, documentation, relationships, institutional pressure, and quiet leverage before overt escalation.",
+    "riskTolerance": "Moderate and calculated; prefers preparation, contingencies, and reversible moves over chaos.",
+    "coreValue": "Stewardship — wealth, property, knowledge, access, and family privilege create obligations as well as advantages.",
+    "strengths": [
+      "Patience and persistence",
+      "Diplomacy and institutional fluency",
+      "Stewardship mentality",
+      "Memory for people and context",
+      "Long-term relationship building"
+    ],
+    "risks": [
+      "May try too long to preserve institutions or relationships that should end",
+      "Can initially overestimate institutional remedies against actors who ignore institutional limits",
+      "Sentimental attachment to heritage can complicate objective decisions"
+    ]
+  },
+  "relationshipWithDaniel": {
+    "firstMeeting": "2021-10-09",
+    "firstDate": "2022-04-23",
+    "exclusive": "2022-07-02",
+    "alderwickEvaluation": "2022-11",
+    "cohabiting": "2023-summer",
+    "controlledDisclosure": "2023-09 to 2023-11",
+    "engagement": "2023-12-16",
+    "marriage": "2024-08-17",
+    "knowledgeBoundary": {
+      "knows": [
+        "House Ravenscroft is substantially wealthier and more influential than public",
+        "House maintains sophisticated private security and institutional networks",
+        "An old private organization is associated with the family",
+        "Isabella has obligations she cannot fully discuss"
+      ],
+      "doesNotKnow": [
+        "Full Order structure",
+        "Covert operational details",
+        "Sensitive identities",
+        "High-level council business",
+        "Classified House capabilities"
+      ]
+    }
+  },
+  "currentPriorities2026": [
+    "Westhaven Terminal adaptive-reuse strategy",
+    "Meridian Archive Recovery Project",
+    "Expansion of Ravenscroft Heritage Conservation",
+    "Development of a younger patronage cohort"
+  ],
+  "firm": {
+    "name": "Ravenscroft Heritage Conservation",
+    "founded": "2023-03",
+    "base": "Savannah, Georgia",
+    "staff2026": "Approximately 18–25 employees plus regular specialist contractors"
   }
 }

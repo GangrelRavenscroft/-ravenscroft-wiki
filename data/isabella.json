@@ -306,5 +306,7 @@
     "base": "Savannah, Georgia",
     "staff2026": "Approximately 18–25 employees plus regular specialist contractors"
   },
-  "apparentAge2026": 25
+  "apparentAge2026": 25,
+  "dossierStandardVersion": "1.0",
+  "dossierBenchmark": "Master A v1.0 benchmark"
 }

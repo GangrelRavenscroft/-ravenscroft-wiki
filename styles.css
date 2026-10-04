@@ -109,3 +109,12 @@
 .embedded-family-image{margin-top:14px}
 .spouse-card,.children-card{display:flex;flex-direction:column}
 .spouse-card .embedded-family-image,.children-card .embedded-family-image{margin-top:auto}
+
+/* Hero portrait overlay fix */
+.hero:before{display:none}
+
+/* Entity links */
+.entity-link{color:var(--gold);text-decoration:none;border-bottom:1px dotted rgba(199,164,91,.55)}
+.entity-link:hover{color:var(--cream);border-bottom-color:var(--gold)}
+.embedded-family-image{margin-top:14px}
+.residence-image{margin-top:14px}

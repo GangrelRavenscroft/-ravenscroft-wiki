@@ -15,18 +15,29 @@
   "occupation": "Principal, Ravenscroft Heritage Conservation",
   "field": "Architectural conservation and historic preservation",
   "education": [
-    "University of Virginia — Architectural History",
-    "Columbia University — M.S. Historic Preservation"
+    {
+      "institution": "University of Virginia",
+      "degree": "B.A. Architectural History",
+      "start": "2014-08",
+      "end": "2018-05-19"
+    },
+    {
+      "institution": "Columbia University",
+      "degree": "M.S. Historic Preservation",
+      "start": "2018-09",
+      "end": "2020-05-20"
+    }
   ],
   "order": {
     "membership": "Fully Inducted",
-    "initialInduction": "House-standard initial induction at approximately age 18; precise date not yet fixed",
-    "fullInduction": "Fully inducted by adulthood; precise completion date not yet fixed",
+    "initialInduction": "2014-09-20",
+    "fullInduction": "2019-06-15",
     "knowledgeLevel": "Advanced family and Order knowledge appropriate to a fully inducted senior-line Ravenscroft",
     "clearance": "Tier III",
     "compartmentAccess": "Specialist access centered on cultural heritage, archives, historical sites, institutional networks, philanthropy, and related House interests",
     "authority": "Limited / specialist",
-    "lethalParamilitaryAuthority": "None established"
+    "lethalParamilitaryAuthority": "None established",
+    "deeperInduction": "2017-09-16"
   },
   "patronage": {
     "active": "Approximately 10–15 active protégés and sponsored professionals",
@@ -59,6 +70,76 @@
     "ageControl": "Age 30 in 2026; older age-29 renderings are superseded",
     "residenceControl": "Savannah-area Georgia is primary; earlier Boston concepts are superseded",
     "danielOrderStatus": "Limited/basic exposure through marriage; not fully inducted",
-    "careerControl": "Preservation career is genuine and independently credible"
+    "careerControl": "Preservation career is genuine and independently credible",
+    "educationControl": "University of Virginia 2014–2018; Columbia University M.S. Historic Preservation 2018–2020",
+    "orderInductionControl": "Initial 2014-09-20; deeper 2017-09-16; full 2019-06-15"
+  },
+  "careerChronology": [
+    {
+      "date": "1996-09-14",
+      "event": "Born in Geneva, Switzerland"
+    },
+    {
+      "date": "2014-08",
+      "event": "Begins B.A. in Architectural History at the University of Virginia"
+    },
+    {
+      "date": "2014-09-20",
+      "event": "Initial Order induction"
+    },
+    {
+      "date": "2017-09-16",
+      "event": "Deeper Order induction"
+    },
+    {
+      "date": "2018-05-19",
+      "event": "Completes B.A. in Architectural History"
+    },
+    {
+      "date": "2018-09",
+      "event": "Begins M.S. in Historic Preservation at Columbia University"
+    },
+    {
+      "date": "2019-06-15",
+      "event": "Full Order induction"
+    },
+    {
+      "date": "2020-05-20",
+      "event": "Completes M.S. in Historic Preservation"
+    },
+    {
+      "date": "2020-2022",
+      "event": "Builds early professional preservation and conservation experience"
+    },
+    {
+      "date": "2022-08",
+      "event": "Establishes Savannah as primary professional and residential base"
+    },
+    {
+      "date": "2023-03",
+      "event": "Establishes Ravenscroft Heritage Conservation and becomes Principal"
+    },
+    {
+      "date": "2024-08-17",
+      "event": "Marries Daniel James Parker"
+    }
+  ],
+  "appearance": {
+    "build": "Slim, athletic",
+    "presentation": "Polished, understated, contemporary old-money professional",
+    "visualContinuity": "Approved face locked; hairstyle, clothing, setting, and age-appropriate styling may vary"
+  },
+  "institutionalFootprint": {
+    "practice": "Ravenscroft Heritage Conservation, Savannah",
+    "counterparts": [
+      "Historical societies",
+      "Museums",
+      "Universities",
+      "Municipalities",
+      "Preservation nonprofits",
+      "Private estates",
+      "Cultural foundations"
+    ],
+    "houseValue": "Legitimate long-term access to archives, heritage properties, elite cultural networks, and institutional decision-makers"
   }
 }

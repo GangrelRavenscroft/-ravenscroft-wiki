@@ -25,3 +25,20 @@
 .minor-note{color:#98a4b4;font-size:.78rem;font-style:italic}
 @media(max-width:900px){.identity-rail{grid-template-columns:repeat(2,minmax(0,1fr))}.three-column,.spouse-block,.wealth-grid{grid-template-columns:1fr}.language-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:760px){.classification{display:none}.identity-rail,.language-grid,.visual-grid{grid-template-columns:1fr}.section-header em{display:none}}
+
+.current-status{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));border:1px solid var(--line);background:linear-gradient(180deg,rgba(11,22,38,.98),rgba(7,15,27,.98));box-shadow:var(--shadow)}
+.current-status>div{padding:13px 15px;border-right:1px solid rgba(199,164,91,.18);border-bottom:1px solid rgba(199,164,91,.18);display:grid;gap:3px}
+.current-status .status-title{grid-column:1/-1;background:rgba(199,164,91,.05)}
+.current-status span{font-size:.66rem;text-transform:uppercase;letter-spacing:.12em;color:var(--gold)}
+.current-status strong{font-size:.9rem;font-weight:500}
+.timeline{position:relative;display:grid;gap:0;border-left:1px solid var(--gold2);margin-left:9px}
+.timeline>div{display:grid;grid-template-columns:170px 1fr;gap:20px;padding:0 0 18px 22px;position:relative}
+.timeline>div:before{content:"";position:absolute;left:-5px;top:7px;width:9px;height:9px;border:1px solid var(--gold);background:var(--ink)}
+.timeline time{color:var(--gold);font-size:.76rem;text-transform:uppercase;letter-spacing:.1em}
+.timeline p{margin:0}
+.distinction-note{border-left:3px solid var(--gold);background:rgba(199,164,91,.05);padding:12px 14px;color:#d7dce5;font-size:.88rem}
+.canon-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.canon-grid>div{border:1px solid rgba(199,164,91,.24);background:rgba(6,14,25,.46);padding:14px;display:grid;gap:4px}
+.canon-grid strong{color:var(--gold);text-transform:uppercase;letter-spacing:.08em;font-size:.72rem}
+.canon-grid span{font-size:.9rem}
+@media(max-width:760px){.current-status,.canon-grid{grid-template-columns:1fr}.timeline>div{grid-template-columns:1fr;gap:4px;padding-bottom:20px}.timeline time{font-size:.7rem}}

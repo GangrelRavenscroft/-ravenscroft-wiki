@@ -82,3 +82,16 @@
 .crest{overflow:hidden;background:#050a12;padding:4px}
 .crest img{display:block;width:100%;height:100%;object-fit:contain;border-radius:2px}
 @media(max-width:760px){.crest{padding:2px}.crest img{object-fit:contain}}
+
+/* Larger Ravenscroft crest for clear mobile identification */
+.crest{width:100px;height:100px;flex:0 0 100px;padding:2px}
+.crest img{display:block;width:100%;height:100%;object-fit:contain}
+@media(max-width:760px){
+  .masthead{display:grid;grid-template-columns:1fr;justify-items:center;text-align:center;gap:10px}
+  .crest{width:146px;height:146px;flex:none;padding:2px}
+  .masthead-copy{width:100%}
+  .eyebrow,.subtitle{text-align:center}
+}
+@media(max-width:430px){
+  .crest{width:136px;height:136px}
+}

@@ -1,7 +1,8 @@
 # House Ravenscroft — Person Dossier Standard
 
 **Standard version:** 1.0  
-**Master A benchmark:** Isabella Genevieve Ravenscroft
+**Master A benchmark:** Isabella Genevieve Ravenscroft  
+**Master B benchmark:** Dr. Emilia Sofia de Aranda Ravenscroft
 
 This file is the authoritative construction standard for all House Ravenscroft person dossiers on the wiki.
 

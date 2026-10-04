@@ -1,0 +1,112 @@
+{
+  "_template": "House Ravenscroft Master B — married-in / patroned spouse",
+  "name": null,
+  "canonStatus": "Locked Canon",
+  "dossierType": "Master B",
+  "currentCanonYear": 2026,
+  "houseLine": null,
+  "birthDate": null,
+  "ageCurrent": null,
+  "apparentAge": null,
+  "birthplace": null,
+  "nationality": null,
+  "appearance": {
+    "height": null,
+    "build": null,
+    "hair": null,
+    "eyes": null,
+    "presentation": null,
+    "visualContinuity": null
+  },
+  "currentStatus": {
+    "occupation": null,
+    "field": null,
+    "primaryResidence": null,
+    "secondaryResidence": null,
+    "maritalStatus": null,
+    "spouse": null,
+    "children": []
+  },
+  "family": {
+    "father": null,
+    "mother": null,
+    "siblings": []
+  },
+  "education": [],
+  "houseAndOrderFormation": [],
+  "professionalTraining": [],
+  "careerChronology": [],
+  "majorRoles": [],
+  "notableProjects": [],
+  "affiliations": [],
+  "credentials": [],
+  "behavioralAssessment": {
+    "coreTemperament": null,
+    "socialStyle": null,
+    "leadershipStyle": null,
+    "conflictStyle": null,
+    "riskTolerance": null,
+    "coreValues": [],
+    "strengths": [],
+    "operationalRisks": [],
+    "ravenscroftRepertoire": null
+  },
+  "relationships": [],
+  "order": {
+    "membership": null,
+    "initialInduction": null,
+    "deeperInduction": null,
+    "fullInduction": null,
+    "knowledgeLevel": null,
+    "clearance": null,
+    "compartmentAccess": null,
+    "operationalAuthority": null,
+    "lethalParamilitaryAuthority": null,
+    "coreCompetencies": [],
+    "operationalScope": []
+  },
+  "patronage": {
+    "active": null,
+    "legacy": null,
+    "sectors": [],
+    "style": null,
+    "resourcesLeveraged": []
+  },
+  "wealth": {
+    "personal": null,
+    "trustInterests": null,
+    "household": null,
+    "notes": null
+  },
+  "institutionalFootprint": {
+    "practice": null,
+    "counterparts": [],
+    "boardDonorAccess": null,
+    "houseValue": null
+  },
+  "residences": [],
+  "languages": {},
+  "currentPriorities": [],
+  "interests": [],
+  "personalPhilosophy": null,
+  "visualAssets": {
+    "primaryPortrait": null,
+    "ageProgression": null,
+    "relationshipImages": [],
+    "careerImages": [],
+    "residenceImages": [],
+    "personalLifeImages": []
+  },
+  "continuity": {
+    "supersedes": [],
+    "lockedNotes": []
+  },
+  "originalPatron": {
+    "name": null,
+    "relationship": null,
+    "firstContactDate": null,
+    "patronageStartDate": null,
+    "patronageHistory": null,
+    "pathIntoHouse": null
+  }
+}

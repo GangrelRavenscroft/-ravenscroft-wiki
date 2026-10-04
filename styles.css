@@ -100,3 +100,12 @@
 .record-nav a{color:var(--gold);text-decoration:none;border:1px solid rgba(199,164,91,.35);background:rgba(199,164,91,.05);padding:7px 11px;font-size:.72rem;text-transform:uppercase;letter-spacing:.09em}
 .record-nav a[aria-current="page"],.record-nav a:hover{background:rgba(199,164,91,.13);border-color:rgba(199,164,91,.58)}
 @media(max-width:760px){.record-nav{justify-content:center;margin:-4px 0 16px}}
+
+/* Hero portrait fix: remove decorative overlay that crossed portrait images */
+.hero:before{display:none!important;content:none!important}
+.hero-image{position:relative;z-index:1}
+.entity-link{color:var(--gold);text-decoration:none;border-bottom:1px solid rgba(199,164,91,.35)}
+.entity-link:hover{border-bottom-color:var(--gold)}
+.embedded-family-image{margin-top:14px}
+.spouse-card,.children-card{display:flex;flex-direction:column}
+.spouse-card .embedded-family-image,.children-card .embedded-family-image{margin-top:auto}

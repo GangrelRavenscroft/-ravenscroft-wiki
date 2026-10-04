@@ -183,3 +183,15 @@ The goal is not merely visual similarity: every dossier should make the same cat
 ## Cross-linking rule
 
 Whenever a named person, House, organization, estate/location, institution, event, or other entity already has its own wiki page, mentions of that entity should link to that page. Do not link to pages that do not yet exist. As new pages are created, backfill links into older dossiers during normal maintenance.
+
+
+## Unit convention
+
+- **Imperial-only height:** all person dossiers display height in feet/inches only (for example, 5'7"). Do not show metric height in rendered dossiers or structured person data unless a later project-wide standard explicitly changes this rule.
+
+## Cross-linking convention
+
+- Whenever a person, House, organization, institution, location, estate, project, or other entity already has its own live wiki entry, references to that entity should link back to its page.
+- Family blocks, spouse blocks, children blocks, relationship histories, career sections, residences, and institutional sections all follow this rule.
+- If an entity has not yet been migrated into the wiki, leave the reference as plain text and convert it to a link when that entry is created.
+- Do not create dead or speculative links.

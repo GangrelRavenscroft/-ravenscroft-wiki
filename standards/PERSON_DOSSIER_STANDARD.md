@@ -52,6 +52,8 @@ Master B inserts **Original Patron / Patronage History** after Family & Househol
 
 ## Required identity fields
 
+**Imperial-only physical measurements:** use feet/inches and pounds where applicable. Do not display metric conversions on dossier pages.
+
 - Full name
 - Canon status
 - Dossier type
@@ -61,7 +63,7 @@ Master B inserts **Original Patron / Patronage History** after Family & Househol
 - Apparent age
 - Birthplace
 - Nationality
-- Height
+- Height — imperial only
 - Build
 - Hair
 - Eyes
@@ -109,6 +111,8 @@ Blood status, membership, knowledge, clearance, compartment access, patronage in
 - Current priorities
 
 ## Required relationship fields
+
+- Birthdate and current age must be shown together for spouse/partners and children when known.
 
 - Spouse / partner identity
 - Marriage date or relationship status
@@ -174,3 +178,8 @@ Blood status, membership, knowledge, clearance, compartment access, patronage in
 - shared header, status rail, cards, timelines, project grids, and canon-control treatments
 
 The goal is not merely visual similarity: every dossier should make the same categories of information easy to locate in the same place.
+
+
+## Cross-linking rule
+
+Whenever a named person, House, organization, estate/location, institution, event, or other entity already has its own wiki page, mentions of that entity should link to that page. Do not link to pages that do not yet exist. As new pages are created, backfill links into older dossiers during normal maintenance.

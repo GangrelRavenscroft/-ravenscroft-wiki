@@ -7,7 +7,7 @@
   "age2026": 30,
   "birthplace": "Geneva, Switzerland",
   "nationality": "American",
-  "height": "5'7\" / 170 cm",
+  "height": "5'7\"",
   "hair": "Light brown",
   "eyes": "Hazel",
   "primaryResidence": {
@@ -96,7 +96,8 @@
     "educationControl": "University of Virginia — Bachelor of Arts (B.A.) in Architectural History, 2014–2018; Columbia University — Master of Science (M.S.) in Historic Preservation, 2018–2020",
     "orderInductionControl": "Initial 2014-09-20; deeper 2017-09-16; full 2019-06-15",
     "relationshipControl": "Daniel first met 2021-10-09; first date 2022-04-23; exclusive 2022-07-02; engaged 2023-12-16; married 2024-08-17",
-    "professionalTitleControl": "Architectural conservationist / historic preservation specialist; not represented as a licensed architect unless future canon explicitly establishes licensure"
+    "professionalTitleControl": "Architectural conservationist / historic preservation specialist; not represented as a licensed architect unless future canon explicitly establishes licensure",
+    "heightStandard": "Imperial only: 5'7\""
   },
   "careerChronology": [
     {
@@ -152,7 +153,8 @@
     "build": "Slim, athletic",
     "presentation": "Polished, understated, contemporary old-money professional",
     "visualContinuity": "Approved face locked; hairstyle, clothing, setting, and age-appropriate styling may vary",
-    "apparentAge": "Approximately 25"
+    "apparentAge": "Approximately 25",
+    "height": "5'7\""
   },
   "institutionalFootprint": {
     "practice": "Ravenscroft Heritage Conservation, Savannah",

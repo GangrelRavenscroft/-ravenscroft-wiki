@@ -9,7 +9,7 @@
   "birthDate": "1970-09-03",
   "age2026": 56,
   "apparentAge2026": 40,
-  "birthplace": "Madrid, Spain",
+  "birthplace": "Not yet established",
   "nationality": "Spanish",
   "appearance": {
     "height": "5'7\"",
@@ -64,35 +64,30 @@
     "familyBackground": "Major Spanish industrial dynasty with multigenerational interests in heavy engineering, manufacturing, shipping, infrastructure, industrial property, and European investments; independently wealthy and internationally connected but not a Great House."
   },
   "originalPatron": {
-    "name": null,
-    "status": "None",
-    "patronageHistory": "Emilia was not discovered, raised, or advanced through Ravenscroft patronage. She entered the Ravenscroft sphere independently as a physician from the de Aranda industrial dynasty.",
-    "pathIntoHouse": "Independent dynastic/professional relationship culminating in marriage to Thomas Julian Ravenscroft."
+    "name": "None",
+    "status": "No original Ravenscroft patron",
+    "patronageHistory": "Emilia was not discovered, raised, or advanced through Ravenscroft patronage. She entered independently as an elite member of the de Aranda industrial dynasty; marriage to Thomas Julian Ravenscroft was not an original-patron relationship."
   },
   "education": [
     {
       "institution": "Colegio Monteluz, Madrid",
-      "degree": "Private bilingual preparatory education; Bachillerato/COU advanced science track",
-      "start": "1976",
-      "end": "1988"
+      "degree": "Private bilingual preparatory education; science-focused Bachillerato/COU",
+      "dates": "1976–1988"
     },
     {
       "institution": "Complutense University of Madrid",
       "degree": "M.D., Medicine",
-      "start": "1988",
-      "end": "1994"
+      "dates": "1988–1994"
     },
     {
       "institution": "Hospital Universitario La Paz, Madrid",
       "degree": "Neurology residency",
-      "start": "1994",
-      "end": "1998"
+      "dates": "1994–1998"
     },
     {
       "institution": "United Kingdom and Switzerland",
       "degree": "Advanced neuroscience research and fellowship training",
-      "start": "1998",
-      "end": "2002",
+      "dates": "1998–2002",
       "focus": [
         "Neurodegenerative disease",
         "Cognitive decline",
@@ -287,12 +282,14 @@
     "piano": "assets/characters/emilia-sofia-de-aranda-ravenscroft/classical-piano.png",
     "botanicalGarden": "assets/characters/emilia-sofia-de-aranda-ravenscroft/botanical-garden.png",
     "sailing": "assets/characters/emilia-sofia-de-aranda-ravenscroft/mediterranean-sailing.png",
-    "primaryResidence": "assets/locations/cologny-residence/exterior.svg"
+    "primaryResidence": "assets/locations/cologny-residence/exterior.svg",
+    "residenceImage": "assets/locations/cologny-residence/exterior.svg"
   },
   "continuity": {
     "lockedNotes": [
       "Master B preserves Emilia's pre-marriage de Aranda identity, independent wealth, professional identity, and patronage.",
-      "Original Patron remains unassigned until explicitly established.",
+      "Emilia had no original Ravenscroft patron; she entered independently as an elite de Aranda family member.",
+      "Birthplace has not yet been established.",
       "Parents and siblings remain text-based unless separate character entries are warranted.",
       "Order authority derives from induction, expertise, and assigned access rather than marriage alone."
     ],

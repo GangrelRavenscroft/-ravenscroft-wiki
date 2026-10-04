@@ -1,5 +1,8 @@
 # House Ravenscroft — Person Dossier Standard
 
+**Standard version:** 1.0  
+**Master A benchmark:** Isabella Genevieve Ravenscroft
+
 This file is the authoritative construction standard for all House Ravenscroft person dossiers on the wiki.
 
 ## Core rule

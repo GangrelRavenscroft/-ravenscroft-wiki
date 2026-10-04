@@ -282,8 +282,8 @@
     "piano": "assets/characters/emilia-sofia-de-aranda-ravenscroft/classical-piano.png",
     "botanicalGarden": "assets/characters/emilia-sofia-de-aranda-ravenscroft/botanical-garden.png",
     "sailing": "assets/characters/emilia-sofia-de-aranda-ravenscroft/mediterranean-sailing.png",
-    "primaryResidence": "assets/locations/cologny-residence/exterior.svg",
-    "residenceImage": "assets/locations/cologny-residence/exterior.svg"
+    "primaryResidence": "assets/locations/cologny-residence/exterior.png",
+    "residenceImage": "assets/locations/cologny-residence/exterior.png"
   },
   "continuity": {
     "lockedNotes": [

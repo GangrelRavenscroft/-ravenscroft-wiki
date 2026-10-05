@@ -238,10 +238,10 @@
   "visualAssets": {
     "primaryPortrait": "assets/characters/alexandra-emilia-ravenscroft/primary-portrait.png",
     "ageProgression": "assets/characters/alexandra-emilia-ravenscroft/age-progression.png",
-    "spousePortrait": "assets/characters/evan-christopher-langford/primary-portrait.png",
-    "partnerPortrait": "assets/characters/riley-anne-whitaker/primary-portrait.png",
     "tuscaloosaResidence": "assets/locations/lindenmere-house/exterior.png",
-    "genevaFamilyBase": "assets/locations/cologny-residence/exterior.png"
+    "genevaFamilyBase": "assets/locations/cologny-residence/exterior.png",
+    "couplePortrait": "assets/relationships/alexandra-evan/couple-portrait.png",
+    "triadPortrait": "assets/relationships/alexandra-evan-riley/triad-portrait.png"
   },
   "continuity": {
     "nameControl": "Alexandra Emilia Ravenscroft is canonical; older Alexandra Amelia rendering is superseded",

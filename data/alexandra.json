@@ -236,11 +236,11 @@
     "Open/polyamorous domestic life"
   ],
   "visualAssets": {
-    "primaryPortrait": "Not yet added",
-    "ageProgression": "Not yet added",
-    "spousePortrait": "Not yet added",
-    "partnerPortrait": "Not yet added",
-    "tuscaloosaResidence": "Not yet added",
+    "primaryPortrait": "assets/characters/alexandra-emilia-ravenscroft/primary-portrait.png",
+    "ageProgression": "assets/characters/alexandra-emilia-ravenscroft/age-progression.png",
+    "spousePortrait": "assets/characters/evan-christopher-langford/primary-portrait.png",
+    "partnerPortrait": "assets/characters/riley-anne-whitaker/primary-portrait.png",
+    "tuscaloosaResidence": "assets/locations/lindenmere-house/exterior.png",
     "genevaFamilyBase": "assets/locations/cologny-residence/exterior.png"
   },
   "continuity": {

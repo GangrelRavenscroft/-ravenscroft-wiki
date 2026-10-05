@@ -167,12 +167,23 @@ Blood status, membership, knowledge, clearance, compartment access, patronage in
 - The full heraldic crest is reserved for House-level pages and major House overview material.
 
 
-## Section navigation
+## Archive and section navigation
 
-Every rendered person dossier must include a section-jump navigator near the top of the page and a duplicate navigator near the bottom.
+Every rendered person dossier participates in the shared archive hierarchy.
+
+### Global archive navigation
+- The primary site navigation sits immediately below the dossier masthead.
+- Global navigation is category-based rather than person-based: **Home, World, Houses, Families, People, Order, Places, Institutions**.
+- Do not place individual dossier names in the global navigation. The archive will contain too many people for person-to-person navigation to scale.
+- Individual people are reached through the **People directory**, **family/genealogy pages**, and contextual entity links inside dossiers.
+- A breadcrumb appears below the global navigation to show the current record's archive context.
+- Family/genealogy pages are the preferred browser for bloodlines, marriages, households, and branches.
+
+### Dossier section navigation
+Every rendered person dossier must include a section-jump navigator in the upper navigation zone and a duplicate navigator near the bottom.
 
 - Every numbered dossier section must have a stable HTML anchor ID.
-- The top navigator appears after the current-status snapshot and before section 01.
+- The top section navigator appears below the global navigation/breadcrumb and **before the hero portrait and dossier content**.
 - The bottom navigator appears after the final numbered dossier section and before the closing personal-philosophy / quote panel when present.
 - Navigation labels should be concise while preserving the dossier section numbers.
 - The bottom navigator includes a return-to-top link.

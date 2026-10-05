@@ -12,7 +12,7 @@
   "nationality": "American",
   "appearance": {
     "height": "5'8\"",
-    "build": "Slender, athletic",
+    "build": "Slender, athletic; noticeably fuller-busted",
     "hair": "Blonde",
     "eyes": "Blue-green",
     "presentation": "Polished, socially confident, and highly adaptive across academic, social, dynastic, and private settings",
@@ -249,6 +249,7 @@
     "orderControl": "Initial induction 2017-09-20; deeper induction 2020-09-16; full induction 2022-06-18; Development & Advancement Warrant 2025-08-23",
     "relationshipControl": "Evan relationship established 2022; married 2025-06-14; Alexandra/Riley began 2026-02-07; Evan/Riley 2026-03-21; triad defined 2026-05-09",
     "residenceControl": "Lindenmere House, Tuscaloosa, acquired 2024-04-18, is primary; parents' Cologny residence is secondary family base",
-    "roleScopeControl": "Alexandra directs the seven-chapter Southeastern sorority-alumni development and advancement network; she is not the global director of all Order development"
+    "roleScopeControl": "Alexandra directs the seven-chapter Southeastern sorority-alumni development and advancement network; she is not the global director of all Order development",
+    "appearanceControl": "5'8\", slender/athletic with a noticeably fuller bust, blonde hair, blue-green eyes; approved dossier face remains authoritative."
   }
 }

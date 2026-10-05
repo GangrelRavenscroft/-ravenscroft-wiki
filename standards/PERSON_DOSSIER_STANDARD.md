@@ -166,6 +166,19 @@ Blood status, membership, knowledge, clearance, compartment access, patronage in
 - Character dossier headers use the simplified House crest.
 - The full heraldic crest is reserved for House-level pages and major House overview material.
 
+
+## Section navigation
+
+Every rendered person dossier must include a section-jump navigator near the top of the page and a duplicate navigator near the bottom.
+
+- Every numbered dossier section must have a stable HTML anchor ID.
+- The top navigator appears after the current-status snapshot and before section 01.
+- The bottom navigator appears after the final numbered dossier section and before the closing personal-philosophy / quote panel when present.
+- Navigation labels should be concise while preserving the dossier section numbers.
+- The bottom navigator includes a return-to-top link.
+- Navigation must remain usable on mobile; horizontal scrolling is preferred over shrinking links into unreadably small text.
+- Master A and Master B templates must include this structure so future dossiers inherit it automatically.
+
 ## Shared visual language
 
 - dark navy / black background

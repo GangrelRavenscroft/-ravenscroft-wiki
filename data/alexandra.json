@@ -182,7 +182,19 @@
     "securityClearance": "Tier III — high clearance, compartment-restricted",
     "compartmentAccess": "High for age; concentrated in social development, alumnae networks, adult candidate assessment, mentorship coordination, advancement, and institutional placement",
     "lethalParamilitaryAuthority": "No standing independent command or authorization authority; may request House protective support and act in immediate self-defense, but armed or paramilitary operations require appropriately warranted authority",
-    "operationalScope": "Southeastern social-development network; alumnae programs; adult candidate assessment; mentorship coordination; professional and institutional placement; referral into appropriate specialist channels. Warrant does not extend to unrelated intelligence, finance, security, or paramilitary compartments"
+    "operationalScope": "Southeastern social-development network; alumnae programs; adult candidate assessment; mentorship coordination; professional and institutional placement; referral into appropriate specialist channels. Warrant does not extend to unrelated intelligence, finance, security, or paramilitary compartments",
+    "coreCompetencies": [
+      "Behavioral analysis",
+      "Social influence",
+      "Persuasion",
+      "Negotiation",
+      "Adult candidate assessment",
+      "Mentorship and talent development",
+      "Elite-network fluency",
+      "Discretion",
+      "Counter-manipulation",
+      "Rapid reading of interpersonal and status dynamics"
+    ]
   },
   "network": {
     "formalName": "Capstone Alumnae Development Program",

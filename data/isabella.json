@@ -33,7 +33,14 @@
     "fullTimeOccupancy": "2023-summer",
     "conservationApproach": "Preserve significant fabric from multiple historical periods rather than restore to a single imagined date"
   },
-  "secondaryResidence": "Geneva, Switzerland",
+  "secondaryResidence": {
+    "type": "Secondary family residence",
+    "name": "Cologny Residence",
+    "location": "Cologny, Geneva, Switzerland",
+    "ownership": "Primary Swiss residence of Thomas Julian Ravenscroft and Dr. Emilia Sofia de Aranda Ravenscroft; used by Isabella as her Geneva base",
+    "use": "Family visits, professional work, archival and research activity, and European travel",
+    "visualAsset": "assets/locations/cologny-residence/exterior.png"
+  },
   "occupation": "Principal, Ravenscroft Heritage Conservation",
   "field": "Architectural conservation and historic preservation",
   "education": [
@@ -90,7 +97,7 @@
   },
   "continuity": {
     "ageControl": "Born 1996-09-14; chronological age 30 in 2026; apparent age approximately 25",
-    "residenceControl": "Alderwick Estate outside Savannah, acquired 2022-11, is primary residence",
+    "residenceControl": "Alderwick Estate outside Savannah, acquired 2022-11, is Isabella's primary residence; her Geneva base is her parents' Cologny residence, not a separately owned Swiss property.",
     "danielOrderStatus": "Limited/basic exposure through marriage; not fully inducted",
     "careerControl": "Preservation career is genuine and independently credible",
     "educationControl": "University of Virginia — Bachelor of Arts (B.A.) in Architectural History, 2014–2018; Columbia University — Master of Science (M.S.) in Historic Preservation, 2018–2020",

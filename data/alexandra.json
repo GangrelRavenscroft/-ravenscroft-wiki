@@ -1,0 +1,146 @@
+{
+  "name": "Alexandra Emilia Ravenscroft",
+  "supersededNameRendering": "Alexandra Amelia Ravenscroft",
+  "canonStatus": "Locked Canon",
+  "dossierType": "Master A",
+  "currentCanonYear": 2026,
+  "houseLine": "House Ravenscroft — senior/main line",
+  "birthDate": "1999-03-03",
+  "birthplace": "Geneva, Switzerland",
+  "age2026": 27,
+  "nationality": "American",
+  "appearance": {
+    "height": "5'8\"",
+    "build": "Slender, athletic",
+    "hair": "Blonde",
+    "eyes": "Blue-green",
+    "visualContinuity": "Approved Master A dossier face authoritative"
+  },
+  "family": {
+    "father": "Thomas Julian Ravenscroft",
+    "mother": "Dr. Emilia Sofia de Aranda Ravenscroft",
+    "siblings": [
+      "Isabella Genevieve Ravenscroft",
+      "Julian Thomas Ravenscroft II",
+      "Cecilia Rose Ravenscroft"
+    ],
+    "spouse": "Evan Christopher Langford",
+    "marriageDate": "2025-06-14",
+    "partner": "Riley Anne Whitaker",
+    "children": "None as of 2026"
+  },
+  "spouse": {
+    "name": "Evan Christopher Langford",
+    "birthDate": "1997-10-12",
+    "age2026": 28,
+    "family": "Langford dynasty — wealthy secondary Order-connected family",
+    "profession": "Structural engineer",
+    "education": [
+      "B.S. Civil Engineering",
+      "M.S. Structural Engineering"
+    ],
+    "orderStatus": "Fully inducted; past the veil"
+  },
+  "partner": {
+    "name": "Riley Anne Whitaker",
+    "age2026": 21,
+    "hometown": "Franklin, Tennessee",
+    "universityStatus": "University of Alabama senior",
+    "campusRole": "Current sorority chapter president",
+    "residence": "Sorority house; substantial time at Alexandra and Evan's residence",
+    "knowledge": "Deeply familiar with sorority hidden culture and advancement system; not fully informed on highest Order structures"
+  },
+  "education": [
+    {
+      "institution": "University of Alabama",
+      "degree": "B.A. Psychology",
+      "dates": "2017–2021"
+    },
+    {
+      "degree": "Ph.D., Social / Behavioral Psychology",
+      "dates": "2021–2026",
+      "focus": [
+        "Social influence",
+        "Persuasion",
+        "Interpersonal behavior",
+        "Group dynamics",
+        "Decision-making",
+        "Human sexuality"
+      ]
+    }
+  ],
+  "currentRoles": [
+    "Lecturer, University of Alabama — behavioral/social psychology and human sexuality",
+    "Sorority-alumni recruitment and development lead",
+    "Alumnae development and placement coordinator",
+    "Candidate assessment and advancement reviewer"
+  ],
+  "order": {
+    "status": "Fully inducted",
+    "access": "High compartment access for age",
+    "primaryCompartments": [
+      "Recruitment",
+      "Social development",
+      "Sorority-alumni networks",
+      "Candidate assessment",
+      "Mentorship coordination",
+      "Selected adult social/intelligence channels"
+    ],
+    "authority": "Substantial authority within assigned recruitment/development system; no general authority over unrelated Order operations",
+    "inductionDates": "Not yet locked"
+  },
+  "wealth": {
+    "personal": "$8–15 million",
+    "trustRavenscroftInterests": "$25–45 million",
+    "householdWithEvan": "$45–80 million",
+    "distinction": "House resources remain separate from personal, trust, and household assets"
+  },
+  "residences": {
+    "primary": {
+      "location": "Tuscaloosa, Alabama",
+      "description": "Historic residence near the University of Alabama; exact property details not yet locked"
+    },
+    "secondaryFamilyBase": {
+      "name": "Cologny Residence",
+      "location": "Cologny, Geneva, Switzerland",
+      "ownership": "Thomas Julian Ravenscroft and Dr. Emilia Sofia de Aranda Ravenscroft"
+    }
+  },
+  "languages": {
+    "English": "Native",
+    "French": "Fluent",
+    "Spanish": "Fluent",
+    "Italian": "Conversational"
+  },
+  "interests": [
+    "Nightlife and entertaining",
+    "Travel",
+    "Fashion",
+    "Fine dining",
+    "Art",
+    "Psychology",
+    "Literature",
+    "Current affairs",
+    "Equestrian riding",
+    "Fitness",
+    "Open/polyamorous domestic life"
+  ],
+  "unresolved": [
+    "Exact initial, deeper, and full Order induction dates",
+    "Alexandra's detailed pre-university schooling chronology",
+    "Evan's named universities and detailed career chronology",
+    "Exact beginning and development chronology of Riley relationship",
+    "Specific professional societies, dissertation title, publications, and conference roles",
+    "Tuscaloosa residence name, acquisition date, architectural history, and property details",
+    "Specific named campus programs and annual recruitment/development metrics",
+    "Dedicated web visual assets"
+  ],
+  "visualAssets": {
+    "primaryPortrait": "Not yet added",
+    "ageProgression": "Not yet added",
+    "spousePortrait": "Not yet added",
+    "partnerPortrait": "Not yet added",
+    "tuscaloosaResidence": "Not yet added",
+    "genevaFamilyBase": "assets/locations/cologny-residence/exterior.png"
+  }
+}

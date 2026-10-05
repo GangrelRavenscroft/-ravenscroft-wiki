@@ -8,13 +8,15 @@
   "birthDate": "1999-03-03",
   "birthplace": "Geneva, Switzerland",
   "age2026": 27,
+  "apparentAge2026": "Approximately 24–25",
   "nationality": "American",
   "appearance": {
     "height": "5'8\"",
     "build": "Slender, athletic",
     "hair": "Blonde",
     "eyes": "Blue-green",
-    "visualContinuity": "Approved Master A dossier face authoritative"
+    "presentation": "Polished, socially confident, and highly adaptive across academic, social, dynastic, and private settings",
+    "visualContinuity": "Approved Master A dossier face remains authoritative"
   },
   "family": {
     "father": "Thomas Julian Ravenscroft",
@@ -36,59 +38,154 @@
     "family": "Langford dynasty — wealthy secondary Order-connected family",
     "profession": "Structural engineer",
     "education": [
-      "B.S. Civil Engineering",
-      "M.S. Structural Engineering"
+      {
+        "institution": "University of Notre Dame",
+        "degree": "B.S. Civil Engineering",
+        "dates": "2015–2019"
+      },
+      {
+        "institution": "Northwestern University",
+        "degree": "M.S. Structural Engineering",
+        "dates": "2019–2021"
+      }
+    ],
+    "career": {
+      "title": "Senior Structural Engineer",
+      "employer": "Keene & Marlowe Structures — Birmingham office",
+      "focus": [
+        "Complex commercial structures",
+        "Adaptive reuse",
+        "Wind/seismic retrofit",
+        "Existing-building rehabilitation"
+      ]
+    },
+    "licenses": [
+      "Professional Engineer — Illinois (2023)",
+      "Professional Engineer — Alabama (2024)"
     ],
     "orderStatus": "Fully inducted; past the veil"
   },
   "partner": {
     "name": "Riley Anne Whitaker",
+    "birthDate": "2005-07-19",
     "age2026": 21,
     "hometown": "Franklin, Tennessee",
     "universityStatus": "University of Alabama senior",
     "campusRole": "Current sorority chapter president",
-    "residence": "Sorority house; substantial time at Alexandra and Evan's residence",
-    "knowledge": "Deeply familiar with sorority hidden culture and advancement system; not fully informed on highest Order structures"
+    "education": "Honors double major in Economics and Political Science with a Philosophy minor; entered Alabama in fall 2022 at age 17 after accelerated schooling and advanced credits",
+    "residence": "Sorority house; dedicated room at Lindenmere House for frequent stays",
+    "knowledge": "Deeply familiar with the sorority's hidden culture and advancement system; not fully informed on the Order's highest structures"
   },
   "education": [
+    {
+      "institution": "Geneva primary education and private tutors",
+      "dates": "2004–2010"
+    },
+    {
+      "institution": "Blackwood Preparatory Academy",
+      "location": "Litchfield County, Connecticut",
+      "dates": "2010–2017",
+      "level": "Grades 6–12"
+    },
+    {
+      "institution": "Ashbourne formation",
+      "location": "Hudson Valley, New York",
+      "dates": "2014–2017",
+      "type": "Recurring residential and holiday Ravenscroft formation"
+    },
     {
       "institution": "University of Alabama",
       "degree": "B.A. Psychology",
       "dates": "2017–2021"
     },
     {
+      "institution": "University of Alabama",
       "degree": "Ph.D., Social / Behavioral Psychology",
       "dates": "2021–2026",
+      "dissertation": "Belonging Under Observation: Social Proof, Identity Signaling, and Decision-Making in High-Cohesion Peer Networks",
       "focus": [
         "Social influence",
         "Persuasion",
         "Interpersonal behavior",
         "Group dynamics",
+        "Identity signaling",
         "Decision-making",
         "Human sexuality"
       ]
     }
   ],
-  "currentRoles": [
-    "Lecturer, University of Alabama — behavioral/social psychology and human sexuality",
-    "Sorority-alumni recruitment and development lead",
-    "Alumnae development and placement coordinator",
-    "Candidate assessment and advancement reviewer"
-  ],
+  "academicProfile": {
+    "appointment": "Lecturer, University of Alabama — behavioral/social psychology and human sexuality, 2026–present",
+    "memberships": [
+      "Society for Personality and Social Psychology",
+      "APA Division 8 — Society for Personality and Social Psychology",
+      "Society for the Scientific Study of Sexuality"
+    ],
+    "publicationRecord": "Four peer-reviewed articles by 2026 on social proof, belonging threat, identity signaling, affiliation decisions, and adult relationship attitudes"
+  },
   "order": {
     "status": "Fully inducted",
+    "initialInduction": "2017-09-20",
+    "deeperInduction": "2020-09-16",
+    "fullInduction": "2022-06-18",
+    "developmentAdvancementWarrant": "2025-08-23",
+    "mysterySocietyStatus": "Full-rite initiate; past the veil",
+    "knowledgeLevel": "Deep knowledge of Ravenscroft social-development, sorority, patronage, and advancement systems; broad but compartmented knowledge elsewhere",
     "access": "High compartment access for age",
     "primaryCompartments": [
-      "Recruitment",
       "Social development",
       "Sorority-alumni networks",
       "Candidate assessment",
       "Mentorship coordination",
-      "Selected adult social/intelligence channels"
+      "Alumnae development",
+      "Institutional placement"
     ],
-    "authority": "Substantial authority within assigned recruitment/development system; no general authority over unrelated Order operations",
-    "inductionDates": "Not yet locked"
+    "operationalAuthority": "Regional authority inside her assigned development system; not general authority over unrelated Order operations",
+    "conflictSafeguard": "Recusal required when a personal relationship creates a direct conflict with candidate assessment, advancement, or patronage decisions"
   },
+  "network": {
+    "formalName": "Capstone Alumnae Development Program",
+    "scope": "Seven-chapter Southeastern network",
+    "annualOrdinaryMentoring": "Approximately 45–60",
+    "annualEnhancedDevelopment": "Approximately 12–18",
+    "annualDeeperPostCollegiateEvaluation": "Approximately 3–6",
+    "directProtegees": "Approximately 8–12 active at a time",
+    "adultAdvancementRule": "Deeper specialist pathways are restricted to consenting adults and normally occur after ordinary collegiate development"
+  },
+  "relationshipChronology": [
+    {
+      "date": "2022-05-21",
+      "event": "Meets Evan Christopher Langford at a New Orleans wedding weekend through mutual friends"
+    },
+    {
+      "date": "2022-06-11",
+      "event": "First formal date with Evan"
+    },
+    {
+      "date": "2022-08-27",
+      "event": "Alexandra and Evan define a committed, openly polyamorous relationship"
+    },
+    {
+      "date": "2024-11-23",
+      "event": "Alexandra and Evan become engaged"
+    },
+    {
+      "date": "2025-06-14",
+      "event": "Alexandra and Evan marry"
+    },
+    {
+      "date": "2026-02-07",
+      "event": "Alexandra and Riley begin dating; Alexandra recuses herself from formal advancement decisions involving Riley"
+    },
+    {
+      "date": "2026-03-21",
+      "event": "Evan and Riley begin dating independently"
+    },
+    {
+      "date": "2026-05-09",
+      "event": "Alexandra, Evan, and Riley explicitly define the relationship as a triad"
+    }
+  ],
   "wealth": {
     "personal": "$8–15 million",
     "trustRavenscroftInterests": "$25–45 million",
@@ -97,8 +194,21 @@
   },
   "residences": {
     "primary": {
+      "name": "Lindenmere House",
       "location": "Tuscaloosa, Alabama",
-      "description": "Historic residence near the University of Alabama; exact property details not yet locked"
+      "acquired": "2024-04-18",
+      "era": "c. 1913",
+      "architecture": "Colonial Revival with Greek Revival influence",
+      "size": "Approximately 6,900 square feet",
+      "land": "Approximately 1.8 landscaped acres",
+      "features": [
+        "Formal entertaining rooms",
+        "Library",
+        "Garden terrace",
+        "Pool",
+        "Detached carriage house"
+      ],
+      "household": "Alexandra and Evan live here full time; Riley formally lives in the sorority house and has a dedicated room at Lindenmere for frequent stays"
     },
     "secondaryFamilyBase": {
       "name": "Cologny Residence",
@@ -125,16 +235,6 @@
     "Fitness",
     "Open/polyamorous domestic life"
   ],
-  "unresolved": [
-    "Exact initial, deeper, and full Order induction dates",
-    "Alexandra's detailed pre-university schooling chronology",
-    "Evan's named universities and detailed career chronology",
-    "Exact beginning and development chronology of Riley relationship",
-    "Specific professional societies, dissertation title, publications, and conference roles",
-    "Tuscaloosa residence name, acquisition date, architectural history, and property details",
-    "Specific named campus programs and annual recruitment/development metrics",
-    "Dedicated web visual assets"
-  ],
   "visualAssets": {
     "primaryPortrait": "Not yet added",
     "ageProgression": "Not yet added",
@@ -142,5 +242,13 @@
     "partnerPortrait": "Not yet added",
     "tuscaloosaResidence": "Not yet added",
     "genevaFamilyBase": "assets/locations/cologny-residence/exterior.png"
+  },
+  "continuity": {
+    "nameControl": "Alexandra Emilia Ravenscroft is canonical; older Alexandra Amelia rendering is superseded",
+    "educationControl": "Geneva primary education 2004–2010; Blackwood Preparatory Academy 2010–2017; Ashbourne Hudson Valley formation during adolescence; University of Alabama B.A. Psychology 2017–2021; Ph.D. Social / Behavioral Psychology 2021–2026",
+    "orderControl": "Initial induction 2017-09-20; deeper induction 2020-09-16; full induction 2022-06-18; Development & Advancement Warrant 2025-08-23",
+    "relationshipControl": "Evan relationship established 2022; married 2025-06-14; Alexandra/Riley began 2026-02-07; Evan/Riley 2026-03-21; triad defined 2026-05-09",
+    "residenceControl": "Lindenmere House, Tuscaloosa, acquired 2024-04-18, is primary; parents' Cologny residence is secondary family base",
+    "roleScopeControl": "Alexandra directs the seven-chapter Southeastern sorority-alumni development and advancement network; she is not the global director of all Order development"
   }
 }

@@ -241,7 +241,17 @@
     "tuscaloosaResidence": "assets/locations/lindenmere-house/exterior.png",
     "genevaFamilyBase": "assets/locations/cologny-residence/exterior.png",
     "couplePortrait": "assets/relationships/alexandra-evan/couple-portrait.png",
-    "triadPortrait": "assets/relationships/alexandra-evan-riley/triad-portrait.png"
+    "triadPortrait": "assets/relationships/alexandra-evan-riley/triad-portrait.png",
+    "universityLecture": "assets/characters/alexandra-emilia-ravenscroft/university-lecture.png",
+    "sororityLeadership": "assets/characters/alexandra-emilia-ravenscroft/sorority-leadership.png",
+    "alumnaeDevelopment": "assets/characters/alexandra-emilia-ravenscroft/alumnae-development.png",
+    "candidateMentoring": "assets/characters/alexandra-emilia-ravenscroft/candidate-mentoring.png",
+    "equestrianRiding": "assets/characters/alexandra-emilia-ravenscroft/equestrian-riding.png",
+    "fitnessActiveLife": "assets/characters/alexandra-emilia-ravenscroft/fitness-active-life.png",
+    "nightlifeEntertaining": "assets/characters/alexandra-emilia-ravenscroft/nightlife-entertaining.png",
+    "travelCulturalInterest": "assets/characters/alexandra-emilia-ravenscroft/travel-cultural-interest.png",
+    "alexandraRileyPortrait": "assets/relationships/alexandra-riley/couple-portrait.png",
+    "evanRileyPortrait": "assets/relationships/evan-riley/couple-portrait.png"
   },
   "continuity": {
     "nameControl": "Alexandra Emilia Ravenscroft is canonical; older Alexandra Amelia rendering is superseded",

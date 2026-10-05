@@ -31,9 +31,10 @@
     "field": "Neurology, translational neuroscience, neurodegenerative disease, cognitive preservation, neural repair, and traumatic neurological injury",
     "primaryResidence": "Cologny, Geneva, Switzerland",
     "otherResidences": [
-      "Madrid, Spain — de Aranda family estate",
       "London, United Kingdom — secondary",
-      "Mallorca, Spain — seasonal"
+      "Park Avenue, Manhattan, New York — secondary",
+      "Mallorca, Spain — seasonal",
+      "Madrid, Spain — de Aranda family estate"
     ],
     "maritalStatus": "Married",
     "spouse": "Thomas Julian Ravenscroft",
@@ -221,7 +222,7 @@
   "wealth": {
     "personal": "Approximately $12–18 billion",
     "deArandaFamilyInterests": "Approximately $35–55 billion",
-    "combinedHousehold": "Approximately $60–80 billion",
+    "combinedHousehold": "Approximately $60–90 billion",
     "resources": [
       "Industrial holdings",
       "Infrastructure",
@@ -286,7 +287,8 @@
     "residenceImage": "assets/locations/cologny-residence/exterior.png",
     "secondaryResidence": "assets/locations/london-residence/exterior.png",
     "seasonalResidence": "assets/locations/mallorca-residence/exterior.png",
-    "madridResidence": "assets/locations/madrid-de-aranda-estate/exterior.png"
+    "madridResidence": "assets/locations/madrid-de-aranda-estate/exterior.png",
+    "newYorkResidence": "assets/locations/park-avenue-residence/exterior.png"
   },
   "continuity": {
     "lockedNotes": [
@@ -300,11 +302,35 @@
     "patronControl": "No original patron; Emilia entered the Ravenscroft sphere independently.",
     "heightStandard": "Imperial only: 5'7\"",
     "educationControl": "Colegio Monteluz 1976–1988; Complutense M.D. 1988–1994; La Paz neurology residency 1994–1998; UK/Swiss advanced research fellowships 1998–2002.",
-    "residenceControl": "Primary residence: Cologny, Geneva, Switzerland."
+    "residenceControl": "Primary: Cologny, Geneva. Secondary: London and Park Avenue, Manhattan. Seasonal: Mallorca. Madrid is a de Aranda family estate rather than a separately owned Thomas/Emilia household residence."
   },
   "primaryResidence": {
     "name": "Cologny Residence",
     "location": "Cologny, Geneva, Switzerland",
     "description": "Discreet lake-view villa combining an older European residential core with restrained modern interiors, research-grade communications, privacy, and House security systems."
+  },
+  "residences": {
+    "primary": {
+      "name": "Cologny Residence",
+      "location": "Cologny, Geneva, Switzerland"
+    },
+    "secondary": [
+      {
+        "name": "London Residence",
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Park Avenue Residence",
+        "location": "Upper East Side, Manhattan, New York, United States"
+      }
+    ],
+    "seasonal": {
+      "name": "Mallorca Residence",
+      "location": "Mallorca, Spain"
+    },
+    "familyEstate": {
+      "name": "de Aranda Family Estate",
+      "location": "Madrid, Spain"
+    }
   }
 }

@@ -19,7 +19,7 @@
   <div class="classification">MASTER B<br><span>LOCKED CANON</span></div>
 </header>
 
-<main>
+<main id="dossier-top">
 
 <section class="hero dossier-panel">
   <figure class="hero-image image-frame">
@@ -67,32 +67,36 @@
   <div><span>Order / Clearance</span><strong>{{ORDER_STATUS}} • {{CLEARANCE}}</strong></div>
 </section>
 
-<section class="dossier-section"><header class="section-header"><span>01</span><h2>Age Progression</h2><em>Canonical Visual Record</em></header>{{AGE_PROGRESSION_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>02</span><h2>Family & Household</h2><em>Dynastic Record</em></header>{{FAMILY_HOUSEHOLD_BLOCK}}</section>
+<nav class="section-jump-nav" aria-label="Jump to dossier section"><div class="section-jump-label">Jump to Section</div><div class="section-jump-links"><a href="#age-progression"><span>01</span>Age</a><a href="#family-and-household"><span>02</span>Family</a><a href="#original-patron-and-patronage-history"><span>03</span>Original Patron</a><a href="#education-and-formation"><span>04</span>Education</a><a href="#training-and-core-formation"><span>05</span>Training</a><a href="#career-chronology"><span>06</span>Timeline</a><a href="#appearance-and-presentation"><span>07</span>Appearance</a><a href="#career-and-major-roles"><span>08</span>Career</a><a href="#notable-professional-projects"><span>09</span>Projects</a><a href="#professional-affiliations-and-credentials"><span>10</span>Credentials</a><a href="#behavioral-assessment"><span>11</span>Behavior</a><a href="#relationship-history"><span>12</span>Relationships</a><a href="#order-status-access-and-authority"><span>13</span>Order</a><a href="#patronage"><span>14</span>Patronage</a><a href="#wealth-and-resources"><span>15</span>Wealth</a><a href="#institutional-footprint"><span>16</span>Institutions</a><a href="#residences-and-estate"><span>17</span>Residences</a><a href="#languages"><span>18</span>Languages</a><a href="#current-priorities-canon-year"><span>19</span>Priorities</a><a href="#interests-and-personal-life"><span>20</span>Personal Life</a><a href="#canon-control-and-continuity"><span>21</span>Canon</a></div></nav>
 
-<section class="dossier-section">
+<section class="dossier-section" id="age-progression"><header class="section-header"><span>01</span><h2>Age Progression</h2><em>Canonical Visual Record</em></header>{{AGE_PROGRESSION_BLOCK}}</section>
+<section class="dossier-section" id="family-and-household"><header class="section-header"><span>02</span><h2>Family & Household</h2><em>Dynastic Record</em></header>{{FAMILY_HOUSEHOLD_BLOCK}}</section>
+
+<section class="dossier-section" id="original-patron-and-patronage-history">
 <header class="section-header"><span>03</span><h2>Original Patron & Patronage History</h2><em>Path Into House Ravenscroft</em></header>
 {{ORIGINAL_PATRON_BLOCK}}
 </section>
 
-<section class="dossier-section"><header class="section-header"><span>04</span><h2>Education & Formation</h2><em>Academic + House Curriculum</em></header>{{EDUCATION_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>05</span><h2>Training & Core Formation</h2><em>Professional + House Repertoire</em></header>{{TRAINING_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>06</span><h2>Career Chronology</h2><em>Locked Canon Timeline</em></header>{{CAREER_TIMELINE_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>07</span><h2>Appearance & Presentation</h2><em>Current Visual Canon</em></header>{{APPEARANCE_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>08</span><h2>Career & Major Roles</h2><em>Professional Record</em></header>{{CAREER_ROLES_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>09</span><h2>Notable Professional Projects</h2><em>Selected Record</em></header>{{PROJECTS_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>10</span><h2>Professional Affiliations & Credentials</h2><em>External Professional Standing</em></header>{{AFFILIATIONS_CREDENTIALS_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>11</span><h2>Behavioral Assessment</h2><em>Observed Profile</em></header>{{BEHAVIORAL_ASSESSMENT_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>12</span><h2>Relationship History</h2><em>Locked Chronology</em></header>{{RELATIONSHIP_HISTORY_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>13</span><h2>Order Status, Access & Authority</h2><em>Separate Dossier Categories</em></header>{{ORDER_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>14</span><h2>Patronage</h2><em>Talent Network</em></header>{{PATRONAGE_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>15</span><h2>Wealth & Resources</h2><em>Personal ≠ Household ≠ House</em></header>{{WEALTH_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>16</span><h2>Institutional Footprint</h2><em>Professional & Cultural Network</em></header>{{INSTITUTIONAL_FOOTPRINT_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>17</span><h2>Residences & Estate</h2><em>Domestic Base</em></header>{{RESIDENCES_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>18</span><h2>Languages</h2><em>Working Fluency</em></header>{{LANGUAGES_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>19</span><h2>Current Priorities — {{CANON_YEAR}}</h2><em>Active Workload</em></header>{{CURRENT_PRIORITIES_BLOCK}}</section>
-<section class="dossier-section"><header class="section-header"><span>20</span><h2>Interests & Personal Life</h2><em>Private Profile</em></header>{{INTERESTS_BLOCK}}</section>
-<section class="dossier-section canon-control"><header class="section-header"><span>21</span><h2>Canon Control & Continuity</h2><em>Authoritative Notes</em></header>{{CANON_CONTROL_BLOCK}}</section>
+<section class="dossier-section" id="education-and-formation"><header class="section-header"><span>04</span><h2>Education & Formation</h2><em>Academic + House Curriculum</em></header>{{EDUCATION_BLOCK}}</section>
+<section class="dossier-section" id="training-and-core-formation"><header class="section-header"><span>05</span><h2>Training & Core Formation</h2><em>Professional + House Repertoire</em></header>{{TRAINING_BLOCK}}</section>
+<section class="dossier-section" id="career-chronology"><header class="section-header"><span>06</span><h2>Career Chronology</h2><em>Locked Canon Timeline</em></header>{{CAREER_TIMELINE_BLOCK}}</section>
+<section class="dossier-section" id="appearance-and-presentation"><header class="section-header"><span>07</span><h2>Appearance & Presentation</h2><em>Current Visual Canon</em></header>{{APPEARANCE_BLOCK}}</section>
+<section class="dossier-section" id="career-and-major-roles"><header class="section-header"><span>08</span><h2>Career & Major Roles</h2><em>Professional Record</em></header>{{CAREER_ROLES_BLOCK}}</section>
+<section class="dossier-section" id="notable-professional-projects"><header class="section-header"><span>09</span><h2>Notable Professional Projects</h2><em>Selected Record</em></header>{{PROJECTS_BLOCK}}</section>
+<section class="dossier-section" id="professional-affiliations-and-credentials"><header class="section-header"><span>10</span><h2>Professional Affiliations & Credentials</h2><em>External Professional Standing</em></header>{{AFFILIATIONS_CREDENTIALS_BLOCK}}</section>
+<section class="dossier-section" id="behavioral-assessment"><header class="section-header"><span>11</span><h2>Behavioral Assessment</h2><em>Observed Profile</em></header>{{BEHAVIORAL_ASSESSMENT_BLOCK}}</section>
+<section class="dossier-section" id="relationship-history"><header class="section-header"><span>12</span><h2>Relationship History</h2><em>Locked Chronology</em></header>{{RELATIONSHIP_HISTORY_BLOCK}}</section>
+<section class="dossier-section" id="order-status-access-and-authority"><header class="section-header"><span>13</span><h2>Order Status, Access & Authority</h2><em>Separate Dossier Categories</em></header>{{ORDER_BLOCK}}</section>
+<section class="dossier-section" id="patronage"><header class="section-header"><span>14</span><h2>Patronage</h2><em>Talent Network</em></header>{{PATRONAGE_BLOCK}}</section>
+<section class="dossier-section" id="wealth-and-resources"><header class="section-header"><span>15</span><h2>Wealth & Resources</h2><em>Personal ≠ Household ≠ House</em></header>{{WEALTH_BLOCK}}</section>
+<section class="dossier-section" id="institutional-footprint"><header class="section-header"><span>16</span><h2>Institutional Footprint</h2><em>Professional & Cultural Network</em></header>{{INSTITUTIONAL_FOOTPRINT_BLOCK}}</section>
+<section class="dossier-section" id="residences-and-estate"><header class="section-header"><span>17</span><h2>Residences & Estate</h2><em>Domestic Base</em></header>{{RESIDENCES_BLOCK}}</section>
+<section class="dossier-section" id="languages"><header class="section-header"><span>18</span><h2>Languages</h2><em>Working Fluency</em></header>{{LANGUAGES_BLOCK}}</section>
+<section class="dossier-section" id="current-priorities-canon-year"><header class="section-header"><span>19</span><h2>Current Priorities — {{CANON_YEAR}}</h2><em>Active Workload</em></header>{{CURRENT_PRIORITIES_BLOCK}}</section>
+<section class="dossier-section" id="interests-and-personal-life"><header class="section-header"><span>20</span><h2>Interests & Personal Life</h2><em>Private Profile</em></header>{{INTERESTS_BLOCK}}</section>
+<section class="dossier-section canon-control" id="canon-control-and-continuity"><header class="section-header"><span>21</span><h2>Canon Control & Continuity</h2><em>Authoritative Notes</em></header>{{CANON_CONTROL_BLOCK}}</section>
+
+<nav class="section-jump-nav section-jump-nav-bottom" aria-label="Jump to dossier section"><div class="section-jump-label">Dossier Navigation</div><div class="section-jump-links"><a href="#age-progression"><span>01</span>Age</a><a href="#family-and-household"><span>02</span>Family</a><a href="#original-patron-and-patronage-history"><span>03</span>Original Patron</a><a href="#education-and-formation"><span>04</span>Education</a><a href="#training-and-core-formation"><span>05</span>Training</a><a href="#career-chronology"><span>06</span>Timeline</a><a href="#appearance-and-presentation"><span>07</span>Appearance</a><a href="#career-and-major-roles"><span>08</span>Career</a><a href="#notable-professional-projects"><span>09</span>Projects</a><a href="#professional-affiliations-and-credentials"><span>10</span>Credentials</a><a href="#behavioral-assessment"><span>11</span>Behavior</a><a href="#relationship-history"><span>12</span>Relationships</a><a href="#order-status-access-and-authority"><span>13</span>Order</a><a href="#patronage"><span>14</span>Patronage</a><a href="#wealth-and-resources"><span>15</span>Wealth</a><a href="#institutional-footprint"><span>16</span>Institutions</a><a href="#residences-and-estate"><span>17</span>Residences</a><a href="#languages"><span>18</span>Languages</a><a href="#current-priorities-canon-year"><span>19</span>Priorities</a><a href="#interests-and-personal-life"><span>20</span>Personal Life</a><a href="#canon-control-and-continuity"><span>21</span>Canon</a><a class="jump-top" href="#dossier-top"><span>↑</span>Top</a></div></nav>
 
 <section class="quote-panel">
 <p class="micro-label">Personal Philosophy</p>

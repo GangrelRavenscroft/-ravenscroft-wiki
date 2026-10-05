@@ -121,7 +121,44 @@
       "APA Division 8 — Society for Personality and Social Psychology",
       "Society for the Scientific Study of Sexuality"
     ],
-    "publicationRecord": "Four peer-reviewed articles by 2026 on social proof, belonging threat, identity signaling, affiliation decisions, and adult relationship attitudes"
+    "publicationRecord": "Four peer-reviewed collaborative articles by 2026 on belonging threat, social proof, identity signaling, selective affiliation, and adult relationship norms.",
+    "teaching2026": [
+      "Social Psychology",
+      "Psychology of Human Sexuality",
+      "Social Influence & Persuasion"
+    ],
+    "researchPrograms": [
+      {
+        "name": "Peer Networks, Belonging & Decision-Making Project",
+        "description": "Post-dissertation research on perceived consensus, belonging threat, identity signaling, observation, and decision-making inside high-cohesion peer groups."
+      },
+      {
+        "name": "Adult Relationship Norms Study",
+        "description": "Research on exclusivity expectations, consensual non-monogamy, disclosure norms, jealousy, identity, and adult relationship attitudes."
+      }
+    ],
+    "publications": [
+      {
+        "year": 2023,
+        "title": "Belonging Threat and Behavioral Conformity in High-Cohesion Peer Groups",
+        "note": "Collaborative article on perceived exclusion risk, conformity, and affiliation behavior."
+      },
+      {
+        "year": 2024,
+        "title": "When Affiliation Becomes Evidence: Social Proof in Selective Membership Decisions",
+        "note": "Study of social proof in evaluations of selective groups."
+      },
+      {
+        "year": 2025,
+        "title": "Identity Signaling Under Observation",
+        "note": "Research on self-presentation, audience awareness, and decision-making in status-conscious young-adult networks."
+      },
+      {
+        "year": 2026,
+        "title": "Beyond Exclusivity: Social Norms and Attitudes Toward Consensual Non-Monogamy",
+        "note": "Collaborative adult-relationship study on norms, disclosure, jealousy, and perceived legitimacy across relationship structures."
+      }
+    ]
   },
   "order": {
     "status": "Fully inducted",
@@ -141,7 +178,11 @@
       "Institutional placement"
     ],
     "operationalAuthority": "Regional authority inside her assigned development system; not general authority over unrelated Order operations",
-    "conflictSafeguard": "Recusal required when a personal relationship creates a direct conflict with candidate assessment, advancement, or patronage decisions"
+    "conflictSafeguard": "Recusal required when a personal relationship creates a direct conflict with candidate assessment, advancement, or patronage decisions",
+    "securityClearance": "Tier III — high clearance, compartment-restricted",
+    "compartmentAccess": "High for age; concentrated in social development, alumnae networks, adult candidate assessment, mentorship coordination, advancement, and institutional placement",
+    "lethalParamilitaryAuthority": "No standing independent command or authorization authority; may request House protective support and act in immediate self-defense, but armed or paramilitary operations require appropriately warranted authority",
+    "operationalScope": "Southeastern social-development network; alumnae programs; adult candidate assessment; mentorship coordination; professional and institutional placement; referral into appropriate specialist channels. Warrant does not extend to unrelated intelligence, finance, security, or paramilitary compartments"
   },
   "network": {
     "formalName": "Capstone Alumnae Development Program",
@@ -150,7 +191,29 @@
     "annualEnhancedDevelopment": "Approximately 12–18",
     "annualDeeperPostCollegiateEvaluation": "Approximately 3–6",
     "directProtegees": "Approximately 8–12 active at a time",
-    "adultAdvancementRule": "Deeper specialist pathways are restricted to consenting adults and normally occur after ordinary collegiate development"
+    "adultAdvancementRule": "Deeper specialist pathways are restricted to consenting adults and normally occur after ordinary collegiate development",
+    "patronageStyle": "High-contact, selective, developmental; sustained mentoring, social sponsorship, candid performance feedback, and progressively larger opportunities rather than one-time favors or dependency",
+    "patronageSectors": [
+      "Academia and behavioral science",
+      "Law and policy",
+      "Communications",
+      "Philanthropy and cultural institutions",
+      "Business",
+      "Public service",
+      "Selected professional and civic leadership"
+    ],
+    "resourcesLeveraged": [
+      "Introductions",
+      "Internships",
+      "Graduate-school support",
+      "Scholarships",
+      "Professional placement",
+      "Alumni access",
+      "Cultural exposure",
+      "Social coaching",
+      "Referral to senior House or Order patrons"
+    ],
+    "legacyPatronage": "Not yet meaningful as a separate category in 2026 because of age; first protégées are only beginning to enter independent professional positions"
   },
   "relationshipChronology": [
     {
@@ -260,6 +323,46 @@
     "relationshipControl": "Evan relationship established 2022; married 2025-06-14; Alexandra/Riley began 2026-02-07; Evan/Riley 2026-03-21; triad defined 2026-05-09",
     "residenceControl": "Lindenmere House, Tuscaloosa, acquired 2024-04-18, is primary; parents' Cologny residence is secondary family base",
     "roleScopeControl": "Alexandra directs the seven-chapter Southeastern sorority-alumni development and advancement network; she is not the global director of all Order development",
-    "appearanceControl": "5'8\", slender/athletic with a noticeably fuller bust, blonde hair, blue-green eyes; approved dossier face remains authoritative."
+    "appearanceControl": "5'8\", slender/athletic with a noticeably fuller bust, blonde hair, blue-green eyes; approved dossier face remains authoritative.",
+    "clearanceControl": "Tier III, explicitly compartment-restricted; high access in development and advancement compartments does not imply general cross-compartment authority",
+    "lethalAuthorityControl": "No standing independent lethal or paramilitary command authority in 2026",
+    "academicControl": "2026 teaching: Social Psychology; Psychology of Human Sexuality; Social Influence & Persuasion. Four collaborative peer-reviewed articles by 2026 support an early-career research profile",
+    "patronageControl": "High-contact developmental patronage; approximately 8–12 direct protégées at a time; no meaningful legacy-patronage cohort yet because of age"
+  },
+  "behavioralProfile": {
+    "coreTemperament": "Highly socially intelligent, confident, observant, curious, pleasure-positive, ambitious, and unusually comfortable with ambiguity in relationships and status environments",
+    "leadershipStyle": "Influence-first rather than command-first; shapes incentives, relationships, expectations, and social context before invoking formal authority",
+    "socialStyle": "Warm and engaging when she chooses, rarely socially passive; rapidly notices attraction, insecurity, ambition, rivalry, and status signals",
+    "decisionStyle": "Comfortable experimenting socially but analytical about long-term consequences; comparatively tolerant of unconventional arrangements",
+    "conflictStyle": "Begins with private conversation, reframing, negotiated face-saving, and relationship leverage; escalates through social isolation, institutional pressure, documentation, or formal authority rather than confrontation for its own sake",
+    "riskTolerance": "Moderate to high in social and reputational experimentation; moderate in operational matters; little appetite for uncontrolled violence or technical uncertainty outside her expertise",
+    "coreValues": [
+      "Autonomy",
+      "Consent",
+      "Loyalty",
+      "Competence",
+      "Curiosity",
+      "Discretion",
+      "Reciprocity",
+      "Using privilege to create opportunity rather than dependency"
+    ],
+    "pressureResponse": "Becomes cooler, more controlled, and more analytical; rapidly maps motives and leverage points but can over-treat emotional problems as influence problems",
+    "primaryStrength": "Exceptional at motive-reading, rapport, social calibration, and understanding how desire, fear, ambition, affiliation, jealousy, admiration, and belonging shape behavior",
+    "primaryRisk": "Can underestimate how intimidating or difficult to refuse her influence may feel to less confident people",
+    "strengthsAndRisks": [
+      {
+        "strength": "Rapid rapport and motive-reading",
+        "risk": "Can become overconfident that she understands another person before enough contradictory evidence has accumulated"
+      },
+      {
+        "strength": "Network building and social calibration",
+        "risk": "May spend too much effort optimizing a relationship or group dynamic that should simply be exited"
+      },
+      {
+        "strength": "Influence without overt command",
+        "risk": "Family status and charisma can create a power asymmetry even when she believes she is offering a genuinely free choice"
+      }
+    ],
+    "ravenscroftRepertoire": "Trained in deception, strategic misdirection, controlled seduction, social manipulation, counter-manipulation, coercive leverage, and escalation theory; prefers rapport, persuasion, incentives, and negotiated alignment"
   }
 }

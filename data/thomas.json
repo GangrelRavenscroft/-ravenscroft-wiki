@@ -5,6 +5,7 @@
   "currentCanonYear": 2026,
   "houseLine": "House Ravenscroft — senior/main line",
   "birthDate": "1968-02-06",
+  "birthplace": "Geneva, Switzerland",
   "age2026": 58,
   "apparentAge2026": "Approximately 40–42",
   "nationality": "American",
@@ -13,8 +14,7 @@
     "build": "Athletic",
     "hair": "Salt-and-pepper brown",
     "eyes": "Blue-gray",
-    "presentation": "Polished international executive; controlled, understated, and authoritative",
-    "visualContinuity": "Approved face locked from Master A dossier and established family imagery"
+    "presentation": "Polished international executive; controlled, understated, and authoritative"
   },
   "family": {
     "father": "Julian Thomas Ravenscroft",
@@ -46,93 +46,138 @@
   },
   "education": [
     {
+      "institution": "Geneva / London private schooling and tutors",
+      "dates": "1974–1979"
+    },
+    {
+      "institution": "Blackwood Preparatory Academy",
+      "dates": "1979–1983"
+    },
+    {
+      "institution": "Ashbourne Institute — Vevey Program",
+      "dates": "1983–1986"
+    },
+    {
       "institution": "Princeton University",
       "degree": "B.S.E., Civil & Systems Engineering",
-      "year": 1990
+      "dates": "1986–1990"
+    },
+    {
+      "institution": "International business rotation",
+      "dates": "1993–1994"
     },
     {
       "institution": "INSEAD",
       "degree": "M.B.A.",
-      "year": 1995
+      "dates": "1994–1995"
     }
+  ],
+  "training": [
+    "Ravenscroft strategic curriculum",
+    "Negotiation and representation",
+    "Security and discretion",
+    "Aviation systems",
+    "Crisis leadership",
+    "Physical formation",
+    "Patronage and talent development",
+    "Executive stewardship"
   ],
   "aviationCredentials": [
     "Private pilot",
     "Multi-engine rated",
     "Instrument rated"
   ],
-  "primaryRole": "Executive Chairman, Meridian Aeronautics & Infrastructure Group",
+  "primaryRole": "Executive Chairman and Board Chair, Meridian Aeronautics & Infrastructure Group",
   "field": "Aviation, global transportation, infrastructure, logistics, and strategic operations",
-  "careerChronology": [
-    {
-      "dates": "1990–1993",
-      "event": "Early career in aviation operations and airport infrastructure"
-    },
-    {
-      "dates": "1993–1995",
-      "event": "INSEAD and international business formation"
-    },
-    {
-      "dates": "1995–2005",
-      "event": "Growing leadership roles in aviation services, aircraft leasing, and logistics"
-    },
-    {
-      "dates": "2005–2015",
-      "event": "Expansion into global infrastructure and transportation networks"
-    },
-    {
-      "dates": "2015–present",
-      "event": "Executive Chairman, Meridian Aeronautics & Infrastructure Group"
-    }
+  "meridian": {
+    "organized": "2015",
+    "executiveHeadquarters": "New York",
+    "majorEuropeanExecutiveCenters": [
+      "London",
+      "Geneva"
+    ],
+    "employees2026": "Approximately 72,000",
+    "countries": "Approximately 34",
+    "annualRevenue2026": "Approximately $82–95 billion",
+    "divisions": [
+      "Meridian Aviation Services",
+      "Meridian Airports & Infrastructure",
+      "Asterion Logistics",
+      "Meridian Fleet & Leasing",
+      "Meridian Systems & Resilience"
+    ],
+    "governance": "Professional Group CEO and divisional presidents manage day-to-day operations; Thomas chairs the board, sets long-range strategy, allocates capital, leads major transactions, and takes direct command during exceptional crises."
+  },
+  "affiliations": [
+    "Executive Chairman and Chair of the Board, Meridian Aeronautics & Infrastructure Group",
+    "Governor, International Aviation Infrastructure Council; Chair 2018–2024",
+    "Founding Trustee, Atlantic Transport Resilience Foundation",
+    "Member, Princeton Engineering Leadership Council",
+    "Member, INSEAD International Advisory Council"
   ],
   "order": {
     "status": "Fully inducted senior member",
+    "initialInduction": "1986-09-20",
+    "deeperInduction": "1989-09-16",
+    "fullInduction": "1992-06-20",
+    "tierIIIElevation": "2006-04-08",
+    "mysterySocietyStatus": "Senior full-rite initiate with senior ceremonial standing; not a sitting member of the nine-seat International Council",
+    "knowledgeLevel": "Senior strategic knowledge with broad House and Order awareness subject to compartmentation and need-to-know limits",
     "clearance": "Tier III",
-    "exactInductionDates": "Not yet separately locked",
-    "competencies": [
-      "Negotiation and crisis leadership",
-      "Strategic operations",
-      "Psychological reading and influence",
-      "Operational security and discreet mobility",
-      "Strategic planning and systems management",
-      "Manipulation and counter-manipulation",
-      "Patron cultivation and network development",
-      "Rhetoric, persuasion, management, and diplomacy",
-      "Crisis response and emergency operations",
-      "High-level representation and ceremonial roles"
-    ]
-  },
-  "patronage": {
-    "active": "Approximately 25–35 active relationships",
-    "matureFormer": "Approximately 40–60 mature/former protégés",
-    "sectors": [
-      "Aviation",
-      "Engineering",
-      "Logistics",
-      "Infrastructure",
-      "Emergency management",
-      "Selected fields beyond transport"
+    "compartmentAccess": [
+      "Strategic mobility",
+      "Transportation infrastructure",
+      "Continuity logistics",
+      "Crisis movement",
+      "Aviation systems",
+      "Senior external representation"
     ],
-    "network": [
-      "Industry",
-      "Government",
-      "Military",
-      "Academia",
-      "Technology"
-    ]
+    "operationalAuthority": "Senior authority within assigned mobility, logistics, infrastructure, and crisis-continuity mandates",
+    "authorityLimit": "No blanket command over unrelated intelligence, financial, scientific, enforcement, or council domains"
+  },
+  "relationshipWithEmilia": {
+    "firstMeeting": "1991-10-12",
+    "firstDate": "1992-02-22",
+    "exclusive": "1992-05-16",
+    "controlledDisclosureBegins": "1993-08-14",
+    "engagement": "1993-12-18",
+    "marriage": "1994-08-20",
+    "marriageClassification": "Strategic Alliance / Major Family Union",
+    "arrangedMarriage": false
+  },
+  "behavioralAssessment": {
+    "coreTemperament": "Disciplined, decisive, technically curious, competitive, physically active, and intensely systems-oriented.",
+    "leadershipStyle": "Delegates execution readily but retains control of critical dependencies, escalation paths, and strategic decisions.",
+    "decisionStyle": "Action-biased once he believes he has roughly 85% of the information required; prefers acting with contingencies and correcting course over waiting for perfect certainty.",
+    "pressureResponse": "Exceptionally strong under time pressure; rapidly identifies bottlenecks, single points of failure, and critical dependencies.",
+    "primaryBlindSpot": "Tends to believe almost any problem can be stabilized with enough information, competent people, redundancy, and authority; this works better with systems than with emotionally complex people."
   },
   "wealth": {
-    "personal": "$45–65 billion",
+    "thomasPersonal": "$45–65 billion",
+    "emiliaPersonal": "$12–18 billion",
+    "combinedHousehold": "$60–90 billion",
     "corporateInvestmentAssetsUnderInfluence": "$110–160 billion",
-    "distinction": "Personal wealth, corporate assets under influence, household assets, and wider House resources are separate categories."
+    "distinction": "Household wealth excludes the full value of Meridian, de Aranda family interests, and wider House Ravenscroft resources."
   },
   "residences": {
-    "primary": "Cologny, Geneva, Switzerland",
+    "primary": {
+      "name": "Cologny Residence",
+      "location": "Cologny, Geneva, Switzerland"
+    },
     "secondary": [
-      "London, United Kingdom",
-      "New York, United States"
+      {
+        "name": "London Residence",
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Park Avenue Residence",
+        "location": "Upper East Side, Manhattan, New York, United States"
+      }
     ],
-    "seasonal": "Mallorca, Spain"
+    "seasonal": {
+      "name": "Mallorca Residence",
+      "location": "Mallorca, Spain"
+    }
   },
   "languages": {
     "English": "Native",
@@ -141,32 +186,19 @@
     "Italian": "Fluent",
     "German": "Some working ability"
   },
-  "interests": [
-    "Aviation and flying",
-    "Sailing",
-    "Skiing and mountains",
-    "Mechanical watches",
-    "Historic aircraft",
-    "Meteorology",
-    "Architecture"
-  ],
-  "personalPhilosophy": "Complexity is no excuse for losing control of the system.",
   "visualAssets": {
-    "currentReference": "assets/relationships/thomas-emilia/couple-portrait.png",
+    "primaryPortrait": "assets/characters/thomas-julian-ravenscroft/primary-portrait.png",
+    "ageProgression": "assets/characters/thomas-julian-ravenscroft/age-progression.png",
     "couplePortrait": "assets/relationships/thomas-emilia/couple-portrait.png",
     "familyPortrait": "assets/families/thomas-emilia-family/family-portrait.png",
+    "aviationInfrastructure": "assets/characters/thomas-julian-ravenscroft/aviation-infrastructure.png",
+    "meridianLeadership": "assets/characters/thomas-julian-ravenscroft/meridian-leadership.png",
+    "aviationFlying": "assets/characters/thomas-julian-ravenscroft/aviation-flying.png",
+    "sailing": "assets/characters/thomas-julian-ravenscroft/sailing.png",
+    "skiingMountains": "assets/characters/thomas-julian-ravenscroft/skiing-mountains.png",
     "primaryResidence": "assets/locations/cologny-residence/exterior.png",
     "londonResidence": "assets/locations/london-residence/exterior.png",
-    "mallorcaResidence": "assets/locations/mallorca-residence/exterior.png",
-    "soloPortrait": "Not yet added",
-    "ageProgression": "Not yet added",
-    "newYorkResidence": "Not yet added"
-  },
-  "continuity": {
-    "careerControl": "Executive Chairman, Meridian Aeronautics & Infrastructure Group",
-    "educationControl": "Princeton B.S.E. Civil & Systems Engineering (1990); INSEAD M.B.A. (1995)",
-    "orderControl": "Fully inducted senior member; Tier III high operational clearance; exact induction dates not yet separately locked",
-    "residenceControl": "Cologny/Geneva primary; London and New York secondary; Mallorca seasonal",
-    "visualControl": "Approved Master A face is authoritative; dedicated solo web portrait remains to be added"
+    "parkAvenueResidence": "assets/locations/park-avenue-residence/exterior.png",
+    "mallorcaResidence": "assets/locations/mallorca-residence/exterior.png"
   }
 }

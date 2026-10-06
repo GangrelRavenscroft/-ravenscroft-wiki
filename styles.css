@@ -581,3 +581,8 @@
   .house-section-nav{flex-wrap:nowrap;overflow-x:auto;padding-bottom:6px}
   .house-section-nav a{white-space:nowrap}
 }
+
+.house-heraldry-image{display:block;width:min(100%,360px);height:auto;filter:drop-shadow(0 18px 30px rgba(0,0,0,.4))}
+.house-feature-image{margin:0;border:1px solid var(--line);background:#050b13;box-shadow:var(--shadow);overflow:hidden}
+.house-feature-image img{display:block;width:100%;height:auto;max-height:760px;object-fit:cover}
+.house-feature-image figcaption{padding:10px 13px;color:var(--muted);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase}

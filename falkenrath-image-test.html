@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>House Falkenrath — Portrait Test Page</title>
+<style>
+:root{--bg:#07111d;--panel:#0d1b2a;--gold:#d6ad60;--cream:#f3e8d0;--muted:#aeb8c5;--line:#33475f}
+*{box-sizing:border-box}
+body{margin:0;background:linear-gradient(#06101a,#091725 45%,#06101a);color:var(--cream);font-family:Georgia,"Times New Roman",serif}
+.wrap{max-width:1500px;margin:0 auto;padding:28px 22px 60px}
+header{border:1px solid var(--gold);padding:22px 24px;margin-bottom:26px;background:#081421}
+h1{margin:0;color:#f0c979;font-size:clamp(1.8rem,4vw,3.2rem);letter-spacing:.04em}
+header p{margin:8px 0 0;color:var(--muted);font-family:Arial,sans-serif}
+.note{margin:24px 0;padding:14px 16px;border-left:3px solid var(--gold);background:#0b1724;color:#cbd4df;font-family:Arial,sans-serif;line-height:1.55}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+.card{background:var(--panel);border:1px solid var(--line);padding:14px;box-shadow:0 8px 24px rgba(0,0,0,.25)}
+.card h2{margin:0 0 12px;color:var(--gold);font-size:2rem;text-align:center;letter-spacing:.08em}
+img{display:block;width:100%;height:auto;border:1px solid #5e4c31;background:#05090f}
+@media(max-width:850px){.grid{grid-template-columns:1fr}.wrap{padding:16px 12px 40px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>House Falkenrath — Portrait Test Page</h1>
+  <p>Temporary identification page for the six uploaded Falkenrath portraits.</p>
+</header>
+
+<div class="note">
+Compare these lettered test images with the numbered portrait collage. Reply with the mapping in this format:
+<strong>1-A, 2-B, 3-C, 4-D, 5-E, 6-F</strong>.
+The collage order is Maximilian, Elisabeth, Clara, Leopold, Amalia, Friedrich.
+</div>
+
+<div class="grid">
+  <article class="card"><h2>TEST A</h2><img src="assets/18B719FF-2F6D-4924-B5C6-BBFC3C049941.png" alt="Falkenrath test image A"></article>
+  <article class="card"><h2>TEST B</h2><img src="assets/540810C4-42AB-4A22-80C8-AD7F673352FA.png" alt="Falkenrath test image B"></article>
+  <article class="card"><h2>TEST C</h2><img src="assets/7BF1E6F0-8C7F-4B81-AF56-50CF0287569F.png" alt="Falkenrath test image C"></article>
+  <article class="card"><h2>TEST D</h2><img src="assets/AB479773-67A9-42DA-92A1-C95BD1B3A250.png" alt="Falkenrath test image D"></article>
+  <article class="card"><h2>TEST E</h2><img src="assets/C3889736-7187-4BEE-826C-E1B4FE019232.png" alt="Falkenrath test image E"></article>
+  <article class="card"><h2>TEST F</h2><img src="assets/ED6A4BB1-3087-4872-9EF3-951CEF5EFBFF.png" alt="Falkenrath test image F"></article>
+</div>
+</div>
+</body>
+</html>

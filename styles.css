@@ -597,7 +597,27 @@
 .leadership-card .eyebrow{margin-top:0}
 .leadership-note{color:#d8c59b;font-style:italic;border-top:1px solid rgba(199,164,91,.2);padding-top:10px}
 @media(max-width:950px){.leadership-grid{grid-template-columns:1fr}}
-@media(max-width:620px){.leadership-card{grid-template-columns:1fr}.leadership-card img{height:auto;max-height:none}}
+@media(max-width:620px){
+  .leadership-card{grid-template-columns:1fr;gap:12px;padding:10px;overflow:hidden}
+  .leadership-card>div{min-width:0;padding:2px 2px 4px}
+  .leadership-card img{
+    width:100%;
+    height:clamp(250px,82vw,360px);
+    min-height:0;
+    max-height:360px;
+    object-fit:cover;
+    object-position:center 18%;
+  }
+  .leadership-card h3{
+    font-size:1.12rem;
+    line-height:1.2;
+    overflow-wrap:anywhere;
+    word-break:normal;
+    margin:.12rem 0 .5rem;
+  }
+  .leadership-card p{font-size:.94rem;line-height:1.52;margin:.42rem 0}
+  .leadership-card .eyebrow{font-size:.62rem;line-height:1.4;letter-spacing:.11em;margin:0 0 .28rem}
+}
 
 
 /* Great House snapshot */

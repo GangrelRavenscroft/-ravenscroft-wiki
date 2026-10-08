@@ -1,86 +1,53 @@
 <!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
+<html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>House Veyrholm — Batch 1 Image Test</title>
 <style>
-:root{color-scheme:dark}
-*{box-sizing:border-box}
-body{margin:0;background:#0d0f14;color:#f4f0e6;font-family:Georgia,"Times New Roman",serif}
-header{padding:34px 24px 20px;text-align:center;border-bottom:1px solid #8f7336;background:#11141a}
-h1{margin:0 0 8px;font-size:clamp(28px,5vw,46px);font-weight:600;letter-spacing:.04em}
-p{margin:0;color:#cfc7b4;font-family:system-ui,-apple-system,sans-serif}
-.grid{max-width:1320px;margin:0 auto;padding:28px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
-.card{position:relative;margin:0;background:#171a20;border:1px solid #9a7b3c;padding:10px;box-shadow:0 10px 30px #0008}
-.card img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:contain;background:#222}
-.card:last-child img{aspect-ratio:4/3}
-.card figcaption{text-align:center;padding:12px 4px 4px;font-size:20px;color:#eee4cf}
-.num{position:absolute;z-index:2;top:18px;left:18px;width:54px;height:54px;border:2px solid #d5b66a;background:#0b0d12e8;display:grid;place-items:center;font:700 30px/1 system-ui;color:#fff}
-@media(max-width:850px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:520px){.grid{grid-template-columns:1fr;padding:16px}}
-</style>
-</head>
-<body>
-<header>
-<h1>House Veyrholm — Batch 1 Image Test</h1>
-<p>Compare images 1–9 here against A–I on the Batch 1 identification collage.</p>
-</header>
-<main class="grid">
-
-<figure class="card">
-  <div class="num">1</div>
-  <img src="assets/characters/karin-elisabet-veyrholm/primary-portrait.png" alt="Veyrholm Batch 1 image 1">
-  <figcaption>Image 1</figcaption>
-</figure>
-
-<figure class="card">
-  <div class="num">2</div>
-  <img src="assets/characters/linnea-margareta-veyrholm/primary-portrait.png" alt="Veyrholm Batch 1 image 2">
-  <figcaption>Image 2</figcaption>
-</figure>
-
-<figure class="card">
-  <div class="num">3</div>
-  <img src="assets/characters/anders-johan-lindholm/primary-portrait.png" alt="Veyrholm Batch 1 image 3">
-  <figcaption>Image 3</figcaption>
-</figure>
-
-<figure class="card">
-  <div class="num">4</div>
-  <img src="assets/characters/sofia-karin-veyrholm/primary-portrait.png" alt="Veyrholm Batch 1 image 4">
-  <figcaption>Image 4</figcaption>
-</figure>
-
-<figure class="card">
-  <div class="num">5</div>
-  <img src="assets/characters/nils-henrik-veyrholm/primary-portrait.png" alt="Veyrholm Batch 1 image 5">
-  <figcaption>Image 5</figcaption>
-</figure>
-
-<figure class="card">
-  <div class="num">6</div>
-  <img src="assets/characters/ebba-kristina-veyrholm/primary-portrait.png" alt="Veyrholm Batch 1 image 6">
-  <figcaption>Image 6</figcaption>
-</figure>
-
-<figure class="card">
-  <div class="num">7</div>
-  <img src="assets/characters/johan-mikael-soderberg/primary-portrait.png" alt="Veyrholm Batch 1 image 7">
-  <figcaption>Image 7</figcaption>
-</figure>
-
-<figure class="card">
-  <div class="num">8</div>
-  <img src="assets/characters/lars-gustav-veyrholm/primary-portrait.png" alt="Veyrholm Batch 1 image 8">
-  <figcaption>Image 8</figcaption>
-</figure>
-
-<figure class="card">
-  <div class="num">9</div>
-  <img src="assets/families/veyrholm-senior-family/family-portrait.png" alt="Veyrholm Batch 1 image 9">
-  <figcaption>Image 9</figcaption>
-</figure>
+:root{color-scheme:dark;--gold:#c7a45b;--cream:#f3ead9}*{box-sizing:border-box}
+body{margin:0;background:#081526;color:var(--cream);font:16px/1.5 Georgia,serif}
+main{max-width:1260px;margin:auto;padding:12px 16px 55px}
+header,.panel{background:#102038;border:1px solid #695738;padding:16px;margin:14px 0}
+h1{font-weight:400;font-size:clamp(28px,5vw,46px);margin:0 0 8px}
+h2{font-weight:400;margin:0 0 8px;font-size:23px}
+p{color:#c5ccd5;margin:7px 0 14px}
+a{color:var(--gold)}
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px}
+.card{border:1px solid #806b46;background:#15253b;min-width:0}
+.picture{display:block;position:relative;background:#06101a}
+.picture img{width:100%;height:310px;object-fit:contain;display:block}
+.picture b{position:absolute;top:8px;left:8px;background:#0c1828ed;border:1px solid var(--gold);padding:3px 11px;color:var(--gold);font-size:25px}
+.info{padding:11px}.info strong{display:block;font-weight:400;font-size:19px;margin-bottom:8px}
+select{display:block;width:100%;padding:10px 8px;background:#0a1726;color:var(--cream);border:1px solid #806b46;font:13px system-ui,sans-serif;border-radius:3px}
+.key{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.key span{border:1px solid #665738;padding:9px;background:#0b1829;font-size:13px}
+.key b{color:var(--gold);margin-right:8px}
+.buttons{display:flex;flex-wrap:wrap;gap:9px}
+button{padding:11px 17px;border-radius:3px;border:1px solid var(--gold);background:var(--gold);color:#101827;font:700 13px system-ui,sans-serif;cursor:pointer}
+button.alt{background:transparent;color:var(--gold)}
+textarea{margin-top:10px;width:100%;height:220px;padding:12px;background:#071322;color:var(--cream);font:13px/1.6 monospace;border:1px solid #665738;user-select:text;-webkit-user-select:text}
+#status{color:var(--gold);font:13px system-ui,sans-serif;min-height:20px;margin-top:9px}
+@media(max-width:850px){.grid,.key{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:550px){.grid,.key{grid-template-columns:1fr}.picture img{height:auto;max-height:480px;aspect-ratio:4/5}}
+</style></head><body><main>
+<header><h1>Veyrholm — Batch 1 Image Test</h1><p>Compare these nine newly uploaded longevity-correction portraits to your existing collage. Tap a picture to view it larger, then select A–I. Your mapping updates instantly below.</p><p><a href="houses/veyrholm.html">House Veyrholm</a> · <a href="houses/veyrholm-batch2-test.html">Batch 2 review</a></p></header>
+<section class="panel"><h2>New uploads · 01–09</h2><p>Upload numbers follow temporary GitHub filenames, not approved identities. The existing House portraits are unchanged.</p><div class="grid"><article class="card"><a class="picture" href="assets/houses/veyrholm/batch1/temp-01.png" target="_blank"><img loading="eager" src="assets/houses/veyrholm/batch1/temp-01.png" alt="Veyrholm new upload 01"><b>01</b></a><div class="info"><strong>Image 01</strong><select data-n="01" aria-label="Identity of image 01"><option value="">Identify image...</option><option value="A">A — Jarl Karin Elisabet Veyrholm</option><option value="B">B — Dr. Anders Johan Lindholm</option><option value="C">C — Sofia Karin Veyrholm</option><option value="D">D — Johan Mikael Söderberg</option><option value="E">E — Nils Henrik Veyrholm</option><option value="F">F — Dr. Linnea Margareta Veyrholm</option><option value="G">G — Dr. Ebba Kristina Veyrholm</option><option value="H">H — Lars Gustav Veyrholm</option><option value="I">I — Senior Family Group Portrait</option></select></div></article><article class="card"><a class="picture" href="assets/houses/veyrholm/batch1/temp-02.png" target="_blank"><img loading="eager" src="assets/houses/veyrholm/batch1/temp-02.png" alt="Veyrholm new upload 02"><b>02</b></a><div class="info"><strong>Image 02</strong><select data-n="02" aria-label="Identity of image 02"><option value="">Identify image...</option><option value="A">A — Jarl Karin Elisabet Veyrholm</option><option value="B">B — Dr. Anders Johan Lindholm</option><option value="C">C — Sofia Karin Veyrholm</option><option value="D">D — Johan Mikael Söderberg</option><option value="E">E — Nils Henrik Veyrholm</option><option value="F">F — Dr. Linnea Margareta Veyrholm</option><option value="G">G — Dr. Ebba Kristina Veyrholm</option><option value="H">H — Lars Gustav Veyrholm</option><option value="I">I — Senior Family Group Portrait</option></select></div></article><article class="card"><a class="picture" href="assets/houses/veyrholm/batch1/temp-03.png" target="_blank"><img loading="eager" src="assets/houses/veyrholm/batch1/temp-03.png" alt="Veyrholm new upload 03"><b>03</b></a><div class="info"><strong>Image 03</strong><select data-n="03" aria-label="Identity of image 03"><option value="">Identify image...</option><option value="A">A — Jarl Karin Elisabet Veyrholm</option><option value="B">B — Dr. Anders Johan Lindholm</option><option value="C">C — Sofia Karin Veyrholm</option><option value="D">D — Johan Mikael Söderberg</option><option value="E">E — Nils Henrik Veyrholm</option><option value="F">F — Dr. Linnea Margareta Veyrholm</option><option value="G">G — Dr. Ebba Kristina Veyrholm</option><option value="H">H — Lars Gustav Veyrholm</option><option value="I">I — Senior Family Group Portrait</option></select></div></article><article class="card"><a class="picture" href="assets/houses/veyrholm/batch1/temp-04.png" target="_blank"><img loading="lazy" src="assets/houses/veyrholm/batch1/temp-04.png" alt="Veyrholm new upload 04"><b>04</b></a><div class="info"><strong>Image 04</strong><select data-n="04" aria-label="Identity of image 04"><option value="">Identify image...</option><option value="A">A — Jarl Karin Elisabet Veyrholm</option><option value="B">B — Dr. Anders Johan Lindholm</option><option value="C">C — Sofia Karin Veyrholm</option><option value="D">D — Johan Mikael Söderberg</option><option value="E">E — Nils Henrik Veyrholm</option><option value="F">F — Dr. Linnea Margareta Veyrholm</option><option value="G">G — Dr. Ebba Kristina Veyrholm</option><option value="H">H — Lars Gustav Veyrholm</option><option value="I">I — Senior Family Group Portrait</option></select></div></article><article class="card"><a class="picture" href="assets/houses/veyrholm/batch1/temp-05.png" target="_blank"><img loading="lazy" src="assets/houses/veyrholm/batch1/temp-05.png" alt="Veyrholm new upload 05"><b>05</b></a><div class="info"><strong>Image 05</strong><select data-n="05" aria-label="Identity of image 05"><option value="">Identify image...</option><option value="A">A — Jarl Karin Elisabet Veyrholm</option><option value="B">B — Dr. Anders Johan Lindholm</option><option value="C">C — Sofia Karin Veyrholm</option><option value="D">D — Johan Mikael Söderberg</option><option value="E">E — Nils Henrik Veyrholm</option><option value="F">F — Dr. Linnea Margareta Veyrholm</option><option value="G">G — Dr. Ebba Kristina Veyrholm</option><option value="H">H — Lars Gustav Veyrholm</option><option value="I">I — Senior Family Group Portrait</option></select></div></article><article class="card"><a class="picture" href="assets/houses/veyrholm/batch1/temp-06.png" target="_blank"><img loading="lazy" src="assets/houses/veyrholm/batch1/temp-06.png" alt="Veyrholm new upload 06"><b>06</b></a><div class="info"><strong>Image 06</strong><select data-n="06" aria-label="Identity of image 06"><option value="">Identify image...</option><option value="A">A — Jarl Karin Elisabet Veyrholm</option><option value="B">B — Dr. Anders Johan Lindholm</option><option value="C">C — Sofia Karin Veyrholm</option><option value="D">D — Johan Mikael Söderberg</option><option value="E">E — Nils Henrik Veyrholm</option><option value="F">F — Dr. Linnea Margareta Veyrholm</option><option value="G">G — Dr. Ebba Kristina Veyrholm</option><option value="H">H — Lars Gustav Veyrholm</option><option value="I">I — Senior Family Group Portrait</option></select></div></article><article class="card"><a class="picture" href="assets/houses/veyrholm/batch1/temp-07.png" target="_blank"><img loading="lazy" src="assets/houses/veyrholm/batch1/temp-07.png" alt="Veyrholm new upload 07"><b>07</b></a><div class="info"><strong>Image 07</strong><select data-n="07" aria-label="Identity of image 07"><option value="">Identify image...</option><option value="A">A — Jarl Karin Elisabet Veyrholm</option><option value="B">B — Dr. Anders Johan Lindholm</option><option value="C">C — Sofia Karin Veyrholm</option><option value="D">D — Johan Mikael Söderberg</option><option value="E">E — Nils Henrik Veyrholm</option><option value="F">F — Dr. Linnea Margareta Veyrholm</option><option value="G">G — Dr. Ebba Kristina Veyrholm</option><option value="H">H — Lars Gustav Veyrholm</option><option value="I">I — Senior Family Group Portrait</option></select></div></article><article class="card"><a class="picture" href="assets/houses/veyrholm/batch1/temp-08.png" target="_blank"><img loading="lazy" src="assets/houses/veyrholm/batch1/temp-08.png" alt="Veyrholm new upload 08"><b>08</b></a><div class="info"><strong>Image 08</strong><select data-n="08" aria-label="Identity of image 08"><option value="">Identify image...</option><option value="A">A — Jarl Karin Elisabet Veyrholm</option><option value="B">B — Dr. Anders Johan Lindholm</option><option value="C">C — Sofia Karin Veyrholm</option><option value="D">D — Johan Mikael Söderberg</option><option value="E">E — Nils Henrik Veyrholm</option><option value="F">F — Dr. Linnea Margareta Veyrholm</option><option value="G">G — Dr. Ebba Kristina Veyrholm</option><option value="H">H — Lars Gustav Veyrholm</option><option value="I">I — Senior Family Group Portrait</option></select></div></article><article class="card"><a class="picture" href="assets/houses/veyrholm/batch1/temp-09.png" target="_blank"><img loading="lazy" src="assets/houses/veyrholm/batch1/temp-09.png" alt="Veyrholm new upload 09"><b>09</b></a><div class="info"><strong>Image 09</strong><select data-n="09" aria-label="Identity of image 09"><option value="">Identify image...</option><option value="A">A — Jarl Karin Elisabet Veyrholm</option><option value="B">B — Dr. Anders Johan Lindholm</option><option value="C">C — Sofia Karin Veyrholm</option><option value="D">D — Johan Mikael Söderberg</option><option value="E">E — Nils Henrik Veyrholm</option><option value="F">F — Dr. Linnea Margareta Veyrholm</option><option value="G">G — Dr. Ebba Kristina Veyrholm</option><option value="H">H — Lars Gustav Veyrholm</option><option value="I">I — Senior Family Group Portrait</option></select></div></article></div></section>
+<section class="panel"><h2>Character key</h2><div class="key"><span><b>A</b> Jarl Karin Elisabet Veyrholm</span><span><b>B</b> Dr. Anders Johan Lindholm</span><span><b>C</b> Sofia Karin Veyrholm</span><span><b>D</b> Johan Mikael Söderberg</span><span><b>E</b> Nils Henrik Veyrholm</span><span><b>F</b> Dr. Linnea Margareta Veyrholm</span><span><b>G</b> Dr. Ebba Kristina Veyrholm</span><span><b>H</b> Lars Gustav Veyrholm</span><span><b>I</b> Senior Family Group Portrait</span></div></section>
+<section class="panel"><h2>Identification mapping</h2><p>Assign each image above. Copy or share the result back in ChatGPT.</p><div class="buttons"><button id="copy">Copy mapping</button><button class="alt" id="share">Share mapping</button><button class="alt" id="select">Select text</button><button class="alt" id="reset">Reset</button></div><div id="status" role="status"></div><textarea id="mapping" readonly></textarea></section>
 </main>
-</body>
-</html>
+<script>
+const names=["Jarl Karin Elisabet Veyrholm","Dr. Anders Johan Lindholm","Sofia Karin Veyrholm","Johan Mikael Söderberg","Nils Henrik Veyrholm","Dr. Linnea Margareta Veyrholm","Dr. Ebba Kristina Veyrholm","Lars Gustav Veyrholm","Senior Family Group Portrait"];
+const fields=[...document.querySelectorAll('select[data-n]')];
+const mapping=document.getElementById('mapping');
+const status=document.getElementById('status');
+const storeKey='veyrholm-batch1-identity-v3';
+let saved={};
+try{saved=JSON.parse(localStorage.getItem(storeKey)||'{}')}catch(e){}
+function update(){mapping.value='House Veyrholm Batch 1 — image identification\n'+fields.map(f=>'Image '+f.dataset.n+' = '+(f.value?f.value+' — '+names['ABCDEFGHI'.indexOf(f.value)]:'Unassigned')).join('\n');status.textContent=fields.filter(f=>f.value).length+' / 9 matched.'}
+fields.forEach(f=>{f.value=saved[f.dataset.n]||'';f.addEventListener('change',()=>{saved[f.dataset.n]=f.value;try{localStorage.setItem(storeKey,JSON.stringify(saved))}catch(e){}update()})});
+update();
+function selectText(){mapping.focus();mapping.select();mapping.setSelectionRange(0,mapping.value.length)}
+document.getElementById('copy').onclick=()=>{selectText();let ok=false;try{ok=document.execCommand('copy')}catch(e){}if(ok){status.textContent='Mapping copied.';return}if(navigator.clipboard){navigator.clipboard.writeText(mapping.value).then(()=>status.textContent='Mapping copied.').catch(()=>status.textContent='Text selected; use Copy in your browser.')}else status.textContent='Text selected; use Copy in your browser.'};
+document.getElementById('share').onclick=()=>{if(navigator.share){navigator.share({title:'Veyrholm Batch 1 mapping',text:mapping.value}).catch(()=>{})}else{selectText();status.textContent='Text selected to copy.'}};
+document.getElementById('select').onclick=()=>{selectText();status.textContent='Text selected to copy.'};
+document.getElementById('reset').onclick=()=>{saved={};fields.forEach(f=>f.value='');try{localStorage.removeItem(storeKey)}catch(e){}update()};
+</script></body></html>

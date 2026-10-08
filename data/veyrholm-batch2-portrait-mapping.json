@@ -1,0 +1,79 @@
+{
+  "house": "House Veyrholm",
+  "batch": 2,
+  "approval": "2026-10-07",
+  "mapping": [
+    {
+      "original_image_number": "01",
+      "letter": "A",
+      "name": "Erik Johan Veyrholm",
+      "role": "Chancellor of External Relations",
+      "asset_path": "assets/characters/erik-johan-veyrholm/primary-portrait.png",
+      "blob_sha": "a623887924a748949aa24b382418fe737f8a1c55"
+    },
+    {
+      "original_image_number": "02",
+      "letter": "C",
+      "name": "Magnus Rolf Veyrholm",
+      "role": "Warden of Security & Signals",
+      "asset_path": "assets/characters/magnus-rolf-veyrholm/primary-portrait.png",
+      "blob_sha": "f3f8938299ca0611d5ad66cd669cf8c8170c3e9c"
+    },
+    {
+      "original_image_number": "03",
+      "letter": "D",
+      "name": "Dr. Freja Maria Andersson",
+      "role": "Steward of Capital & Risk",
+      "asset_path": "assets/characters/freja-maria-andersson/primary-portrait.png",
+      "blob_sha": "938f8dabbd1ace39f14d9e366e0c53c1fdcfa1f6"
+    },
+    {
+      "original_image_number": "04",
+      "letter": "F",
+      "name": "Astrid Margrethe Veyrholm",
+      "role": "Head of the Øresund Line",
+      "asset_path": "assets/characters/astrid-margrethe-veyrholm/primary-portrait.png",
+      "blob_sha": "0fed860fa9bfd80ede1c90b706130ee9cdefcb41"
+    },
+    {
+      "original_image_number": "05",
+      "letter": "E",
+      "name": "Gustav Henrik Veyrholm",
+      "role": "Head of the Kalmar Line",
+      "asset_path": "assets/characters/gustav-henrik-veyrholm/primary-portrait.png",
+      "blob_sha": "adc7f35798e2202842e8a65f3f8fb5ba31fe396b"
+    },
+    {
+      "original_image_number": "06",
+      "letter": "H",
+      "name": "Maarja Kristina Veyrholm",
+      "role": "Head of the Reval Line",
+      "asset_path": "assets/characters/maarja-kristina-veyrholm/primary-portrait.png",
+      "blob_sha": "75d0d5fa9889a68fc30c89affd51b13baf52505b"
+    },
+    {
+      "original_image_number": "07",
+      "letter": "G",
+      "name": "Dr. Henrik Lars Veyrholm",
+      "role": "Head of the Åbo Line",
+      "asset_path": "assets/characters/henrik-lars-veyrholm/primary-portrait.png",
+      "blob_sha": "399cb38bb6605a7533d35b92f2b85b0df6458ad1"
+    },
+    {
+      "original_image_number": "08",
+      "letter": "B",
+      "name": "Anja Marie Kristiansen",
+      "role": "Steward of Routes & Holdings",
+      "asset_path": "assets/characters/anja-marie-kristiansen/primary-portrait.png",
+      "blob_sha": "8fb4ae1fdebe446b532c7b3475595ef4237eea3f"
+    },
+    {
+      "original_image_number": "09",
+      "letter": "I",
+      "name": "Four Cadet Heads",
+      "role": "Gustav, Astrid, Henrik & Maarja at Veyrholm Keep",
+      "asset_path": "assets/families/veyrholm-cadet-heads/family-portrait.png",
+      "blob_sha": "7a65f971dbd0ab2a073685274c0ad8daa8c175a7"
+    }
+  ]
+}

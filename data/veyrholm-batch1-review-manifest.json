@@ -1,0 +1,62 @@
+{
+  "house": "Veyrholm",
+  "batch": 1,
+  "status": "awaiting identification",
+  "numbering": "alphabetical original uploaded filenames",
+  "files": [
+    {
+      "number": "01",
+      "original_name": "0262AA39-7E53-4C35-B9A0-BC4550DD8A49.png",
+      "sha": "3ddc30079e515046854539820e7195c6f1a97f7c",
+      "review_path": "assets/houses/veyrholm/batch1/temp-01.png"
+    },
+    {
+      "number": "02",
+      "original_name": "10DFF501-3053-4A30-987B-1A8AA7178C50.png",
+      "sha": "64750d6399fa1367f8a97704c538e2b0b2064b88",
+      "review_path": "assets/houses/veyrholm/batch1/temp-02.png"
+    },
+    {
+      "number": "03",
+      "original_name": "23C986AC-80F6-466B-8C76-D9EA60B5541B.png",
+      "sha": "2e559e6451fe96ad4cfc5e56eb5dae64b221a61f",
+      "review_path": "assets/houses/veyrholm/batch1/temp-03.png"
+    },
+    {
+      "number": "04",
+      "original_name": "728F7913-4633-4D46-8604-5BD36C1E35E7.png",
+      "sha": "53bbb6f4b66853d524d3fbd10ec8b8278dee48ea",
+      "review_path": "assets/houses/veyrholm/batch1/temp-04.png"
+    },
+    {
+      "number": "05",
+      "original_name": "A3826E8C-C2AA-4FB1-A3B4-999DF6CB6975.png",
+      "sha": "b238731c893e9b61440743480c8f237e3a3585cb",
+      "review_path": "assets/houses/veyrholm/batch1/temp-05.png"
+    },
+    {
+      "number": "06",
+      "original_name": "D0C7A096-17E6-4730-AD06-55F64DE1092E.png",
+      "sha": "561ac9dac5ffcdfa956a47f72d5152f69d5ede7c",
+      "review_path": "assets/houses/veyrholm/batch1/temp-06.png"
+    },
+    {
+      "number": "07",
+      "original_name": "D6A868C6-64B8-4EBC-A148-2D7DBE22917A.png",
+      "sha": "da5c39447b33e167cf00e5195b2087a70cc95511",
+      "review_path": "assets/houses/veyrholm/batch1/temp-07.png"
+    },
+    {
+      "number": "08",
+      "original_name": "ED64E241-B96B-41A3-BC6B-278C32977D42.png",
+      "sha": "17fd2b3b5094b588d276a857a4d55a42eef817ea",
+      "review_path": "assets/houses/veyrholm/batch1/temp-08.png"
+    },
+    {
+      "number": "09",
+      "original_name": "F1B47B43-1DF1-4775-AE16-9101D8EE060F.png",
+      "sha": "efd16a9d0c17dbad4dede85309cc68b73d45ddcb",
+      "review_path": "assets/houses/veyrholm/batch1/temp-09.png"
+    }
+  ]
+}

@@ -6,7 +6,7 @@ title: Veyrholm Batch 1 Longevity Portrait Review
 
 **Nine uploaded portraits · temporary identification · original House portraits unchanged.**
 
-These are the newly uploaded longevity-correction images, sorted by GitHub upload filename, **not** by assumed character identity. Select or zoom each image, then send back the nine image numbers with their A–I identities.
+These are the newly uploaded longevity-correction images, ordered by their original one-by-one upload timestamps to follow the **01–09 order of your Batch 1 collage**. Select or zoom each image, then send back the nine image numbers with their A–I identities.
 
 [Return to House Veyrholm](./veyrholm.html) · [Batch 2 identification](./veyrholm-batch2-test.html)
 
@@ -14,55 +14,55 @@ These are the newly uploaded longevity-correction images, sorted by GitHub uploa
 
 ### Image 01
 
-[![Veyrholm Batch 1 — image 01](../assets/houses/veyrholm/batch1/temp-01.png)](../assets/houses/veyrholm/batch1/temp-01.png)
+[![Veyrholm Batch 1 — image 01](../assets/houses/veyrholm/batch1/temp-01.png?v=collage4)](../assets/houses/veyrholm/batch1/temp-01.png?v=collage4)
 
-*Original upload 0262AA39…png · awaiting identification.*
+*Original upload 728F7913…png · awaiting identification.*
 
 ### Image 02
 
-[![Veyrholm Batch 1 — image 02](../assets/houses/veyrholm/batch1/temp-02.png)](../assets/houses/veyrholm/batch1/temp-02.png)
+[![Veyrholm Batch 1 — image 02](../assets/houses/veyrholm/batch1/temp-02.png?v=collage4)](../assets/houses/veyrholm/batch1/temp-02.png?v=collage4)
 
 *Original upload 10DFF501…png · awaiting identification.*
 
 ### Image 03
 
-[![Veyrholm Batch 1 — image 03](../assets/houses/veyrholm/batch1/temp-03.png)](../assets/houses/veyrholm/batch1/temp-03.png)
+[![Veyrholm Batch 1 — image 03](../assets/houses/veyrholm/batch1/temp-03.png?v=collage4)](../assets/houses/veyrholm/batch1/temp-03.png?v=collage4)
 
 *Original upload 23C986AC…png · awaiting identification.*
 
 ### Image 04
 
-[![Veyrholm Batch 1 — image 04](../assets/houses/veyrholm/batch1/temp-04.png)](../assets/houses/veyrholm/batch1/temp-04.png)
+[![Veyrholm Batch 1 — image 04](../assets/houses/veyrholm/batch1/temp-04.png?v=collage4)](../assets/houses/veyrholm/batch1/temp-04.png?v=collage4)
 
-*Original upload 728F7913…png · awaiting identification.*
+*Original upload 0262AA39…png · awaiting identification.*
 
 ### Image 05
 
-[![Veyrholm Batch 1 — image 05](../assets/houses/veyrholm/batch1/temp-05.png)](../assets/houses/veyrholm/batch1/temp-05.png)
+[![Veyrholm Batch 1 — image 05](../assets/houses/veyrholm/batch1/temp-05.png?v=collage4)](../assets/houses/veyrholm/batch1/temp-05.png?v=collage4)
 
 *Original upload A3826E8C…png · awaiting identification.*
 
 ### Image 06
 
-[![Veyrholm Batch 1 — image 06](../assets/houses/veyrholm/batch1/temp-06.png)](../assets/houses/veyrholm/batch1/temp-06.png)
+[![Veyrholm Batch 1 — image 06](../assets/houses/veyrholm/batch1/temp-06.png?v=collage4)](../assets/houses/veyrholm/batch1/temp-06.png?v=collage4)
 
 *Original upload D0C7A096…png · awaiting identification.*
 
 ### Image 07
 
-[![Veyrholm Batch 1 — image 07](../assets/houses/veyrholm/batch1/temp-07.png)](../assets/houses/veyrholm/batch1/temp-07.png)
+[![Veyrholm Batch 1 — image 07](../assets/houses/veyrholm/batch1/temp-07.png?v=collage4)](../assets/houses/veyrholm/batch1/temp-07.png?v=collage4)
 
 *Original upload D6A868C6…png · awaiting identification.*
 
 ### Image 08
 
-[![Veyrholm Batch 1 — image 08](../assets/houses/veyrholm/batch1/temp-08.png)](../assets/houses/veyrholm/batch1/temp-08.png)
+[![Veyrholm Batch 1 — image 08](../assets/houses/veyrholm/batch1/temp-08.png?v=collage4)](../assets/houses/veyrholm/batch1/temp-08.png?v=collage4)
 
 *Original upload ED64E241…png · awaiting identification.*
 
 ### Image 09
 
-[![Veyrholm Batch 1 — image 09](../assets/houses/veyrholm/batch1/temp-09.png)](../assets/houses/veyrholm/batch1/temp-09.png)
+[![Veyrholm Batch 1 — image 09](../assets/houses/veyrholm/batch1/temp-09.png?v=collage4)](../assets/houses/veyrholm/batch1/temp-09.png?v=collage4)
 
 *Original upload F1B47B43…png · awaiting identification.*
 

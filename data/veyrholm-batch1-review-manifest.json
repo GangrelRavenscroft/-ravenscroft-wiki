@@ -1,61 +1,89 @@
 {
   "house": "Veyrholm",
   "batch": 1,
-  "status": "awaiting identification",
-  "numbering": "alphabetical original uploaded filenames",
+  "status": "awaiting final user confirmation",
+  "numbering": "01-09 collage sequence, aligned to ascending original GitHub upload commit timestamps",
+  "correction": "Replaces incorrect alphabetic UUID ordering in v1",
   "files": [
     {
       "number": "01",
-      "original_name": "0262AA39-7E53-4C35-B9A0-BC4550DD8A49.png",
-      "sha": "3ddc30079e515046854539820e7195c6f1a97f7c",
+      "expected_collage_identity": "A",
+      "expected_character": "Jarl Karin Elisabet Veyrholm",
+      "original_name": "A3826E8C-C2AA-4FB1-A3B4-999DF6CB6975.png",
+      "sha": "b238731c893e9b61440743480c8f237e3a3585cb",
+      "upload_timestamp_utc": "2026-10-08T19:14:33Z",
       "review_path": "assets/houses/veyrholm/batch1/temp-01.png"
     },
     {
       "number": "02",
+      "expected_collage_identity": "B",
+      "expected_character": "Dr. Anders Johan Lindholm",
       "original_name": "10DFF501-3053-4A30-987B-1A8AA7178C50.png",
       "sha": "64750d6399fa1367f8a97704c538e2b0b2064b88",
+      "upload_timestamp_utc": "2026-10-08T19:20:20Z",
       "review_path": "assets/houses/veyrholm/batch1/temp-02.png"
     },
     {
       "number": "03",
+      "expected_collage_identity": "C",
+      "expected_character": "Sofia Karin Veyrholm",
       "original_name": "23C986AC-80F6-466B-8C76-D9EA60B5541B.png",
       "sha": "2e559e6451fe96ad4cfc5e56eb5dae64b221a61f",
+      "upload_timestamp_utc": "2026-10-08T19:21:30Z",
       "review_path": "assets/houses/veyrholm/batch1/temp-03.png"
     },
     {
       "number": "04",
-      "original_name": "728F7913-4633-4D46-8604-5BD36C1E35E7.png",
-      "sha": "53bbb6f4b66853d524d3fbd10ec8b8278dee48ea",
+      "expected_collage_identity": "D",
+      "expected_character": "Johan Mikael Söderberg",
+      "original_name": "D0C7A096-17E6-4730-AD06-55F64DE1092E.png",
+      "sha": "561ac9dac5ffcdfa956a47f72d5152f69d5ede7c",
+      "upload_timestamp_utc": "2026-10-08T19:22:27Z",
       "review_path": "assets/houses/veyrholm/batch1/temp-04.png"
     },
     {
       "number": "05",
-      "original_name": "A3826E8C-C2AA-4FB1-A3B4-999DF6CB6975.png",
-      "sha": "b238731c893e9b61440743480c8f237e3a3585cb",
+      "expected_collage_identity": "E",
+      "expected_character": "Nils Henrik Veyrholm",
+      "original_name": "ED64E241-B96B-41A3-BC6B-278C32977D42.png",
+      "sha": "17fd2b3b5094b588d276a857a4d55a42eef817ea",
+      "upload_timestamp_utc": "2026-10-08T19:24:16Z",
       "review_path": "assets/houses/veyrholm/batch1/temp-05.png"
     },
     {
       "number": "06",
-      "original_name": "D0C7A096-17E6-4730-AD06-55F64DE1092E.png",
-      "sha": "561ac9dac5ffcdfa956a47f72d5152f69d5ede7c",
+      "expected_collage_identity": "F",
+      "expected_character": "Dr. Linnea Margareta Veyrholm",
+      "original_name": "0262AA39-7E53-4C35-B9A0-BC4550DD8A49.png",
+      "sha": "3ddc30079e515046854539820e7195c6f1a97f7c",
+      "upload_timestamp_utc": "2026-10-08T19:25:27Z",
       "review_path": "assets/houses/veyrholm/batch1/temp-06.png"
     },
     {
       "number": "07",
-      "original_name": "D6A868C6-64B8-4EBC-A148-2D7DBE22917A.png",
-      "sha": "da5c39447b33e167cf00e5195b2087a70cc95511",
+      "expected_collage_identity": "G",
+      "expected_character": "Dr. Ebba Kristina Veyrholm",
+      "original_name": "F1B47B43-1DF1-4775-AE16-9101D8EE060F.png",
+      "sha": "efd16a9d0c17dbad4dede85309cc68b73d45ddcb",
+      "upload_timestamp_utc": "2026-10-08T19:27:03Z",
       "review_path": "assets/houses/veyrholm/batch1/temp-07.png"
     },
     {
       "number": "08",
-      "original_name": "ED64E241-B96B-41A3-BC6B-278C32977D42.png",
-      "sha": "17fd2b3b5094b588d276a857a4d55a42eef817ea",
+      "expected_collage_identity": "H",
+      "expected_character": "Lars Gustav Veyrholm",
+      "original_name": "728F7913-4633-4D46-8604-5BD36C1E35E7.png",
+      "sha": "53bbb6f4b66853d524d3fbd10ec8b8278dee48ea",
+      "upload_timestamp_utc": "2026-10-08T19:28:19Z",
       "review_path": "assets/houses/veyrholm/batch1/temp-08.png"
     },
     {
       "number": "09",
-      "original_name": "F1B47B43-1DF1-4775-AE16-9101D8EE060F.png",
-      "sha": "efd16a9d0c17dbad4dede85309cc68b73d45ddcb",
+      "expected_collage_identity": "I",
+      "expected_character": "Senior Family Group Portrait",
+      "original_name": "D6A868C6-64B8-4EBC-A148-2D7DBE22917A.png",
+      "sha": "da5c39447b33e167cf00e5195b2087a70cc95511",
+      "upload_timestamp_utc": "2026-10-08T19:31:20Z",
       "review_path": "assets/houses/veyrholm/batch1/temp-09.png"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "house": "House Veyrholm",
   "batch": 3,
-  "status": "identification-review",
+  "status": "identities-confirmed-and-assets-filed",
   "category": "House, Historical & Institutional Visuals",
   "upload_commits": [
     "a39f6b19d365f6383f3e94bbe72fa2470321eca5",
@@ -10,66 +10,75 @@
   "images": [
     {
       "number": 1,
-      "uploaded_from": "assets/63D80B84-48A5-45F1-B4D0-367F3C559318.png",
-      "review_path": "assets/houses/veyrholm/batch3/review-01.png",
-      "blob_sha": "8b60e28c587db0273398e36805161139e85c5499",
-      "confirmed_identity": null
+      "confirmed_identity": "A",
+      "title": "Full House Veyrholm heraldic achievement",
+      "former_review_path": "assets/houses/veyrholm/batch3/review-01.png",
+      "final_path": "assets/houses/veyrholm/crest-full-heraldic.png",
+      "blob_sha": "8b60e28c587db0273398e36805161139e85c5499"
     },
     {
       "number": 2,
-      "uploaded_from": "assets/90517E08-D1C6-46F1-8C9E-845D9E74A2D1.png",
-      "review_path": "assets/houses/veyrholm/ancestral-estate.png",
-      "blob_sha": "fe591d04f126e5416e79f9e03bdfa674831d82c5",
-      "confirmed_identity": "B"
+      "confirmed_identity": "B",
+      "title": "Veyrholm Keep — exterior",
+      "former_review_path": "assets/houses/veyrholm/ancestral-estate.png",
+      "final_path": "assets/houses/veyrholm/ancestral-estate.png",
+      "blob_sha": "fe591d04f126e5416e79f9e03bdfa674831d82c5"
     },
     {
       "number": 3,
-      "uploaded_from": "assets/C46AE9B5-4EB4-4BBB-9F69-E56FEAB3154D.png",
-      "review_path": "assets/houses/veyrholm/batch3/review-03.png",
-      "blob_sha": "48b76c13ea838b923b9c2c215583652480ad1797",
-      "confirmed_identity": null
+      "confirmed_identity": "C",
+      "title": "The Chart Room",
+      "former_review_path": "assets/houses/veyrholm/batch3/review-03.png",
+      "final_path": "assets/houses/veyrholm/chart-room.png",
+      "blob_sha": "48b76c13ea838b923b9c2c215583652480ad1797"
     },
     {
       "number": 4,
-      "uploaded_from": "assets/C9CDF608-1EA7-4265-B5F0-88144B57D815.png",
-      "review_path": "assets/houses/veyrholm/batch3/review-04.png",
-      "blob_sha": "d9c20e3a1da0f68041b4c8610915d8bc74e4b8ac",
-      "confirmed_identity": null
+      "confirmed_identity": "D",
+      "title": "Veyrholm House, Stockholm",
+      "former_review_path": "assets/houses/veyrholm/batch3/review-04.png",
+      "final_path": "assets/locations/veyrholm-house-stockholm/exterior.png",
+      "blob_sha": "d9c20e3a1da0f68041b4c8610915d8bc74e4b8ac"
     },
     {
       "number": 5,
-      "uploaded_from": "assets/2B30A89F-23CB-4532-89A4-DC4B548D8A18.png",
-      "review_path": "assets/houses/veyrholm/batch3/review-05.png",
-      "blob_sha": "9a107718cbc94cf20e5a22903f7a4e2b00cd5389",
-      "confirmed_identity": null
+      "confirmed_identity": "I",
+      "title": "Bearings Office / modern route intelligence",
+      "former_review_path": "assets/houses/veyrholm/batch3/review-05.png",
+      "final_path": "assets/houses/veyrholm/bearings-office.png",
+      "blob_sha": "9a107718cbc94cf20e5a22903f7a4e2b00cd5389"
     },
     {
       "number": 6,
-      "uploaded_from": "assets/4A46440B-43D0-485C-8F05-393BFE2DAA74.png",
-      "review_path": "assets/houses/veyrholm/batch3/review-06.png",
-      "blob_sha": "89ff6ecd7d83ec6c963bba53d94eddfce72a89c3",
-      "confirmed_identity": null
+      "confirmed_identity": "H",
+      "title": "1361–1362 Ingrid succession scene",
+      "former_review_path": "assets/houses/veyrholm/batch3/review-06.png",
+      "final_path": "assets/houses/veyrholm/ingrid-succession-1361-1362.png",
+      "blob_sha": "89ff6ecd7d83ec6c963bba53d94eddfce72a89c3"
     },
     {
       "number": 7,
-      "uploaded_from": "assets/7D8D291D-5E68-4361-AC3B-0E04F1423C8D.png",
-      "review_path": "assets/houses/veyrholm/batch3/review-07.png",
-      "blob_sha": "6be931fad0225fc2bd5a864894fba5ee20122204",
-      "confirmed_identity": null
+      "confirmed_identity": "G",
+      "title": "Viking-age Veyrholm ancestry scene",
+      "former_review_path": "assets/houses/veyrholm/batch3/review-07.png",
+      "final_path": "assets/houses/veyrholm/viking-age-ancestry-c980-1000.png",
+      "blob_sha": "6be931fad0225fc2bd5a864894fba5ee20122204"
     },
     {
       "number": 8,
-      "uploaded_from": "assets/B4F64F94-05A5-459C-9532-E78B4ABFC467.png",
-      "review_path": "assets/houses/veyrholm/batch3/review-08.png",
-      "blob_sha": "07eb67a261b14b35e14091477506cf03addeea87",
-      "confirmed_identity": null
+      "confirmed_identity": "E",
+      "title": "Strandgården",
+      "former_review_path": "assets/houses/veyrholm/batch3/review-08.png",
+      "final_path": "assets/locations/strandgarden/exterior.png",
+      "blob_sha": "07eb67a261b14b35e14091477506cf03addeea87"
     },
     {
       "number": 9,
-      "uploaded_from": "assets/FC8A53B0-4491-4133-BB55-F9A1A07F7CCD.png",
-      "review_path": "assets/houses/veyrholm/batch3/review-09.png",
-      "blob_sha": "f7d902eeefb1473d51e873b1e6f53bc8cde19142",
-      "confirmed_identity": null
+      "confirmed_identity": "F",
+      "title": "Lindö House",
+      "former_review_path": "assets/houses/veyrholm/batch3/review-09.png",
+      "final_path": "assets/locations/lindo-house/exterior.png",
+      "blob_sha": "f7d902eeefb1473d51e873b1e6f53bc8cde19142"
     }
   ],
   "identity_key": {
@@ -84,5 +93,22 @@
     "I": "Bearings Office / route intelligence",
     "J": "Labeled identification collage"
   },
-  "note": "Only image 02 has an exact blob SHA match with original Batch 3 B image. Remaining identities await numbered gallery review. The collage J was not separately identifiable among the nine uploaded files."
+  "note": "All nine uploaded Batch 3 images identified by user; assets moved into permanent paths. Original static image J not yet uploaded.",
+  "confirmed_mapping": {
+    "1": "A",
+    "2": "B",
+    "3": "C",
+    "4": "D",
+    "5": "I",
+    "6": "H",
+    "7": "G",
+    "8": "E",
+    "9": "F"
+  },
+  "collage": {
+    "type": "html-contact-sheet",
+    "path": "houses/veyrholm-batch3-collage.html",
+    "status": "generated-from-confirmed-A-to-I-images",
+    "note": "The originally generated static J collage was not included among the nine uploads to GitHub; this HTML page displays the approved original A–I photos without redrawing them."
+  }
 }

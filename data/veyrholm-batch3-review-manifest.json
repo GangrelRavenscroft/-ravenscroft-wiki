@@ -1,0 +1,88 @@
+{
+  "house": "House Veyrholm",
+  "batch": 3,
+  "status": "identification-review",
+  "category": "House, Historical & Institutional Visuals",
+  "upload_commits": [
+    "a39f6b19d365f6383f3e94bbe72fa2470321eca5",
+    "0473edfd295e2f88916a13435f577cbc42afb66d"
+  ],
+  "images": [
+    {
+      "number": 1,
+      "uploaded_from": "assets/63D80B84-48A5-45F1-B4D0-367F3C559318.png",
+      "review_path": "assets/houses/veyrholm/batch3/review-01.png",
+      "blob_sha": "8b60e28c587db0273398e36805161139e85c5499",
+      "confirmed_identity": null
+    },
+    {
+      "number": 2,
+      "uploaded_from": "assets/90517E08-D1C6-46F1-8C9E-845D9E74A2D1.png",
+      "review_path": "assets/houses/veyrholm/ancestral-estate.png",
+      "blob_sha": "fe591d04f126e5416e79f9e03bdfa674831d82c5",
+      "confirmed_identity": "B"
+    },
+    {
+      "number": 3,
+      "uploaded_from": "assets/C46AE9B5-4EB4-4BBB-9F69-E56FEAB3154D.png",
+      "review_path": "assets/houses/veyrholm/batch3/review-03.png",
+      "blob_sha": "48b76c13ea838b923b9c2c215583652480ad1797",
+      "confirmed_identity": null
+    },
+    {
+      "number": 4,
+      "uploaded_from": "assets/C9CDF608-1EA7-4265-B5F0-88144B57D815.png",
+      "review_path": "assets/houses/veyrholm/batch3/review-04.png",
+      "blob_sha": "d9c20e3a1da0f68041b4c8610915d8bc74e4b8ac",
+      "confirmed_identity": null
+    },
+    {
+      "number": 5,
+      "uploaded_from": "assets/2B30A89F-23CB-4532-89A4-DC4B548D8A18.png",
+      "review_path": "assets/houses/veyrholm/batch3/review-05.png",
+      "blob_sha": "9a107718cbc94cf20e5a22903f7a4e2b00cd5389",
+      "confirmed_identity": null
+    },
+    {
+      "number": 6,
+      "uploaded_from": "assets/4A46440B-43D0-485C-8F05-393BFE2DAA74.png",
+      "review_path": "assets/houses/veyrholm/batch3/review-06.png",
+      "blob_sha": "89ff6ecd7d83ec6c963bba53d94eddfce72a89c3",
+      "confirmed_identity": null
+    },
+    {
+      "number": 7,
+      "uploaded_from": "assets/7D8D291D-5E68-4361-AC3B-0E04F1423C8D.png",
+      "review_path": "assets/houses/veyrholm/batch3/review-07.png",
+      "blob_sha": "6be931fad0225fc2bd5a864894fba5ee20122204",
+      "confirmed_identity": null
+    },
+    {
+      "number": 8,
+      "uploaded_from": "assets/B4F64F94-05A5-459C-9532-E78B4ABFC467.png",
+      "review_path": "assets/houses/veyrholm/batch3/review-08.png",
+      "blob_sha": "07eb67a261b14b35e14091477506cf03addeea87",
+      "confirmed_identity": null
+    },
+    {
+      "number": 9,
+      "uploaded_from": "assets/FC8A53B0-4491-4133-BB55-F9A1A07F7CCD.png",
+      "review_path": "assets/houses/veyrholm/batch3/review-09.png",
+      "blob_sha": "f7d902eeefb1473d51e873b1e6f53bc8cde19142",
+      "confirmed_identity": null
+    }
+  ],
+  "identity_key": {
+    "A": "Full House Veyrholm heraldic achievement",
+    "B": "Veyrholm Keep — exterior",
+    "C": "The Chart Room",
+    "D": "Veyrholm House, Stockholm",
+    "E": "Strandgården",
+    "F": "Lindö House",
+    "G": "Viking-age Veyrholm ancestry (c. 980–1000)",
+    "H": "Ingrid succession (1361–1362)",
+    "I": "Bearings Office / route intelligence",
+    "J": "Labeled identification collage"
+  },
+  "note": "Only image 02 has an exact blob SHA match with original Batch 3 B image. Remaining identities await numbered gallery review. The collage J was not separately identifiable among the nine uploaded files."
+}

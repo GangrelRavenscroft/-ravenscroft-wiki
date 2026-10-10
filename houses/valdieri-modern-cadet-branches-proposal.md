@@ -69,12 +69,34 @@ The broad outline should not make every Genova descendant a villain or every Can
 - **Chiara (18)** has inherited unexpected succession responsibilities and may benefit professionally from contacts with younger scientific relatives in Canavese.
 - **Claudia and Tommaso** need not agree with one another to support continued Valdieri sovereignty. The benefit of the 1953–1956 Articles is that they can disagree within a known constitutional order rather than competing for armed authority.
 
-## IV. Matters to settle before lock
+## IV. Proposed 2026 family council and restoration governance
+
+**This is a new proposal, not canon.** The seven-seat **Consiglio di Casa Valdieri** would be a distinct House governing council, not one of the nine International Council mandates.
+
+| Seat | Proposed holder | Scope |
+|---|---|---|
+| House Head | Lorenzo Vittorio Valdieri | Final dynastic authority and Conclave Voice; succession acts remain bound by the charter |
+| Heir | Matteo Lorenzo Valdieri | Strategic operations, technical institutional development and continuity |
+| Senior Consort | Dr. Elena Beatrice Montanari Valdieri | Medical, educational and family formation oversight, with full vote by competence and appointment rather than merely marriage |
+| Genova Cadet Voice | Claudia Renata Valdieri di Genova | Branch charter representation, commercial assets and protections |
+| Canavese Cadet Voice | Tommaso Enrico Valdieri di Canavese | Industrial continuity and branch charter representation |
+| Steward of Assets | Officeholder to assign | Independently auditable financial and property reserves |
+| Warden of Constitutional Continuity | Officeholder to assign | Secure succession register, restricted archives, emergency continuity, branch mandate verification |
+
+**Proposed governing rule:** Routine council recommendations need a simple majority, but changes affecting the senior succession, cadet privileges, entire-House security chain or structural assets require five of seven approvals and proper assent of the lawful Head, subject to the Compact. Neither cadet voice is permitted to claim a separate Conclave Voice. No council vote can grant Giulia's husband power over Valdieri, undo her renunciation without constitutional revision, or displace the recognized succession by a side agreement.
+
+**Role of Giulia and Chiara:** Giulia keeps blood kinship and diplomatic standing but is excluded from constitutional succession following her marriage. The council's sensitive voting and institutional access are not inherited automatically by any spouse. Chiara is formally second successor but, being eighteen in 2026, is not yet assigned full institutional command or voting authority simply because of her place in line.
+
+**Why the system works:** 2023 recognition depends on proving this House can govern independently under its own law, maintain essential institutions when one branch dissents, and keep a legitimate line of command clear. The two cadet voices are included in normal governance while neither can seize institutions under a rival charter.
+
+**Political consequence:** Lorenzo's council would contain competing viewpoints but no credible succession ambiguity. Matteo and Tommaso might form a practical reform bloc, Elena may favor personal welfare over status, and Claudia may press for cadet dignity and fair accounting without reviving rebel claims. No obligation to make every disagreement into conspiracy.
+
+## V. Matters to settle before lock
 
 1. Approve or change Claudia, Federico and Elisa of Genova.
 2. Approve or change Tommaso, Lucia and Pietro of Canavese.
 3. Determine each cadet Head's spouse and exact relationship to the historic 1940s leaders. **Do not turn this into biographies of the Genova children sent to the mainline.**
 4. Choose the modern relative sizes of the two branches' assets, which should be far more modest than their prewar strength and remain below true Great-House autonomy.
-5. Decide how many officers from each branch sit on Valdieri's modern family council under the established postwar dynastic continuity Articles.
+5. Approve or revise the proposed seven-seat House council and distinguish council voting from hereditary succession.
 
 Names, dates, degrees, jobs, personality notes and modern House offices in this file are **proposed, not locked**.

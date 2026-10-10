@@ -56,7 +56,7 @@ This is not a point system. Extraordinary wealth, age, military strength, or pre
 
 ## Required cadet-branch relations and private loyalty architecture
 
-Every newly developed Great House **must** include a meaningful section on how its senior line relates to cadet branches, even if the family currently has no large established cadet branch. This is a standard requirement for every future House we develop and for substantial revisions of older House pages.
+Every newly developed Great House **must** include a meaningful section on how its senior line relates to cadet branches, even if the family currently has no large established cadet branch. This is a standard requirement for every future House we develop and for substantial revisions of older House pages. **Apply a proportionate version to Major and Lesser House records as well**, identifying parent-House obligations, subordinate family divisions and loyalty practices where relevant.
 
 Distinguish **formal House constitution** from **unwritten political management**:
 
@@ -67,6 +67,8 @@ Distinguish **formal House constitution** from **unwritten political management*
 5. **Distinctive temperament.** Detail how the House applies rewards, personal loyalty, status, family culture, enforceable charters, social influence, discipline and rare coercive exceptions. Distinguish what is publicly acknowledged inside the Order from what only senior members privately understand.
 6. **History and current tensions.** Include at least one concrete example of a past cadet crisis, a negotiated accommodation, a restoration of trust, or a standing source of grievance where appropriate. Identify whether a proposed practice is locked, inferred or open.
 7. **Boundaries of knowledge and authority.** Blood descent, marriage, patronage, wealth, office, Order rank, security clearance and actual covert access are separate dimensions. Junior or married-in Ravenscrofts must not automatically know historic classified operations.
+
+**World guide:** <a href="../world/cadet-houses-and-loyalty.html">Cadet Houses and Quiet Loyalty</a> is the shared worldbuilding reference for formal-vs-shadow governance. Include or cross-reference it where needed.
 
 **World-wide canon:** Following the Valdieri civil war, the ratified Articles of Dynastic Continuity provided shared succession/cadet-governance standards. Great Houses also use varied **unwritten** systems of loyalty and strategic dependence. These are common patterns, not an unofficial universal Compact. Different Houses may pursue very different approaches. Political fosterage or child wardship is not an automatic or universal House custom; Valdieri's historic Genova settlement is an exceptional coercive instance.
 

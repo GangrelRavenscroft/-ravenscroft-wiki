@@ -1,6 +1,6 @@
-# House Valdieri — The Monferrato Rebellion: Leadership, Motives and Dynastic Reforms
+# House Valdieri — The Monferrato Rebellion and Dynastic Reforms — LOCKED CANON
 
-**STATUS: HISTORICAL DEVELOPMENT PROPOSAL, NOT LOCKED CANON.** Named actors, individual dates, exact institutions and named postwar protocols below await user approval. Do not supersede established Valdieri history or the Order's existing constitutional law.
+**STATUS: LOCKED HISTORY — October 2026 canon decision.** The named historical principals, genealogical links, listed life years, branch alliances, 1922–1930 reforms, 1934–1946 civil war and 1953–1956 Articles of Dynastic Continuity are ratified. Exact individual attacks, biographies of political wards, Tribunal verdict dates and Council election dates remain open.
 
 ## Non-negotiable existing canon
 
@@ -11,7 +11,7 @@
 - The supporting surviving branch is censured, pays restitution, and sends some children to be raised and educated with the mainline as political guarantees. The individual futures of these children remain deliberately unspecified; they may have normal educated professional lives or ordinary House-support roles while sensitive access remains limited.
 - Valdieri is degraded to Major House after the war. Ravenscroft acquires the former Valdieri Council mandate through a distinct constitutional process. Lorenzo Vittorio Valdieri restores Great-House status in 2023. In 2026 Giulia Caterina Valdieri marries Elias Alexander Ravenscroft in an unequal alliance with an unspoken political-surety implication; Elias does not know Ravenscroft's covert historical involvement.
 
-## I. The leaders — proposals only
+## I. The leaders — established figures
 
 | Name | Proposed dates | Position | Motivation / defining characteristic |
 |---|---|---|---|
@@ -24,7 +24,7 @@
 | **Beatrice Elena Ferretti Valdieri** | 1908–1997 | Alessandro's wife, Lorenzo's grandmother | Preserves her son Marcello and fragments of the family record after Alessandro's death; a survivor rather than an omniscient investigator |
 | **Marcello Alessandro Valdieri** | 1933–2016 | Alessandro's son, Lorenzo's father | A child during the war; later rebuilds Major House Valdieri's institutions and passes the unfinished restoration project to Lorenzo |
 
-All dates and genealogical placement in this table are **provisional**, except previously locked Lorenzo-generation facts.
+Named historical figures, dates, relationships and roles in this table are now approved canon.
 
 ## II. Why Monferrato could really have won
 
@@ -32,7 +32,7 @@ Monferrato had spent generations accumulating productive landed and industrial r
 
 Monferrato's projected independence depended upon three things: possessing a viable operating base after separation; attracting enough cadet and senior-line defections to impair the recognized Head; and eventually proving independent sovereignty and Compact obligations over years, **not automatically inheriting Valdieri's Great-House rank or its Council seat**. Its principal leader may have preferred to gain the senior Headship first, with independent accession as a fallback if the mainline resisted.
 
-Genova's **proposed** support makes the rebellion more credible. Monferrato commands land, industrial continuity and local power; Genova provides financing and maritime/commercial networks at a time when wartime disruption threatens every House's international assets. The combination is capable of a sustained contest rather than a short uprising. Canavese's initial neutrality denies the senior Head uncontested access to another important reserve base.
+Genova's **established** support makes the rebellion more credible. Monferrato commands land, industrial continuity and local power; Genova provides financing and maritime/commercial networks at a time when wartime disruption threatens every House's international assets. The combination is capable of a sustained contest rather than a short uprising. Canavese's initial neutrality denies the senior Head uncontested access to another important reserve base.
 
 ## III. What sparked the challenge — proposed chain
 
@@ -44,11 +44,11 @@ Genova's **proposed** support makes the rebellion more credible. Monferrato comm
 
 **1938–1942: A war inside a war.** Independent House security becomes divided, outside political regimes create additional confusion, and industrial and financial institutions fracture. Ravenscroft-backed interventions disappear into genuine commercial failure, wartime loss, rival cadet violence and internal suspicion.
 
-**1943–1946: Final collapse.** Italy's real wartime ruptures worsen every faction's vulnerability. Alessandro is killed in the fighting (proposed 1944), and Beatrice protects Marcello. The senior coalition ultimately defeats Monferrato, whose complete biological bloodline is extinguished. Genova's (proposed) surrender brings sanctions, restitution and children placed as political wards in the mainline household; Canavese's (proposed) support helps preserve the shattered senior line.
+**1943–1946: Final collapse.** Italy's real wartime ruptures worsen every faction's vulnerability. Alessandro is killed in the fighting in 1944, and Beatrice protects Marcello. The senior coalition ultimately defeats Monferrato, whose complete biological bloodline is extinguished. Genova's surrender brings sanctions, restitution and children placed as political wards in the mainline household; Canavese's support helps preserve the shattered senior line.
 
 **Postwar consequences:** House Valdieri has won the civil war but cannot satisfy the Great-House independence test and is degraded. Ravenscroft displaces it on the Nine in the postwar power realignment by constitutional election. The events and identities of covert Ravenscroft operatives remain hidden.
 
-## IV. The postwar dynastic settlement — proposal
+## IV. The postwar dynastic settlement — established
 
 The senior Headship survives but recognizes two postwar truths: an ambitious cadet cannot be allowed to operate rival House institutions without defined legal authority, and overcentralization without workable cadet representation helped create the crisis.
 
@@ -56,13 +56,13 @@ The settlement provides a single authenticated line of succession; prescribed em
 
 The supporting branch's children are raised with strong education and family privileges, but their presence doubles as assurance that their branch will comply. **Do not write individualized destinies or assign them sensitive roles without further user direction.**
 
-## V. What all Houses changed afterward — proposed Compact-wide response
+## V. What all Houses changed afterward — ratified Compact-wide response
 
-**Working name:** *The Articles of Dynastic Continuity* (circa **1953–1956**, provisional; separate from Falkenrath's established **1957 Restoration Articles**). They are adopted after Valdieri's near-collapse and other wartime House crises, including Falkenrath's established 1946–1952 Review.
+**Canonical name:** *The Articles of Dynastic Continuity*, ratified during **1953–1956**; distinct from Falkenrath's established **1957 Restoration Articles**. They are adopted after Valdieri's near-collapse and other wartime House crises, including Falkenrath's established 1946–1952 Review.
 
 The response does **not** abolish cadet autonomy, place all dynastic succession under the International Council, or negate the Ravenscroft–Falkenrath precedent that a genuinely sovereign former cadet may eventually gain recognition. Every Great House retains constitutional authority to choose its own internal form; the Conclave establishes minimum evidentiary and dispute-management expectations, and individual Houses independently enact their own controls.
 
-Proposed common minima:
+Established common minimum standards:
 1. **Authenticated succession continuity.** A confidential register identifies the valid Head, successor, emergency regent and process for disputes, with verifiable attestations safeguarding against competing forged charters.
 2. **Defined cadet charters.** Each branch's estates, wealth, delegated offices, security obligations and succession rights are documented to reduce ambiguous assertions of equal command.
 3. **No private automatic accession.** A cadet may become independently sovereign only by sustained genuine independence and formal peer qualification; senior House objection cannot permanently defeat a meritorious claim.
@@ -70,15 +70,15 @@ Proposed common minima:
 5. **Continuity of critical institutions.** A House must be able to keep essential archives, security and Compact obligations operating if its Head dies or senior branches refuse cooperation.
 6. **Security-accountability safeguards.** A House should be able to determine which institution can lawfully give commands in a succession emergency and prevent rival cadet chains of authority from treating themselves as the whole House.
 
-House-specific reforms diverge: Wycliffe prefers legal and fiduciary review; Falkenrath reinforces chain of command and cadet charters; Veyrholm secures logistics access and communications authority; Ravenscroft strengthens distributed continuity and intelligence compartmentalization; Valdieri adopts a stricter central succession record, branch-asset classification and custodial oversight. These are **directions**, not enacted canon for other Houses until reviewed.
+House-specific reforms diverge: Wycliffe prefers legal and fiduciary review; Falkenrath reinforces chain of command and cadet charters; Veyrholm secures logistics access and communications authority; Ravenscroft strengthens distributed continuity and intelligence compartmentalization; Valdieri adopts a stricter central succession record, branch-asset classification and custodial oversight. These House-specific responses are canonical in broad direction; individual implementation and local article text remain available for development.
 
 **Historic irony:** Ravenscroft can publicly support continuity reforms and condemn what happened to Valdieri while concealing its own role in deepening the conflict.
 
-## VI. Review choices
+## VI. Remaining open historical details
 
-1. Retain **Cesare Ludovico** as Monferrato's 1930s leader, or make him a younger claimant more closely related to Alessandro?
-2. Approve **Genova** as the supporting branch and **Canavese** as the initially neutral/later loyal branch, or reverse the assignments?
-3. Keep the proposed **1934–1946** active civil war and a postwar **1953–1956** common reform process, or move either?
-4. Did Vittorio Carlo's succession settlement provoke genuine legal controversy, or was Cesare's grievance purely opportunistic?
+1. Identify individual deaths and which faction or outside operator committed them, without presuming all are solved.
+2. Establish the material size and institutional strength of Monferrato and Genova at their prewar height.
+3. Date Valdieri's postwar Tribunal degradation and Ravenscroft's separate Council election.
+4. Develop Genova and Canavese current families, while intentionally not giving individual outcomes to the children raised within the mainline.
 
-**No proposed name, birth/death date, relationship, Article title, deadline or exact historical election date is locked by this file.**
+**Canon boundary:** Named figures, dates, family ties, branch allegiances, 1934–1946 conflict sequence and 1953–1956 dynastic Articles are locked. Individual assassinations, children’s individual futures, Tribunal ballot dates, Council election date and precise assets remain open.

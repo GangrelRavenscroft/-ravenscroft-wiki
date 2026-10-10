@@ -21,7 +21,7 @@ The 1953–1956 Articles of Dynastic Continuity set *public constitutional stand
 | Formal return to Genova | Normally 21–24 | roughly 1953–1965 | The adult resumes primary residence with the Genova branch or another properly approved independent residence. The family announces completion of the educational placement; formal House records acknowledge full cadet membership, while normal charter limits remain in effect |
 | After return | Adulthood onward | 1950s–2026 | Ties to mainline kin may continue. Ordinary employment, independent property and routine House-related service may be available according to individual qualifications; sensitive authority requires separate trust and clearance. The earlier wardship is no longer an open-ended physical custody arrangement |
 
-**Typical individual placement: roughly 8–15 years.** A child arriving at 13 might formally return by 21 or 22; a child arriving at 6 might remain until 21 or 22. Some might be away at university for much of the later period, without terminating the household affiliation. This is a **recommended range**, not a universal statutory requirement.
+**Typical individual placement: roughly 8–17 years, depending on age at arrival.** A child arriving at 13 might formally return by 21 or 22; a child arriving at 6 might remain until 21 or 22. Some might be away at university for much of the later period, without terminating the household affiliation. This is a **recommended range**, not a universal statutory requirement.
 
 ### Contact with Genova during the placement
 

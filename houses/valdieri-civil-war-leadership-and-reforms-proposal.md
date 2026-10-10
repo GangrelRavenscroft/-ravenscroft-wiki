@@ -13,7 +13,7 @@
 
 ## I. The leaders — established figures
 
-| Name | Proposed dates | Position | Motivation / defining characteristic |
+| Name | Canon dates | Position | Motivation / defining characteristic |
 |---|---|---|---|
 | **Vittorio Carlo Valdieri** | 1875–1934 | Last prewar uncontested senior Head; Lorenzo's great-grandfather | After World War I centralizes common reserves, dynastic security and final succession authority to prevent financial fragmentation; leaves a dangerously resentful cadet system |
 | **Alessandro Vittorio Valdieri** | 1903–1944 | Vittorio's designated heir; Lorenzo's grandfather | Capable but inexperienced in an internal war; inherits a charter challenged by powerful cadets, rejects Monferrato's claim and is assassinated amid wider wartime violence |

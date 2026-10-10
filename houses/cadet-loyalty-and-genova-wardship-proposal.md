@@ -1,10 +1,10 @@
-# The Quiet Settlement: Cadet Loyalty, Family Fosterage, and the Genova Wards
+# The Quiet Settlement — Unwritten Cadet Loyalty Customs — LOCKED
 
-**DEVELOPING CANON / FOR REVIEW — not yet locked in detail.** The following describes how Houses might have privately restrained cadet power after the Valdieri civil war. It distinguishes the publicly ratified Articles of Dynastic Continuity (1953–1956) from private, sometimes coercive House practices. Named Genova children's identities and their individual later lives remain **deliberately unassigned**.
+**LOCKED GENERAL WORLD CANON.** Following the Valdieri civil war and the 1953–1956 Articles of Dynastic Continuity, Great Houses also practice unwritten cadet loyalty management through rewards, interdependence, dynastic education, career channels, shared identity, marital diplomacy and compartmented institutional authority. These are broad recurring practices, not a second published Compact and not identical or mandatory for every House. The identities and individual adult lives of Genova children raised with the senior line remain unassigned.
 
 ## Relationship to the detailed Genova return study
 
-The companion <a href="valdieri-genova-wardship-and-return-proposal.md">Genova wardship and return study</a> develops the more specific collective household timetable, proposed completion at ages 21–23, mid-teen transition, and proposed adult-return recognition ceremony. If the broad ranges or language in this file differ, the detailed study is the current working recommendation. Neither document has been approved as binding canon beyond the already locked historical fact that some Genova children were raised within the mainline as political guarantees.
+The companion <a href="valdieri-genova-wardship-and-return-proposal.md">Genova wardship and return history</a> fixes the normal completion window at ages 21–23, transition visits beginning in the mid-teens and a formal Atto di Rientro. That is an exceptional Valdieri settlement, not a general procedure across the Order.
 
 **Interpretive distinction:** The Articles of Dynastic Continuity are real shared Order law. Shadow cadet control is a varied set of private dynastic choices—sometimes benevolent, sometimes coercive, sometimes actively abusive—not a second published Compact or a universally lawful license to hold family members. House allegiance, Order clearance, blood relationship and actual access to authority remain separate.
 
@@ -14,9 +14,9 @@ Valdieri di Monferrato initiated the civil war of 1934–1946. Its powerful auto
 
 The 1953–1956 Articles of Dynastic Continuity set *public constitutional standards* for authenticated succession, explicit cadet mandates and House continuity. They do **not** require secret leverage, fosterage or political wards. The practices below, where used, belong to sovereign Houses' private governance and could attract criticism or constitutional review if their coercive terms threatened the Compact.
 
-## I. Proposed Genova wardship chronology
+## I. Established Genova wardship chronology
 
-**Recommended broad period: 1946–early 1960s, varying by the child's age.** Historical child placement need not have happened on one day or ended as a single event. An adult descendant placed in a cadet household cannot be treated as an automatic successor to the senior Headship merely by being raised there.
+**Established broad period: 1946–early 1960s, varying by the child's age.** Historical child placement need not have happened on one day or ended as a single event. An adult descendant placed in a cadet household cannot be treated as an automatic successor to the senior Headship merely by being raised there.
 
 | Stage | Typical age | Approximate years | Household arrangement |
 |---|---:|---|---|
@@ -27,15 +27,15 @@ The 1953–1956 Articles of Dynastic Continuity set *public constitutional stand
 | Formal return to Genova | Normally 21–24 | roughly 1953–1965 | The adult resumes primary residence with the Genova branch or another properly approved independent residence. The family announces completion of the educational placement; formal House records acknowledge full cadet membership, while normal charter limits remain in effect |
 | After return | Adulthood onward | 1950s–2026 | Ties to mainline kin may continue. Ordinary employment, independent property and routine House-related service may be available according to individual qualifications; sensitive authority requires separate trust and clearance. The earlier wardship is no longer an open-ended physical custody arrangement |
 
-**Typical individual placement: roughly 8–17 years, depending on age at arrival.** A child arriving at 13 might formally return by 21 or 22; a child arriving at 6 might remain until 21 or 22. Some might be away at university for much of the later period, without terminating the household affiliation. This is a **recommended range**, not a universal statutory requirement.
+**Typical individual placement: roughly 8–17 years, depending on age at arrival.** A child arriving at 13 might formally return by 21 or 22; a child arriving at 6 might remain until 21 or 22. Some might be away at university for much of the later period, without terminating the household affiliation. This is a **typical historical range**, not a universal statutory requirement.
 
 ### Contact with Genova during the placement
 
 The children are still known to be Genova blood relatives. Their parents and kin can visit, attend family events and maintain bonds under the reconciliation settlement. The arrangement is asymmetric in power, not a pretense that Genova parentage never existed. Holiday arrangements, school placement and long-distance contact vary by age, geography and conflict conditions. No need to assign precise rules to individual children yet.
 
-### The return ceremony: a proposed institutional pattern
+### Atto di Rientro — the adult-return ceremony
 
-I suggest a formal **Reconciliation and Return** gathering, conducted at the principal Valdieri estate when each ward completes adult formation. A senior family representative acknowledges the young adult's upbringing and his or her continued membership in House Valdieri through Genova. The Genova Head or authorized relative receives them back as an adult member of the branch. A public family address emphasizes unity and education rather than punitive custody.
+The *Atto di Rientro* is the formal adult-return gathering, conducted at the principal Valdieri estate when each ward completes adult formation. A senior family representative acknowledges the young adult's upbringing and his or her continued membership in House Valdieri through Genova. The Genova Head or authorized relative receives them back as an adult member of the branch. A public family address emphasizes unity and education rather than punitive custody.
 
 A second, private exchange updates the reconciliation settlement: earlier residence obligations expire, restitution or charter restrictions remain where still valid, and adult access is governed by ordinary House law. No invented secret oath is necessary. The children may know they were part of a political settlement, but they have not been assigned specific individual beliefs about it.
 
@@ -43,9 +43,9 @@ A second, private exchange updates the reconciliation settlement: earlier reside
 
 The senior line needs Genova to function as a productive, compliant cadet House. Indefinitely holding grown relatives in its household undermines that goal and creates new resentment. A normal adult return demonstrates confidence while preserving the established House charter. By the late 1950s–early 1960s, rebuilding institutions and clearer postwar succession rules can replace direct physical custody with ordinary legal, economic and political interdependence.
 
-## II. Shadow governance beyond the published Articles — possible Great-House practices
+## II. Shadow governance beyond the published Articles — common tendencies
 
-The postwar Articles are public constitutional standards **within the Order**. In private, powerful Houses may also create relationships that keep cadets dependent, influential but not sovereign, and generally loyal. These quiet customs vary: not every Great House copies Valdieri's postwar wards, and some measures are contested even within the families that use them.
+The postwar Articles are public constitutional standards **within the Order**. In private, Great Houses use varied relationships and incentives that keep cadet lines influential and productive without letting their separate branches automatically command the sovereign House. Shared education, prestige, opportunity, managed access, kinship ties and subtle scrutiny are recognizable practices, but not all Houses use them identically. Severe coercion can be contested even within the families that practice it.
 
 ### 1. Education as a bond of identity
 
@@ -75,7 +75,7 @@ Senior Houses can distribute honors, recognition, preferred projects and other o
 
 Great-House Heads are unlikely to treat every cadet as completely transparent. They may seek independent assessments of branch loyalties and institutional interests through existing House intelligence structures, while encouraging professional networks that cross branch boundaries. This should be portrayed as political atmosphere and House governance, not an infallible surveillance apparatus or a universal operational method.
 
-## III. Different Great-House temperaments — illustrative only
+## III. Different Great-House temperaments — general direction
 
 - **Ravenscroft:** Gains most from networks of gratitude, elite formation, marriages, patronage and access to unusually deep resources; its favored emphasis is making loyalty rewarding and defection costly without needing to announce that fact.
 - **Falkenrath:** Combines formal dynastic dignity and cadet charters with rank, estates, tradition and personal obligations; its 1957 reform makes the legal boundary more explicit.
@@ -91,11 +91,11 @@ Giulia Caterina Valdieri's marriage to Elias Alexander Ravenscroft operates by a
 
 This reflects the same political tradition—relationships can carry obligations beyond what is spoken—without equating Giulia's marriage with the Genova children's coerced postwar placement.
 
-## V. To choose before canon lock
+## V. Unsettled details and House-specific variations
 
-1. **Wardship completion:** Is age **21–24** a suitable return window, with typical residence spanning **8–15 years** and holidays/education away from the mainline throughout?
-2. **Name:** Adopt *Reconciliation and Return* as a specific Valdieri ceremony, or keep the process unnamed and bureaucratic?
-3. **Legacy:** Do the restrictions on the older Genova branch gradually loosen over several generations, or remain unusually tight through 2026?
-4. **Secret cadet control:** Should the seven broad practices be universal cultural habits across the Great Houses or a patchwork in which particular Houses use only the practices suited to their histories?
+- The historic Genova settlement ordinarily ends residential guardianship at ages **21–23**, by *Atto di Rientro*, after gradual reconnection to the birth branch. Individual placements, exact ages, names and eventual lives remain open.
+- The varied unwritten loyalty practices described above are established as general setting behavior, **not binding universal requirements**. Their precise operation differs by House, and should be described separately in each House record.
+- The degree to which the Genova branch's old sanctions remain restrictive in 2026 still requires development.
+- Exact applications to Ashcroft, Shen, Kuroda, Volkov, Amaru and other Houses remain open until their specific House records are developed.
 
-**Note:** This file intentionally does not name the Genova children, assign them later lives or contradict the complete extinction of Monferrato.
+**Boundary:** No Monferrato descendants survive. Only the Genova-aligned surviving branch supplied children to the principal household. Giulia's adult Ravenscroft marriage is politically analogous in its unspoken assurances, not legally identical to child wardship.

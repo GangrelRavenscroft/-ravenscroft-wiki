@@ -19,16 +19,19 @@ The reigning Head in 2026 is **Lorenzo Vittorio Valdieri (born 1962)**, whose 20
 
 *This is an intergenerational reconstruction proposal, not yet an approved genealogy.*
 
-## A credible contested Headship
+## Locked political structure; historical individuals still provisional
 
-The proposed 1934 death of Vittorio Carlo occurs while the House still has extensive wealth and a Council mandate. The senior claimant, Alessandro Vittorio, faces a rival claim supported by a commercially strong cadet coalition. A second surviving line competes for control of registers, estate rights, accounts and internal protection. The civil war escalates because each side possesses some legitimately inherited source of prestige or authority.
+The civil war begins with **Valdieri di Monferrato** itself. Its leadership rejects the principal family's governance, denounces the newly designated heir, and seeks autonomy and eventual sovereign Great-House recognition. That effort would require independent qualification, not merely a violent takeover of the senior House or its Council mandate. The proposed death of Vittorio Carlo in 1934 remains an appealing immediate trigger, but the date and the relationship to his actual designated heir have not been approved.
 
-Other lines respond differently:
-- **Valdieri di Genova:** Commercially useful but politically divided; some leading members favor a competing claimant. It emerges diminished and resented, but survives.
-- **Valdieri di Canavese:** Landed and industrial cadet; initially cautious, then helps preserve independent assets and people, becoming an important partner in the postwar recovery.
-- **Valdieri di Monferrato:** Smaller blood cadet line, initially neutral or positioned to mediate succession. Its complete destruction—blood descendants of both sexes and their lines—is one of the conflict's worst atrocities. Motives, killers and extent of outside involvement are disputed within Valdieri history.
+- **Valdieri di Monferrato — rebel instigator (locked):** Spearheads the succession conflict and attempts to emerge from cadet dependence as its own Great House. As the rebellion is defeated, the few remaining adult rebel members are condemned and executed. The civil war and final killings extinguish its bloodline; the principal family confiscates or absorbs its surviving estates, investments and other House-controlled resources.
+- **Valdieri di Genova — proposed supporting faction (not yet locked):** Wealthy maritime-commercial cadet whose leadership might back Monferrato for greater autonomy, concessions over House commerce, or control of financial networks. After defeat, its leadership is censured, pays restitution and agrees that selected children will live within the principal household, outwardly family wards but in practice political assurances of continued obedience. Whether Genova is indeed the supporting branch remains to be confirmed.
+- **Valdieri di Canavese — proposed neutral or senior-loyal faction (not yet locked):** Landed and industrial cadet that refuses the rebellion or cautiously aligns with the principal family. It preserves useful independent resources and later aids long-term reconstruction. Its precise wartime position remains open.
 
-The war spans internal murders, false accusations and purges, retaliatory killings, strategic assassinations disguised as factional violence, financial failures and wider wartime damage. **Ravenscroft covertly exploits but did not create the real conflict**, damaging more than senior leadership and obscuring its role within Valdieri's paranoia.
+The agreement following the war should publicly describe the children of the censured surviving branch as **family raised by family**, with privileges, education and kinship care; the implicit function is that they are hostages of the principal line. This dynamic is remembered privately by later generations even if the formal settlement never uses that language.
+
+The resulting war spans actual assassinations ordered by competing cadets, internal supporters of the rival side, retaliatory purges, people killed because of false suspicion, and separate Ravenscroft interventions concealed amid the violence. Ravenscroft did not invent the genuine civil war, but uses it to deepen destruction across leadership, industry, archives, institutional continuity, security and alliances.
+
+The modern echo is **Giulia Caterina Valdieri's 2026 marriage to Elias Alexander Ravenscroft**. She freely enters a genuine marriage and retains adult personhood and private rights; neither House publicly frames it as a hostage settlement. Nevertheless, senior House leaders recognize that her presence with Ravenscroft is a living guarantee of the weaker family's cooperation. Elias does not know that Ravenscroft helped bring down historic Valdieri.
 
 ## Recommended historical sequence — ALL DATES PROVISIONAL EXCEPT 2023
 
@@ -49,15 +52,15 @@ The war spans internal murders, false accusations and purges, retaliatory killin
 1. **Wartime grandmother, not a mythical super-spy.** Beatrice survives through judgment, personal relationships, administrative courage and help from other relatives, while failing to protect everyone. She has reason to mistrust the surviving branches.
 2. **The child heir remembers confusion more than conspiracy.** Marcello knows the deaths and fear were real but lacks complete evidence identifying outside orchestrators.
 3. **The rebuilders disagree.** Marcello measures success by independent survival as a Major House; his son Lorenzo considers that insufficient and spends decades chasing formal restoration.
-4. **The last survivor question.** The extinction of di Monferrato is documented as bloodline extinction, not simply surname disappearance. Determine the exact number and victims only after designing the branch.
+4. **The final branch extinction.** Monferrato initiated the rebellion and its remaining rebels were executed after defeat. The extinct bloodline cannot reappear among living descendants; the precise number, identities and circumstances of deaths require a branch genealogy.
 5. **Council transfer and degradation are separate legal events.** Ravenscroft enters the Nine through the proper electoral process after already being an established Great House; Valdieri loses peer status because it cannot satisfy constitutional requirements following its civil war.
 6. **A victory still carries danger.** Lorenzo's 2023 restoration is genuine, yet Valdieri is dramatically weaker than every other peer. The ordinary 21-year Council maturation rule suggests potential eligibility only around 2044 absent an explicit reinstatement exception.
 
 ## First review decisions
 
 - Should Alessandro, the wartime grandfather, have been a legitimate Head or a disputed claimant?
-- Was Monferrato neutral, aligned with one claimant, or suspected of having a succession claim of its own?
-- Did Beatrice preserve the direct line through her own action, or through a secret pact with di Canavese?
+- Which named Monferrato leader challenged the selected heir, and what made that leader believe independent Great-House recognition was attainable?
+- Did Beatrice preserve the direct line through her own actions, through a pact with di Canavese, or through a relationship with a member of the punished cadet family?
 - Did Marcello relinquish Headship voluntarily in the late 1990s, or was he forced out because Lorenzo believed reform was too slow?
 
-Until these points are chosen, **all new ancestors, names, incidents and dates here remain proposed**, not locked.
+The rebellion, extinction, confiscation, punishment of a supporting cadet branch and raising of political child wards are established events. **The new ancestor names and dates, actual partisan assignment of Genova and Canavese, and specific incidents remain proposed** until approved.

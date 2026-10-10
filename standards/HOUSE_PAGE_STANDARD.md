@@ -18,11 +18,12 @@ Great House pages are institutional records, not person dossiers. They explain w
 12. Order role and Long Peace posture
 13. Inter-House Relations / alliances / rivalries
 14. Governance & Representation
-15. Family / senior lines when available
-16. Strengths & Vulnerabilities
-17. Visual Canon
-18. Canon Control
-19. Bottom jump navigation + Back to Top
+15. Cadet Branches: Formal Authority and Unwritten Loyalty (REQUIRED)
+16. Family / senior lines when available
+17. Strengths & Vulnerabilities
+18. Visual Canon
+19. Canon Control
+20. Bottom jump navigation + Back to Top
 
 ## Required constitutional fields
 - Recognition status
@@ -52,6 +53,26 @@ Every recognized Great House must have a credible historical answer for:
 8. Order reliability / ability to carry common obligations
 
 This is not a point system. Extraordinary wealth, age, military strength, or prestige cannot compensate for the absence of genuine independent sovereignty or durable succession.
+
+## Required cadet-branch relations and private loyalty architecture
+
+Every newly developed Great House **must** include a meaningful section on how its senior line relates to cadet branches, even if the family currently has no large established cadet branch. This is a standard requirement for every future House we develop and for substantial revisions of older House pages.
+
+Distinguish **formal House constitution** from **unwritten political management**:
+
+1. **Cadet identity and holdings.** Identify recognized major cadets and what they legitimately control: estates, enterprises, trusts, security, senior offices, patronage, or networks. Avoid confusing cadet branches, independent Major Houses, separate Great Houses and patroned families.
+2. **Succession and charter authority.** Explain who authenticates the House Head, appoints regents, recognizes cadet officers, adjudicates disputes, and controls whole-House protected instruments under the <a href="../order/dynastic-continuity.html">Articles of Dynastic Continuity</a> (1953–1956). A former cadet's genuine independent sovereignty can still potentially qualify for separate Great-House recognition.
+3. **Unwritten loyalty methods.** Describe the particular House's mix of elite education and kinship formation; patronage and career access; branch capital and shared financial guarantees; social precedence, marriage alliances and symbolic surety; security clearance and information compartmentalization; professional cross-appointments; continuity and scrutiny of branch leadership.
+4. **Actual power distribution.** Cadets must retain credible positive reasons to remain, enough delegated authority to operate, and understandable reasons why the senior line retains ultimate constitutional leadership. Do not automatically turn every cadet into a powerless dependent or every Head into an omniscient intelligence master.
+5. **Distinctive temperament.** Detail how the House applies rewards, personal loyalty, status, family culture, enforceable charters, social influence, discipline and rare coercive exceptions. Distinguish what is publicly acknowledged inside the Order from what only senior members privately understand.
+6. **History and current tensions.** Include at least one concrete example of a past cadet crisis, a negotiated accommodation, a restoration of trust, or a standing source of grievance where appropriate. Identify whether a proposed practice is locked, inferred or open.
+7. **Boundaries of knowledge and authority.** Blood descent, marriage, patronage, wealth, office, Order rank, security clearance and actual covert access are separate dimensions. Junior or married-in Ravenscrofts must not automatically know historic classified operations.
+
+**World-wide canon:** Following the Valdieri civil war, the ratified Articles of Dynastic Continuity provided shared succession/cadet-governance standards. Great Houses also use varied **unwritten** systems of loyalty and strategic dependence. These are common patterns, not an unofficial universal Compact. Different Houses may pursue very different approaches. Political fosterage or child wardship is not an automatic or universal House custom; Valdieri's historic Genova settlement is an exceptional coercive instance.
+
+**Ravenscroft-specific reference:** See the <a href="../houses/ravenscroft-cadet-relations.html">Ravenscroft Cadet Relations record</a> when created or updated; preserve its existing patronage and Ashbourne doctrine rather than inventing contradictory education or patronage rules. Separate the main-line/collateral-family relationships from patroned outsiders and independent former offshoots.
+
+For a House with few or no named cadets, provide an explicit **Cadet Relations — Developing** section that describes known policy, historical precedent and unanswered structural questions instead of fabricating a complete genealogy. When cadets are named later, update this section.
 
 ## Visual standard
 ### Required

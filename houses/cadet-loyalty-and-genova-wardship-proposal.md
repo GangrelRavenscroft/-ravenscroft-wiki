@@ -2,6 +2,12 @@
 
 **DEVELOPING CANON / FOR REVIEW — not yet locked in detail.** The following describes how Houses might have privately restrained cadet power after the Valdieri civil war. It distinguishes the publicly ratified Articles of Dynastic Continuity (1953–1956) from private, sometimes coercive House practices. Named Genova children's identities and their individual later lives remain **deliberately unassigned**.
 
+## Relationship to the detailed Genova return study
+
+The companion <a href="valdieri-genova-wardship-and-return-proposal.md">Genova wardship and return study</a> develops the more specific collective household timetable, proposed completion at ages 21–23, mid-teen transition, and proposed adult-return recognition ceremony. If the broad ranges or language in this file differ, the detailed study is the current working recommendation. Neither document has been approved as binding canon beyond the already locked historical fact that some Genova children were raised within the mainline as political guarantees.
+
+**Interpretive distinction:** The Articles of Dynastic Continuity are real shared Order law. Shadow cadet control is a varied set of private dynastic choices—sometimes benevolent, sometimes coercive, sometimes actively abusive—not a second published Compact or a universally lawful license to hold family members. House allegiance, Order clearance, blood relationship and actual access to authority remain separate.
+
 ## Canon baseline
 
 Valdieri di Monferrato initiated the civil war of 1934–1946. Its powerful autonomous resources and Genova's support gave it a realistic chance of victory. The entire Monferrato bloodline was destroyed, leaving **no surviving children or hidden descendants**. Canavese was initially neutral and later supported the principal line. Genova, led by Raffaele Benedetto Valdieri di Genova (1887–1964), surrendered, was censured and paid restitution; some Genova children were raised in the principal House as family members and political guarantees. These children were cared for and given education and possible access to ordinary professional roles, while sensitive institutional powers remained restricted. **Their individual stories must remain open.**

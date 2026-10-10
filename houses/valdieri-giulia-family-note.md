@@ -21,6 +21,8 @@ Giulia willingly renounced Valdieri Headship eligibility **for herself and desce
 
 Elias does **not** know Ravenscroft covertly exploited Valdieri's historic downfall; his clearance and placement are too junior. The couple's personal relationship should be developed independently of the political arrangement.
 
+**Unspoken political assurance:** Senior Valdieri and Ravenscroft leadership understands that the marriage provides not just social prestige but a living guarantee of cooperation from the weaker House. Neither side formally calls Giulia a hostage, and she is an adult who agrees to the marriage. Privately, its diplomatic meaning recalls Valdieri's postwar practice of raising children from the censured rebel-allied cadet branch as family members who also served as guarantees of obedience. Elias is not briefed on this analogy or on the historic covert conflict. Her individual dignity, autonomy and rights within the marriage remain intact.
+
 ## Dossier placement
 Keep this short entry in the Valdieri family record. Giulia's complete personal biography follows the **House Ravenscroft Master B married-in dossier** template. Because this is a direct Great-House alliance, her Original Patron / Patronage History field should distinguish marriage from a patronage elevation and record **no original Ravenscroft patron**, unless specifically developed otherwise.
 

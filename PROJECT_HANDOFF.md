@@ -2,7 +2,7 @@
 
 **Updated:** 2026-10-11  
 **Repository:** https://github.com/GangrelRavenscroft/-ravenscroft-wiki  
-**Current focus:** **Great House Valdieri — Batch 1 approved visual canon integrated** in World building 3. The user approved uploaded images matched against the numbered collage and explicitly instructed “Lock as canon.” The six images, heraldic forms and principal visual depictions are fixed in the repository. **Next:** upload/match other image batches separately; verify identity and apparent ages, then integrate approved work. Formal House motto and non-visual historical dates remain unresolved.
+**Current focus:** **Great House Valdieri — approved and integrated Batch 1 and corrected Batch 2 visuals**. Six House/heraldry assets and six senior-family portraits/group assets are now canon, with fixed faces for Giulia and Chiara. The user mapped Batch 2 **A→2, B→4, C→5, D→3, E→1, F→6** and then explicitly said **“Approved.”** Subsequent batches require their own matching and approvals.
 **Purpose:** Stable entry point for new conversations; preserve continuity, distinguish locked canon from proposals, and identify the exact next task.
 
 > **START HERE IN A NEW CHAT.** Work currently continues in **World building 3**, migrated intact from World building 2; this is an established worldbuilding project, not a request to reinvent the setting. Read this file, then the directly relevant linked canonical records. The user's explicit approval of a detail is authoritative even if an older GitHub page still says "proposed"; mark the repository synchronization as pending rather than discarding approval. Do not restart previous Houses or create a new project merely because a chat reached its length limit.
@@ -115,10 +115,14 @@ Protected structural decisions still require **five of seven Council votes PLUS 
 
 The user provided a definitive six-image mapping against the collage: **A→5, B→4, C→1, D→6, E→3, F→2**, then instructed **“Lock as canon.”** The full achievement and simplified seal are approved alongside Rocca delle Fonti, Palazzo Valdieri Milan, the influence map and the 1946 archive-reconstruction image. Permanent asset paths, original filenames/blob IDs, and labels are recorded in [Valdieri Batch 1 visual canon](houses/valdieri-batch-1-visual-canon.md). The six-image [test page](valdieri-batch-1-image-test.html) preserves the letter mapping and the [House page](houses/valdieri.html) is updated to display the official images. **Other generated or uploaded batches have no implied approval.** Motto remains open; a proposed maxim is not ratified by image approval.
 
+### October 11, 2026 — Batch 2 family visual canon locked
+
+The corrected six-upload image set was mapped by the user as **A→2, B→4, C→5, D→3, E→1, F→6**; the user subsequently said **“Approved.”** Canonical 2026 primary faces are Lorenzo Vittorio, Dr. Elena Beatrice Montanari, Matteo Lorenzo, **Giulia Caterina Valdieri Ravenscroft**, and **Chiara Elisabetta Valdieri**, plus their group image. **Do not homogenize Giulia and Chiara or revert to lookalike drafts.** The [Batch 2 manifest](houses/valdieri-batch-2-visual-canon.md) includes permanent paths and source checksums; the [test page](valdieri-batch-2-image-test.html) retains letter mapping. The images are displayed in the [main House page](houses/valdieri.html), and Giulia’s Master B dossier now has her primary portrait. This approval does not determine other missing biography details or approve Batches 3–9.
+
 ### Exact next steps — current
 
-1. **Batch 1 is LOCKED and installed.** Continue with subsequent image batches only as requested; map UUID uploads with lettered test pages against numbered collages, then rename to canonical paths after confirmation.
-2. Check portrait identity, apparent ages and individual family resemblance before canonizing later batches. **Never retcon the approved Batch 1 heraldry or images casually.**
+1. **Batches 1 and 2 are LOCKED and installed.** Continue with subsequent image batches only as requested; map UUID uploads with lettered test pages against numbered collages, then rename to canonical paths after confirmation.
+2. Check portrait identity, apparent ages and individual family resemblance before canonizing later batches. **Never casually change Batch 1 heraldry or the locked Batch 2 family faces.**
 3. Optionally establish exact Tribunal/Council dates, restoration instruments, binding charter dates, office appointments or Conclave delegates. These are historical/legal decisions, distinct from visual approval.
 4. Re-review image-rich Valdieri page for remaining open metadata and other user-approved visual batches; when complete, proceed to the next Great House without reopening finished Valdieri constitutional decisions.
 5. Update this handoff after future commits and readback checks.

@@ -22,7 +22,7 @@ The user reviewed the six-image identification page against the Batch 1 collage 
 
 The six locked images are the **full heraldic achievement (Alpine Bridge rendering), simplified seal, Rocca delle Fonti exterior, Palazzo Valdieri Milan exterior, regional influence map, and 1946 reconstruction/archives scene**. The visual design is locked as depicted, without declaring fictional influence regions sovereign or inventing a legal heraldic grant. **No separate motto has been approved.** The phrase “What is promised must endure” remains a proposed maxim only.
 
-**Later portrait, institution and support batches are not automatically included in this Batch 1 approval.** Review and map them separately before canonical placement.
+**Batch 2 was subsequently approved:** five corrected individual senior-family portraits and their group image are now locked and integrated. Other character and support batches remain unapproved pending individual review. See the [Batch 2 manifest](valdieri-batch-2-visual-canon.md).
 
 ### B. Historical legal dates — OPEN but nonblocking for House overview
 
@@ -52,7 +52,7 @@ The six locked images are the **full heraldic achievement (Alpine Bridge renderi
 
 ## 4. Completion recommendation
 
-**Valdieri's political/institutional overview is substantially complete.** The four required House-level visual assets and the supplementary simplified seal and Milan exterior are now locked and integrated. Review remaining character/support batches separately before declaring the page *finished*. Optional exact-date history can be expanded only if needed for future plot work. This House should not consume the same character-by-character dossier effort as Ravenscroft.
+**Valdieri's political/institutional overview is substantially complete.** Batches 1 and 2 (House identity and senior-family portraits) are locked and integrated. Review remaining character/support batches separately before declaring the page *finished*. Optional exact-date history can be expanded only if needed for future plot work. This House should not consume the same character-by-character dossier effort as Ravenscroft.
 
 **Priority in next chat/turn:** present/select one heraldic direction and a compact four-visual package, then proceed to the next Great House. Do not treat this audit's options or missing dates as already-approved canon.
 

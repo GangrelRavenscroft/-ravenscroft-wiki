@@ -69,7 +69,7 @@ House records must keep these distinct:
 
 **World scale:** In the 2026 setting most recognized Great Houses possess fortunes comparable to or above the richest families of the contemporary real world, along with much greater strategic and institutional power. Ravenscroft is the overwhelming strategic leader, with existing multitrillion-scale wealth descriptions and specific relatives who individually possess hundreds of billions. Valdieri is an intentional, constitutionally equal but unusually weak restored Great House. Do not create equal wealth for all eleven by formula or inflate existing individual corporations to fit headline figures.
 
-For still-developing numerical bands, cite the <a href="../world/great-house-wealth-revaluation-proposal.md">2026 wealth revaluation proposal</a> and label them **proposed**, not locked. Earlier four-House $8–22B estimates are legacy figures being revised; preserve specific personal and corporate canon until independently reconciled.
+For approved 2026 financial ranges, use the <a href="../world/great-house-wealth-revaluation-proposal.md">Great-House Wealth Canon</a>. The principal-House bands for Wycliffe, Veyrholm, Falkenrath, Volkov and Valdieri, and the independent Genova and Canavese bands, are **locked**. Earlier four-House $8–22B estimates are superseded legacy figures. **Ravenscroft has no locked principal-only net worth or wider assets-under-influence range** pending review of its trusts, personal fortunes, institutions and cadet property. Preserve named companies, individual fortune facts and exact ownership canon until independently reconciled.
 
 ## Required House-wide power and dependencies register
 

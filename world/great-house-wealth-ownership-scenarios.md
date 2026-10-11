@@ -1,6 +1,6 @@
 # 2026 Great-House Wealth — Ownership Scenarios
 
-**DEVELOPMENT NOTES, NOT LOCKED ASSETS.** This document sketches how the proposed principal-House net-worth ranges could be supported by plausible, diverse beneficial ownership. It does not identify actual present-day corporations as owned by fictional Houses. All numbers are illustrative USD billions of **net beneficial equity**, not gross enterprise value, revenue, assets under management, borrowed capital, or assets owned separately by cadets. Samples are mutually exclusive allocation categories **within each House**.
+**DEVELOPMENT NOTES, NOT LOCKED ASSETS.** This document sketches how the approved non-Ravenscroft principal-House net-worth ranges could be supported by plausible, diverse beneficial ownership. It does not identify actual present-day corporations as owned by fictional Houses. All numbers are illustrative USD billions of **net beneficial equity**, not gross enterprise value, revenue, assets under management, borrowed capital, or assets owned separately by cadets. Samples are mutually exclusive allocation categories **within each House**.
 
 ## Working midpoints and possible equity sources
 
@@ -54,8 +54,8 @@ Its long history of territorial loss and rebuilding creates a preference for dis
 
 ## Why Valdieri stays weak
 
-The **proposed** $3.5–5B for the principal Valdieri Great House is a genuine net worth, excluding all independent **Genova** and **Canavese** assets. Its larger network of subordinate Houses, industry, law and patronage can exceed its own owned assets without changing the net worth figure. Recent restoration and heavy continuity costs prevent it from matching the older Houses despite formal constitutional equality.
+The **locked** $3.5–5B for the principal Valdieri Great House is a genuine net worth, excluding all independent **Genova** and **Canavese** assets. Its larger network of subordinate Houses, industry, law and patronage can exceed its own owned assets without changing the net worth figure. Recent restoration and heavy continuity costs prevent it from matching the older Houses despite formal constitutional equality.
 
 ## Recommended next round
 
-**Approve wealth ranges** before canonizing them. Then develop one House at a time: map actual beneficial ownership to named financial and operating institutions, identify House-common versus senior private wealth, allocate cadet properties independently, and create a nonadditive influence-assets table.
+**The wealth ranges for these Houses are canon; the illustrated ownership allocations are not.** Develop one House at a time: map actual beneficial ownership to named financial and operating institutions, identify House-common versus senior private wealth, allocate cadet properties independently, and create a nonadditive influence-assets table.

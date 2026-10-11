@@ -1,6 +1,6 @@
 # House Valdieri — Estates, Institutions and Operating Charters (2026) — LOCKED
 
-**STATUS: LOCKED INSTITUTIONAL CANON — October 2026.** The four named estates and their regional functions, five senior/shared institutional pillars, two separately cadet-owned commercial vehicles, Officine Valdieri's approximate 7–11 sites / 2,700–4,000 employees / US$1.2–1.9B annual revenue, and the Steward of Assets and Warden of Constitutional Continuity charters are approved. The seven-seat council and its five-of-seven plus Head concurrence requirement remain intact. **Not assigned:** named holders of the two offices, individual enterprise boards and executives, exact street locations, asset-specific beneficial equity/debt, detailed personnel or subordinate Major/Lesser Houses. The principal Valdieri $3.5–5B, independent Genova $1–2B and Canavese $1.5–2.5B net-worth ranges remain separate and locked.
+**STATUS: LOCKED INSTITUTIONAL CANON — October 2026.** The four named estates and their regional functions, five senior/shared institutional pillars, two separately cadet-owned commercial vehicles, Officine Valdieri's approximate 7–11 sites / 2,700–4,000 employees / US$1.2–1.9B annual revenue, and the Steward of Assets and Warden of Constitutional Continuity charters are approved. The seven-seat council and its five-of-seven plus Head concurrence requirement remain intact. **Now named:** Steward of Assets Dr. Riccardo Leone Ferrante and Warden of Constitutional Continuity Avv. Dr. Teresa Maddalena Bellandi; the four Major and five Lesser Houses and their Heads are established separately. **Still not assigned:** individual corporate boards and executives, exact street locations, asset-specific beneficial equity/debt, and detailed operational personnel. The principal Valdieri $3.5–5B, independent Genova $1–2B and Canavese $1.5–2.5B net-worth ranges remain separate and locked.
 
 ## 1. Established architectural and geographic system
 
@@ -83,7 +83,7 @@
 
 ## 4. The seven-seat Consiglio di Casa Valdieri — established seats and charters
 
-**Already locked seats:** Lorenzo (Head), Matteo (heir), Dr. Elena (senior consort by appointment), Claudia (Genova cadet Head), Tommaso (Canavese cadet Head), **Steward of Assets** (identity unassigned), **Warden of Constitutional Continuity** (identity unassigned). It is an internal House body, not the international nine-member Council.
+**Already locked seats:** Lorenzo (Head), Matteo (heir), Dr. Elena (senior consort by appointment), Claudia (Genova cadet Head), Tommaso (Canavese cadet Head), **Steward of Assets — Dr. Riccardo Leone Ferrante**, **Warden of Constitutional Continuity — Avv. Dr. Teresa Maddalena Bellandi**. It is an internal House body, not the international nine-member Council.
 
 ### A. Steward of Assets — established office charter
 
@@ -114,7 +114,7 @@
 - **Separation of offices:** Steward and Warden each have specialist authority; neither is a second Head, and neither has automatic authority over the other's protected domain.
 - **Cadet rights:** branch-specific property changes ordinarily require the competent cadet authority's lawful consent in addition to whatever parent approval the cadet charter reserves.
 
-**No two new officeholders are named.** Developing the charter first avoids duplicating existing but not-yet-uploaded family dossiers.
+**Incumbents ratified October 11, 2026:** Dr. Riccardo Leone Ferrante and Avv. Dr. Teresa Maddalena Bellandi; see [their locked officeholder profiles](valdieri-council-officeholders-2026-proposal.md).
 
 ## 5. Who owes whom what: House power ledger
 
@@ -126,7 +126,7 @@
 | Independent suppliers and clients | Commercial or patronage relationships | Contract, invest, negotiate, build partnerships | Issue sovereign commands simply because they work with Valdieri |
 | University/hospital partners | Grants, professions and cooperation | Offer funding, research assistance and introductions | Assume ownership of their databases, boards, staff or restricted information |
 | Local political relationships | Institutional access and influence | Advocate, build coalitions, participate as lawful actors | Command every local official or regulate Italy as a private sovereign |
-| Unnamed future bound Houses | Not yet assigned | To be defined in each charter | Assume their existence or net worth before they are created |
+| Bound Major/Lesser Houses | Named and independently owned in later locked canon | Roccabruna and Marenesi answer directly to the Great House; five Lesser Houses have chartered superiors | Consolidate their separate wealth or place one Major beneath another |
 | Criminal networks | None canonically assigned to Valdieri | No presumption | Do not imply Italian organized crime belongs to Valdieri by geographical proximity |
 
 ## 6. The restoration file — why the Conclave accepted Valdieri in 2023
@@ -156,7 +156,7 @@ The exact 2023 ruling day and recognition reviewers remain unassigned. Giulia's 
 
 1. Specify final street-level and cadastral details, architectural room programs and approved visual canon for the four established estates.
 2. Assign senior-company and cadet-vehicle corporate managers and board governance, while keeping each House's assets separately titled.
-3. Assign the **Steward of Assets** and **Warden of Constitutional Continuity** only after confirming existing family and professional dossiers; the offices and basic charters are established, not their incumbents.
+3. Assign the **Steward of Assets** and **Warden of Constitutional Continuity** only after confirming existing family and professional dossiers; both the offices and the incumbents are established in the separate later officeholder record.
 4. Set council quorum, proxies, emergencies and precise reserved-act definitions without revising its established seven voting seats or five-of-seven plus Head concurrence rule.
 5. Develop the subordinate bound Major and Lesser Houses and their charter relationships, then the spouses and precise genealogical bridges for Claudia and Tommaso.
 6. Allocate real institution-by-institution beneficial equity, debt and liquidity within the three locked independent net-worth bands; the earlier illustrative allocation remains unratified.

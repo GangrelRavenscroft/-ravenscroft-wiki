@@ -24,7 +24,7 @@ The images were moved as their exact original Git blobs, without recompression o
 
 ## Related records
 
-- [Valdieri House record and family gallery](valdieri.html#family)
+- [Valdieri House — direct Canavese gallery](valdieri.html#canavese-gallery)
 - [Established modern cadet canon](valdieri-modern-cadet-branches-proposal.md)
 - [Batch 4 identification test page](../valdieri-batch-4-image-test.html)
 - [Living project handoff](../PROJECT_HANDOFF.md)

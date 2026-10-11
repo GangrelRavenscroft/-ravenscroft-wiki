@@ -1,6 +1,6 @@
 # House Valdieri — Institutional Reconstruction and Estates (2026)
 
-**Canon update:** The estate names, institutional names, company structure, production scale and two remaining council-office charters in this earlier proposal have subsequently been approved. The detailed [institutional charters record](valdieri-2026-institutional-charters-proposal.md) is the current authority. Specific officeholders, exact book valuations and proposed subordinate houses are still open.
+**Canon update:** The estate names, institutional names, company structure, production scale and two remaining council-office charters in this earlier proposal have subsequently been approved. The detailed [institutional charters record](valdieri-2026-institutional-charters-proposal.md) is the current authority. The two specific officeholders and all four Major and five Lesser subordinate Houses are now established in later locked canon. Exact book valuations, some corporate posts and precise legal charter dates remain open.
 
 **STATUS: MIXED — ESTABLISHED FINANCIAL CANON WITH INSTITUTIONAL DEVELOPMENT PROPOSALS.** Established identities, genealogical facts, the Monferrato civil war, 2023 restoration, Genova and Canavese cadet Houses, seven-seat *Consiglio di Casa Valdieri* and Giulia's Ravenscroft marriage remain unchanged. The principal House net-worth band **$3.5–5B**, independent Genova **$1–2B** and Canavese **$1.5–2.5B** bands are **LOCKED**. Estate names, locations, named companies, proposed unpledged liquidity, specific holding allocations and officer assignments below remain **proposals for review**.
 
@@ -101,7 +101,7 @@ For an illustrative, non-overlapping beneficial-equity allocation that fits the 
 
 ## 6. Other subordinate House relationships — develop without inventing entities prematurely
 
-Valdieri may have a small number of pledged Major Houses and localized Lesser Houses that support its industrial, conservation or regional interests, plus many patroned professional families that are **not** constitutionally subordinate. Their names and actual allegiances are currently unassigned.
+Valdieri may have a small number of pledged Major Houses and localized Lesser Houses that support its industrial, conservation or regional interests, plus many patroned professional families that are **not** constitutionally subordinate. Their identities and allegiances have since been assigned and locked in the later [subordinate Houses record](valdieri-subordinate-houses-2026-proposal.md); this older exploratory section is historical development rather than current authority.
 
 Proposed model: one or two substantial bound Major Houses with their own leadership and independent finances; a small group of Lesser Houses under the senior line or the two cadets; and a much larger professional patronage network that remains almost entirely legitimate and non-inducted. This illustrates potential scope rather than locking numbers or new surnames.
 

@@ -55,6 +55,22 @@ Every recognized Great House must have a credible historical answer for:
 
 This is not a point system. Extraordinary wealth, age, military strength, or prestige cannot compensate for the absence of genuine independent sovereignty or durable succession.
 
+## Required wealth accounting and cadet separation
+
+The House's **principal net worth** means beneficial wealth of the ruling/senior line and genuinely common sovereign House patrimony **net of liabilities**, excluding property separately owned by any cadet House. Cadet branches are distinct subordinate Houses with their **own net worth figures**, even where they contribute enormous strategic power to the parent House. Bound Major/Lesser Houses, patronage families, unaffiliated outside shareholders, third-party client assets, charitable assets held for other beneficiaries and independent allies' property are likewise not automatically owned by the principal House.
+
+House records must keep these distinct:
+1. Senior-family personal/household net worth, with jointly owned property reconciled;
+2. Separately held *common principal-House* trusts, assets and reserves actually attributable to it;
+3. Each cadet House's independently attributable net worth, **not included in (1) or (2)**;
+4. Portfolio enterprise value, gross revenue, managed assets, client assets and ownership stakes (only beneficial equity belongs in net worth);
+5. Broader resources under control or substantial influence, **overlapping and not additive** to wealth;
+6. Political, industrial, covert and technological leverage that cannot be meaningfully described as personal dollar wealth.
+
+**World scale:** In the 2026 setting most recognized Great Houses possess fortunes comparable to or above the richest families of the contemporary real world, along with much greater strategic and institutional power. Ravenscroft is the overwhelming strategic leader, with existing multitrillion-scale wealth descriptions and specific relatives who individually possess hundreds of billions. Valdieri is an intentional, constitutionally equal but unusually weak restored Great House. Do not create equal wealth for all eleven by formula or inflate existing individual corporations to fit headline figures.
+
+For still-developing numerical bands, cite the <a href="../world/great-house-wealth-revaluation-proposal.md">2026 wealth revaluation proposal</a> and label them **proposed**, not locked. Earlier four-House $8–22B estimates are legacy figures being revised; preserve specific personal and corporate canon until independently reconciled.
+
 ## Required House-wide power and dependencies register
 
 Every Great-House record must describe more than family governance. Show the House's relationships with **cadet Houses, subordinate/bound Major Houses, Lesser Houses, independent allies, patroned families and individuals, corporations and trusts, industrial interests, political networks, civic institutions, and criminal or covert organizations when established**. Major and Lesser Houses receive a proportional version.

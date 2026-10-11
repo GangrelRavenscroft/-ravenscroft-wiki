@@ -1,6 +1,6 @@
 # House Valdieri — Great-House Closeout Review (11 October 2026)
 
-**STATUS: REFERENCE AUDIT + VISUAL RECOMMENDATIONS, NOT NEW CANON.** This is a current punch list for finishing the main Valdieri House record. It is **not** a license to reinterpret existing canon or automatically lock the visual proposals. The user approved and locked the Council officers, five Lesser-House Heads, regional reporting and peer-House dispute rules on October 11.
+**STATUS: REFERENCE AUDIT WITH BATCH 1 VISUAL CANON NOW LOCKED.** The earlier draft alternatives have been superseded for this approved image set; other unresolved lore and other image batches remain outside this approval. The user approved and locked the Council officers, five Lesser-House Heads, regional reporting and peer-House dispute rules on October 11.
 
 ## 1. Canon synchronized and verified
 
@@ -16,21 +16,13 @@
 
 ## 2. Current remaining decisions — prioritize those that affect visible completeness
 
-### A. House visual canon — **required and currently incomplete**
+### A. House visual canon — **LOCKED / APPROVED on 11 October 2026**
 
-The [Great House Page Standard](../standards/HOUSE_PAGE_STANDARD.md) calls for four foundational House images:
+The user reviewed the six-image identification page against the Batch 1 collage and confirmed **A→5, B→4, C→1, D→6, E→3, F→2**. The user then instructed **“Lock as canon.”** This approval supersedes the earlier unapproved visual alternatives for this Batch 1 set. Permanent images reside in [assets/houses/valdieri](../assets/houses/valdieri/) and are integrated into the [main Valdieri page](valdieri.html). The [asset manifest](valdieri-batch-1-visual-canon.md) preserves the source-to-target mapping.
 
-1. **Full heraldic achievement / crest** — NOT approved. The main page's simple “V” monogram is an explicitly temporary symbol, not a heraldic mark. House arms must be developed without borrowing motifs from Ravenscroft, Wycliffe, Veyrholm or Falkenrath. The motto **“What is promised must endure”** is only a suggested maxim, not approved heraldry.
-2. **Rocca delle Fonti principal-seat establishing view** — NOT created/approved. A plausible Piedmont/Gesso foothill fortified historic palazzo with visible reconstruction across centuries, defensible geology, inhabited wings and the protected archival function. Avoid a gigantic fantasy castle.
-3. **Influence map** — NOT created/approved. Show Piedmont **core**, Genoa/west Liguria Genova cadet influence, Canavese/Ivrea regional mandate, southwest Piedmont Roccabruna, eastern Liguria/La Spezia Marenesi; Milan principal administrative node; separate networks into other regions. Distinguish core vs deep/overlapping vs legacy, not Italian political sovereignty. It must not imply the Great House owns public territory.
-4. **Defining historical image** — NOT created/approved. Recommended subject: **1946 postwar reconstruction / preservation of damaged House archives and institutions at Rocca delle Fonti**, conveying the costs of the civil war and recovery without glorifying coercive wardship or generic battlefield spectacle.
+The six locked images are the **full heraldic achievement (Alpine Bridge rendering), simplified seal, Rocca delle Fonti exterior, Palazzo Valdieri Milan exterior, regional influence map, and 1946 reconstruction/archives scene**. The visual design is locked as depicted, without declaring fictional influence regions sovereign or inventing a legal heraldic grant. **No separate motto has been approved.** The phrase “What is promised must endure” remains a proposed maxim only.
 
-**Heraldry options for user review — NONE LOCKED:**
-- **Option A, preferred: The Alpine bridge.** Azure (deep blue) shield, a silver three-arched bridge surmounting a narrow silver wave, with one small gold six-point star above. Motifs emphasize routes, infrastructure, obligations and surviving a rupture. Tasteful mantling and crest could derive from a stone battlement, without implying ownership of a real region.
-- **Option B: The reconstructed tower.** Deep burgundy shield, silver masonry tower with one gold keystone, accompanied by small gold charges signaling restoration and dependable contracts. Distinct from generic crown/eagle/raven heraldry.
-- **Option C: The ledger seal.** Dark green shield, silver twin vertical pale bars joined by a gold clasp/central link, emphasizing continuity of obligations; more abstract and distinctive, but harder to render as traditional heraldry.
-
-Whichever option is approved, produce a **full House-level achievement plus a simplified monogram/seal** suitable for website use, and then the main page's visual header can be upgraded. Approval should precede image generation.
+**Later portrait, institution and support batches are not automatically included in this Batch 1 approval.** Review and map them separately before canonical placement.
 
 ### B. Historical legal dates — OPEN but nonblocking for House overview
 
@@ -60,7 +52,7 @@ Whichever option is approved, produce a **full House-level achievement plus a si
 
 ## 4. Completion recommendation
 
-**Valdieri's political/institutional overview is substantially complete.** Prefer approving a heraldic direction and building the four required House-level visual assets before declaring its standard House webpage *finished*. Optional exact-date history can be expanded only if needed for future plot work. This House should not consume the same character-by-character dossier effort as Ravenscroft.
+**Valdieri's political/institutional overview is substantially complete.** The four required House-level visual assets and the supplementary simplified seal and Milan exterior are now locked and integrated. Review remaining character/support batches separately before declaring the page *finished*. Optional exact-date history can be expanded only if needed for future plot work. This House should not consume the same character-by-character dossier effort as Ravenscroft.
 
 **Priority in next chat/turn:** present/select one heraldic direction and a compact four-visual package, then proceed to the next Great House. Do not treat this audit's options or missing dates as already-approved canon.
 

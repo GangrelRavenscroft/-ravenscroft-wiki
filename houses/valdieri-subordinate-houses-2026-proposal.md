@@ -34,6 +34,32 @@ GREAT HOUSE VALDIERI — LORENZO VITTORIO VALDIERI
 
 The network comprises **four direct Major-House-equivalent subordinates** (two blood cadets and two separate bound Major Houses), plus **five Lesser Houses** (two directly attached to the Great House and three attached to the Major-standing cadet Houses).
 
+### Regional and specialist authority — framework locked, precise boundaries developing
+
+Under the established Order hierarchy, **Major Houses administer regional House authority**, while **Lesser Houses administer local House interests or professional/industrial specialties**. A Major's region means responsibility for the House's relationships, chartered obligations, regional security and internal network—not ownership of a province, its government or every business.
+
+| Major-House authority | Working primary region (provisional precise delimitation) | Regional duties and adjacent ties |
+|---|---|---|
+| **Valdieri di Genova — Claudia** | Genoa metropolitan sphere and commercial relationships toward **western Liguria** | Maritime-adjacent finance and property, Genova's Lesser House Portelivo, local institutional and civic relationships |
+| **Valdieri di Canavese — Tommaso** | **Northern Piedmont / Canavese and Ivrea** | Industrial and land interests, Lesser Houses Valcerra and Boscariva, technical education and community ties |
+| **Roccabruna — Beatrice** | **Southwest Piedmont / Cuneo and Turin–Cuneo corridor** | Engineering, regional infrastructure, industrial and civic relationships; principal dynastic estate at Rocca delle Fonti remains under direct senior-House constitutional authority |
+| **Marenesi — Giorgio** | **Eastern Liguria and La Spezia-facing commercial corridor**, with continuing Genoa headquarters and commercial interests | Marine risk and insurance, trade and institutional relationships; no right to command Genova or its dependents |
+
+**Great-House directly administered nodes:** Palazzo Valdieri and the Milan investment/professional apparatus, the ancestral Rocca delle Fonti and sovereign records, and any institution not chartered to a Major. The present network does **not** imply that all Italy, all Piedmont or all Liguria is continuously under Valdieri House authority.
+
+**Boundary principle:** The regional map is a working division of *primary House liaison responsibility*, not an exclusive right to own property, trade, sponsor professionals or hold investments. Genova and Marenesi can both conduct business in Genoa without one being subordinate to the other. The Great House resolves disputed House-authority questions between regional peers. Precise lines, negotiated exceptions and historic regional reassignment dates remain to be drafted.
+
+### Lesser-House role profiles
+
+- **Belmonte d'Orta — specialist/direct:** heritage title, conservation and archives, with local roots near Lake Orta and a professional mandate serving principal-House estates elsewhere.
+- **Serravento — local/direct:** alpine estate and watershed district work in southwest Piedmont, attached directly to principal-House estates and protected continuity sites; its presence does not make Roccabruna subordinate.
+- **Portelivo — local and specialist/Genova:** Genoese port-zone technical inspection, surveying and maritime contract work under Claudia's cadet-Major authority.
+- **Valcerra — specialist/Canavese:** material standards, metrology and technical qualification, with cross-regional clients but no authority over other Major Houses.
+- **Boscariva — local and specialist/Canavese:** forested and watershed landscapes around Canavese and northern Piedmont, plus ecological and land-management expertise.
+
+**Locked:** regional versus local/specialist division of labor, direct Great-House allegiance for every Major, existing House specialties and superior relationships. **Developing:** geographic limits, special districts, community partners, precise contracts and the final placement of specific local mandates.
+
+
 ## 2. Major-House Roccabruna — directly bound to Lorenzo
 
 - **Head (locked):** **Dr. Beatrice Ludovica Roccabruna**, born **1969**, age 57 in 2026.
@@ -109,6 +135,6 @@ No part of this hierarchy revives the extinct Monferrato bloodline, changes the 
 
 **LOCKED:** Four direct Major-level subordinate Houses (Genova and Canavese as blood cadets; Roccabruna and Marenesi as separate non-blood Majors), five Lesser Houses with the reported attachment, Major House and Lesser House names, the two Major Heads' names/birth years/professions, each subordinate House's own approximate net worth range, geographic and professional niches, and distinction between allegiance and ownership.
 
-**OPEN:** Exact birth dates of Beatrice and Giorgio, personal families and successors, historic binding dates, specific Lesser Heads, heraldry, family seats, company names, detailed property titles and the juridical procedures for House charter appeals.
+**OPEN:** Exact birth dates of Beatrice and Giorgio, personal families and successors, historic binding dates, specific Lesser Heads, final regional boundaries and special districts, heraldry, family seats, company names, detailed property titles and the juridical procedures for House charter appeals.
 
 **Development next:** Establish Roccabruna's and Marenesi's separate histories and current households; clarify their charters as Great-House direct dependencies; name the Lesser Heads as their brief profiles are developed; add the appropriate Major/Lesser status to every future Great-House power register.

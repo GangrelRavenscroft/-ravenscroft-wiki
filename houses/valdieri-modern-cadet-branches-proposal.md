@@ -8,6 +8,12 @@ The historically powerful Monferrato cadet branch initiated the civil war, backe
 
 The broad outline should not make every Genova descendant a villain or every Canavese descendant loyal. No one living in 2026 needs to inherit a fixed moral identity from an ancestor's choice. Some relationships have healed; some have not.
 
+## Rank and regional authority — locked core, boundaries developing
+
+Both surviving cadet Houses have **Major-House standing**. Their blood relationship to the Valdieri senior line confers additional kinship privileges but does not create a separate higher tier. **Claudia of Genova and Tommaso of Canavese answer directly to Lorenzo, just like independent bound Major Houses Roccabruna and Marenesi**. They govern regional House networks and may supervise Lesser Houses; no Major House is a constitutional subordinate of another Major House.
+
+Genova's primary regional role centers on Genoa and western Ligurian commercial institutions, with its Lesser House Portelivo. Canavese centers on northern Piedmont and Ivrea, with Lesser Houses Valcerra and Boscariva. **These specific regional boundaries are working development details**, not exclusive ownership rights over all civic bodies or businesses in those areas. Marenesi is a **peer Major House** to Genova under Lorenzo, despite overlapping maritime and insurance business relationships.
+
 ## I. Surviving House Valdieri di Genova — established
 
 ### Claudia Renata Valdieri di Genova (born 1964; age 62)

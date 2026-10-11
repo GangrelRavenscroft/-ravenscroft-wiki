@@ -1,6 +1,6 @@
 # House Valdieri — Institutional Reconstruction and Estates (2026)
 
-**STATUS: NEW DEVELOPMENT FOR REVIEW — NOT LOCKED CANON.** Established identities, age and genealogical facts, the Monferrato civil war, the 2023 restoration, Genova and Canavese cadet Houses, the seven-seat *Consiglio di Casa Valdieri*, and Giulia's Ravenscroft marriage remain unchanged. Names and locations of the proposed properties, named institutions, financial valuations, cadet resource amounts, and individual assignments below are offered for user review.
+**STATUS: MIXED — ESTABLISHED FINANCIAL CANON WITH INSTITUTIONAL DEVELOPMENT PROPOSALS.** Established identities, genealogical facts, the Monferrato civil war, 2023 restoration, Genova and Canavese cadet Houses, seven-seat *Consiglio di Casa Valdieri* and Giulia's Ravenscroft marriage remain unchanged. The principal House net-worth band **$3.5–5B**, independent Genova **$1–2B** and Canavese **$1.5–2.5B** bands are **LOCKED**. Estate names, locations, named companies, proposed unpledged liquidity, specific holding allocations and officer assignments below remain **proposals for review**.
 
 ## 1. What makes modern Valdieri different
 

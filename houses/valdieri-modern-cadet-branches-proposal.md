@@ -106,3 +106,8 @@ Genova's primary regional role centers on Genoa and western Ligurian commercial 
 5. Define formal House Council procedures and any optional deputy or observer system without changing the locked seven voting seats.
 
 The six modern cadet characters' names, birth years, relationships, core professions and personality directions are **locked**. The seven-seat House council and its member positions are **locked**; the two previously unassigned officers are now Dr. Riccardo Leone Ferrante (Steward of Assets) and Avv. Dr. Teresa Maddalena Bellandi (Warden of Constitutional Continuity), as recorded in the [later locked officeholder record](valdieri-council-officeholders-2026-proposal.md). Other specific credentials, properties, spouses and exact family connections are **open**.
+
+
+## Batch 3 visual canon — Genova (locked 11 October 2026)
+
+The user identified five 2026 Genova images against the labeled collage as **A→2, B→3, C→5, D→1, E→4**, then explicitly instructed **“Approved. Lock rename move update.”** This approval fixes the primary faces of **Claudia Renata** (D / 1), **Federico Alessio** (A / 2) and **Elisa Beatrice** (B / 3), the three-person **Genova family portrait** (C / 5) and the exterior of **Palazzo di Levante** (E / 4). Each image is preserved at a permanent asset path. See the [Batch 3 approved image manifest](valdieri-batch-3-visual-canon.md) for identity, filename and exact Git blob SHA; the [main Valdieri House page](valdieri.html#family) displays the images. The user has **not** approved any new spouse, parentage bridge, genealogy for historic wards, birth date, or constitutional authority through these visuals. Genova remains a separate Major-ranked blood cadet directly subordinate to Great House Valdieri.

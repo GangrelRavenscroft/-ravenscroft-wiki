@@ -106,10 +106,10 @@
 - **Cannot** command the capital portfolio, personally dispose of principal reserves, or hold a permanent unilateral veto over a lawful successor.
 - **Selection option:** a trusted constitutionally trained official with substantial institutional experience. Blood membership is not automatically required, but exact charter qualifications remain open.
 
-### C. Council procedure — proposal consistent with the locked seven seats
+### C. Existing council voting canon, with implementing details to develop
 
-- **Ordinary business:** simple majority among participating authorized councilors, within powers lawfully delegated to the council.
-- **Structural reserved acts:** proposed **five-of-seven supermajority plus lawful Head's assent**, for significant charter changes, protected trust rearrangements, defined common-House asset disposals or succession-rule amendments; rights protected under existing Compacts cannot be overridden by an ordinary vote.
+- **Ordinary business (established):** simple-majority procedure within powers lawfully delegated to the council. Precise quorum, abstention and proxy rules remain to be developed.
+- **Structural reserved acts (established threshold):** **five of seven votes plus lawful Head assent**. The categories of structural acts, possible headship incapacitation exceptions and the protection of existing cadet property should be precisely enumerated in the future charter; an ordinary council vote cannot override Compact-protected rights.
 - **Incumbent Head unavailable:** verified preexisting regency procedure governs; the Warden authenticates the instrument but cannot personally install a chosen regent. The contingency details remain open.
 - **Separation of offices:** Steward and Warden each have specialist authority; neither is a second Head, and neither has automatic authority over the other's protected domain.
 - **Cadet rights:** branch-specific property changes ordinarily require the competent cadet authority's lawful consent in addition to whatever parent approval the cadet charter reserves.
@@ -158,7 +158,7 @@ The exact 2023 ruling day and recognition reviewers remain unassigned. The Febru
 2. Approve the **five senior/shared institutional pillars**, their ownership separation and the two proposed cadet operating-vehicle names.
 3. Confirm or adjust the proposed **Officine Valdieri** workforce, plant count and annual revenue *without changing the locked House net worths*.
 4. Approve or revise the **Steward of Assets** and **Warden of Constitutional Continuity** charters, with their personal identities still deliberately unassigned.
-5. Decide whether council structural votes should use the proposed five-of-seven threshold and Head assent, recognizing emergency-regency exceptions.
+5. Preserve the **already established five-of-seven threshold and Head assent**, while drafting precise quorum rules, reserved-act definitions, emergency-regency exceptions and protections for cadet autonomy.
 6. Once the foundations are settled, develop Valdieri's handful of bound Major and Lesser House dependents, plus spouses and genealogical bridges for Claudia and Tommaso.
 
 **IMPORTANT: All new names, charter provisions, institution scale and property details above remain proposed. No further character, branch, company, investment or asset is locked by creating this study.**

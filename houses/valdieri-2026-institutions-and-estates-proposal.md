@@ -76,13 +76,13 @@ Tommaso's children remain **Lucia Teresa (b. 1995), materials scientist**, and *
 
 **LOCKED ACCOUNTING RULE:** The principal House's net worth includes only attributable beneficial ownership of the ruling senior family and genuine common sovereign House assets, net of liabilities. Genova and Canavese are separate subordinate Houses with their own independent property. Their net worths **must not** be added to the principal Great-House figure.
 
-**Principal Valdieri Great House, proposed 2026 net worth: $3.5–5 billion.** Includes senior family beneficial equity, senior-line businesses and true common-House assets; excludes separate cadet ownership, third-party client capital, charitable assets not beneficially owned by the House, and companies merely influenced through contracts.
+**Principal Valdieri Great House, LOCKED approximate 2026 net worth: $3.5–5 billion.** Includes senior family beneficial equity, senior-line businesses and true common-House assets; excludes separate cadet ownership, third-party client capital, charitable assets not beneficially owned by the House, and companies merely influenced through contracts.
 
 **Proposed senior/common immediately redeployable unpledged reserves: $300–650 million.** These reserves are a subset of the $3.5–5B, not additional wealth; industrial and estate assets may be illiquid, and protected constitutional obligations constrain discretionary spending.
 
-### Separate proposed subordinate-House valuations
+### Separate LOCKED subordinate-House valuations
 
-| Distinct subordinate House | Own proposed 2026 net worth | Typical composition |
+| Distinct subordinate House | Own locked approximate 2026 net worth | Typical composition |
 |---|---:|---|
 | **Valdieri di Genova** | **$1–2 billion** | Privately attributable commercial investments, property and infrastructure stakes under Claudia's cadet House |
 | **Valdieri di Canavese** | **$1.5–2.5 billion** | Manufacturing and technical enterprise equity, working estates and property owned under Tommaso's cadet House |
@@ -131,7 +131,7 @@ Lorenzo is proud that the central institutions can survive without debt to Raven
 
 1. Approve or revise **Rocca delle Fonti** as the true seat, with Milan as the working commercial headquarters.
 2. Approve the five institution concepts and determine their final names and charters.
-3. Decide whether **$3.5–5B principal-house net worth** is appropriate; separately decide whether Genova should be $1–2B and Canavese $1.5–2.5B. The cadet figures are not included in Valdieri's net worth.
+3. Maintain the approved **$3.5–5B principal-House net worth**, separate from approved **Genova $1–2B** and **Canavese $1.5–2.5B**. Develop the actual beneficial-ownership registers and institutional assets supporting each independent valuation.
 4. Confirm the cadet vehicles are genuine Genova/Canavese properties, not subsidiaries of the senior family.
 5. Decide whether the restored House should have only a handful of subordinate Major/Lesser Houses or a wider network with weaker political loyalty.
 6. After those foundations are set, complete the senior family and cadet Head dossiers, spouses, hereditary ties, the Warden of Continuity and Steward of Assets, principal residences, crest, and approved visual canon.

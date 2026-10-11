@@ -2,7 +2,7 @@
 
 **Updated:** 2026-10-11  
 **Repository:** https://github.com/GangrelRavenscroft/-ravenscroft-wiki  
-**Current focus:** **Great House Valdieri**. Prior approved constitutional and Major-House background records have been synchronized; next is proposing the two open principal-House officeholders, followed by charter procedure and compact Lesser profiles.  
+**Current focus:** **Great House Valdieri**. Prior approved constitutional and Major-House background records are synchronized. **Two new proposal documents are ready for user review:** the open Council officeholder identities and a compact regional-charter/Lesser-House appendix. Neither set of new proposed names is canon yet.  
 **Purpose:** Stable entry point for new conversations; preserve continuity, distinguish locked canon from proposals, and identify the exact next task.
 
 > **START HERE IN A NEW CHAT.** This is an established worldbuilding project, not a request to reinvent the setting. Read this file, then the directly relevant linked canonical records. The user's explicit approval of a detail is authoritative even if an older GitHub page still says "proposed"; mark the repository synchronization as pending rather than discarding approval. Do not restart previous Houses or create a new project merely because a chat reached its length limit.
@@ -78,9 +78,9 @@ Their **2026 Heads have not been assigned**. Each House independently owns its l
 
 ### Exact next steps (ordered)
 
-1. **NEXT:** Develop credible candidates to hold Valdieri's existing seven-seat council's two vacant named-person positions: **Steward of Assets** and **Warden of Constitutional Continuity**. These office charters are locked; individual names/biographies must be explicitly reviewed before being canonized. Do not invent extra seats.
-2. Establish concise **regional charter/reporting and appeal procedure**, preserving all four Majors' direct Great-House allegiance, the five Lesser reporting relationships, and protected Milan/Rocca delle Fonti sites.
-3. Provide only **brief Lesser House background / Head candidates** if needed, without full Ravenscroft-grade dossiers.
+1. **AWAITING USER REVIEW:** [Proposed officeholders](houses/valdieri-council-officeholders-2026-proposal.md) — **Dr. Riccardo Leone Ferrante** (Steward of Assets) and **Avv. Dr. Teresa Maddalena Bellandi** (Warden of Constitutional Continuity). The *offices* are locked but both proposed individuals are **NOT YET CANON**. The fixed seven-seat council and its voting rule are unchanged.
+2. **AWAITING USER REVIEW:** [Draft charter operations, reporting, appeals and five succinct Lesser-House Heads](houses/valdieri-charter-operations-2026-proposal.md). **All of these newly proposed procedures and Head names remain NOT LOCKED**; the existing four Majors' direct Great-House allegiance, five Lesser reporting relationships, independent property and Milan/Rocca delle Fonti exceptions remain fixed.
+3. After approval of either new proposal, promote its approved parts into canon, update the **main Valdieri page** and re-fetch to verify. Maintain compact Lesser-House summaries instead of exhaustive Ravenscroft-grade dossiers.
 4. Review Valdieri main House page for stale proposal/canon contradictions, missing essentials, and image/heraldry needs, then close House Valdieri once approved.
 5. Update this handoff and move to the next Great House the user selects.
 
@@ -90,6 +90,8 @@ Their **2026 Heads have not been assigned**. Each House independently owns its l
 - **[c48fae9](https://github.com/GangrelRavenscroft/-ravenscroft-wiki/commit/c48fae99b3b0b587317162ada7c6e80b809786d9)** — ratified Roccabruna's Major-House background family and institutional overview.
 - **[5488174](https://github.com/GangrelRavenscroft/-ravenscroft-wiki/commit/54881745591ba33c41406efa36516bd1b526ee68)** — ratified Marenesi's Major-House background family and institutional overview.
 - **[ae2f58a](https://github.com/GangrelRavenscroft/-ravenscroft-wiki/commit/ae2f58a7d74bca3ef94209c3e5f0836a30c69cc6)** — brought [main Valdieri page](houses/valdieri.html) into alignment with these approvals.
+- **[d5a5d55](https://github.com/GangrelRavenscroft/-ravenscroft-wiki/commit/d5a5d5566ddb82fbb2b686f9bf768a4f7ef7960e)** — created unapproved proposal for Steward of Assets and Warden of Constitutional Continuity incumbents.
+- **[caed15b](https://github.com/GangrelRavenscroft/-ravenscroft-wiki/commit/caed15b14730a5691e814f721e33774a594286e0)** — created unapproved regional charter procedure and Lesser House Head proposal.
 - Each source file was re-fetched after its GitHub update and exact intended content verified.
 - This living handoff is an index; consult the linked detailed files, with canonical status distinguished from new proposals.
 

@@ -1,6 +1,6 @@
-# Great-House Wealth Revaluation — 2026
+# Great-House Wealth Canon — 2026
 
-**STATUS: SHARED FINANCIAL ACCOUNTING PRINCIPLES LOCKED; EXACT NEW VALUATIONS PROPOSED FOR REVIEW.**
+**STATUS: APPROVED FINANCIAL CANON — October 2026.** The approximate 2026 bands for Wycliffe, Veyrholm, Falkenrath, Volkov, principal Valdieri, Genova and Canavese are locked. **Ravenscroft's principal net worth is intentionally UNASSIGNED pending a future full reconciliation of ownership and family dossiers**; its existing multi-trillion-scale history and exceptional primacy remain canon. Detailed account/holding inventories are still open.
 
 ## Required definitions
 
@@ -12,13 +12,13 @@
 
 Most Great Houses in this setting should be as wealthy as, or wealthier than, the richest families in ordinary contemporary life. They also have much greater reach through layered institutions and subordinate Houses. **Valdieri is the exceptional newly restored and weakest Great House**.
 
-## Recommended revised principal-House figures — NOT YET LOCKED
+## Locked approximate 2026 principal-House valuations
 
 Figures are US dollar equivalents, 2026. **All exclude independently owned cadet-House net worth.** Influence figures overlap and are not additive.
 
 | House | Proposed principal-House net worth | Broader assets controlled or influenced | Rationale |
 |---|---:|---:|---|
-| Ravenscroft | **$3–5 trillion** | **$12–25 trillion** | Unrivaled dynastic capital, industrial and political reach, intelligence and superintelligent AI; reconcile with older personal and trust records |
+| Ravenscroft | **TBD — principal-only valuation deferred** | **TBD — influence-assets band deferred** | Widely established multi-trillion-scale dynasty, unmatched reach and advanced AI; quantify only after reconciling family dossiers, trust beneficiaries, actual ownership and cadet-House property |
 | Wycliffe | **$850 billion–$1.25 trillion** | **$3–5 trillion** | Long-duration British/Commonwealth capital, legal institutions, private investments and infrastructure; third-party client funds excluded from ownership |
 | Veyrholm | **$750 billion–$1.1 trillion** | **$2.5–4 trillion** | Nordic-Baltic shipping, infrastructure, insurance, communications, capital and minority positions; not one flagship business |
 | Falkenrath | **$650–950 billion** | **$2–3.5 trillion** | Separate industrial investment platforms, enduring trusts, property and multinational stakes; retain established Falkenrath Werke values |
@@ -26,6 +26,15 @@ Figures are US dollar equivalents, 2026. **All exclude independently owned cadet
 | Valdieri | **$3.5–5 billion**, proposed weak exception | Undetermined | Recently restored, heavy institutional costs; Genova and Canavese excluded |
 
 Other Great Houses — de Villiers, Amaru, Ashcroft, Shen and Kuroda — must have independent valuations based on their actual institutions. They are not presumed to rank below the examples above. Ravenscroft retains broad strategic primacy.
+
+## Separate approved Valdieri cadet valuations
+
+| Distinct subordinate House | Approximate 2026 own net worth | Included in principal Valdieri $3.5–5B? |
+|---|---:|---|
+| House Valdieri di Genova | **$1–2 billion** | **No** |
+| House Valdieri di Canavese | **$1.5–2.5 billion** | **No** |
+
+For each future cadet House, apply the same independent net-worth accounting. Any assets under administrative oversight but without beneficial ownership must not be double-counted.
 
 ## Historic estimates now outdated as complete House valuations
 
@@ -36,20 +45,20 @@ Other Great Houses — de Villiers, Amaru, Ashcroft, Shen and Kuroda — must ha
 | Veyrholm | $16–22B | $55–75B |
 | Volkov | $8–12B | $30–45B |
 
-These old numbers were approved in their own page contexts but do not describe the later established global economic scale. Preserve them as **legacy estimates pending revaluation**, not authoritative current principal-House totals. No named holding, individual dossier valuation, employee count or company enterprise value is automatically altered by this document.
+These old numbers were approved in their own page contexts but do not describe the later established global economic scale. They are **superseded historical draft estimates**, not authoritative current principal-House totals; the revised bands in the table above are now canon. No named holding, individual dossier valuation, employee count or company enterprise value is automatically altered by this document.
 
 Falkenrath Werke's established approximately **€22–27B annual revenue, 55,000–65,000 employees, and €30–35B enterprise value** remain valid for that specific operating portfolio. The new House-level scale must be supported by distinct assets, not a miraculous increase of that single company.
 
-For Ravenscroft, some individuals have previously established fortunes in the hundreds of billions, but the wide family wealth, House-common trusts, holdings and influence-bearing assets overlap. The proposed $3–5T principal valuation requires later reconciliation against dossiers and cadet ownership. **Do not fabricate a reconciled consolidated balance sheet now.**
+For Ravenscroft, some individuals have previously established fortunes in the hundreds of billions, but the wide family wealth, House-common trusts, holdings and influence-bearing assets overlap. **No principal-only Ravenscroft range is assigned.** Its past multi-trillion wealth statements, established individual fortunes and great strategic advantage must be reconciled against complete dossiers, distinct cadet property and beneficial ownership before assigning either a principal net-worth or influence-bearing asset band. **Do not fabricate a reconciled consolidated balance sheet now.**
 
-For Valdieri, the proposed senior principal House $3.5–5B excludes **Genova cadet $1–2B** and **Canavese cadet $1.5–2.5B**. All three remain numerical proposals. Valdieri's institutional qualification rests on independent continuity, not matching other Great Houses' riches.
+For Valdieri, the **locked** principal House $3.5–5B excludes the **separately locked Genova cadet $1–2B** and **Canavese cadet $1.5–2.5B**. These ranges are approximate independent net-worth measures; the cadet Houses' assets are never added to the constitutional principal House. Valdieri's institutional qualification rests on independent continuity, not matching other Great Houses' riches.
 
 ## What must be developed next
 
-1. Approve/revise numerical bands before making them new locked valuations.
+1. Preserve the approved valuation bands while building actual House beneficial-ownership registers; revalue only with an explicit new canon decision.
 2. Show diversified **beneficial ownership** sufficient to support each eventual total, distinct from AUM, managed third-party property and mere leverage.
 3. Develop modern net worth separately for every recognized cadet House when its actual resources are designed.
 4. Preserve historical property and company canon rather than arbitrarily inflating named individual enterprises.
 5. Apply the same categories to remaining Great Houses as they are developed.
 
-**Never add the second column of an influence estimate to the first column of net worth; never add cadet net worth to principal House net worth.**
+**The four developed non-Ravenscroft Houses' wider influence-bearing ranges are locked as broad overlapping estimates, not audited sums of identifiable corporate assets.** Neither influence envelopes nor cadet wealth may be added to principal House net worth. Detailed named holdings and house-specific debt/capital structures remain to be developed.

@@ -95,6 +95,8 @@ Industries, partner firms, subordinate independent families, jointly governed ho
 
 **Scale context:** The newest world framework places most Great Houses in the high hundreds of billions to trillions of principal net worth. Valdieri remains the deliberate Great-House outlier, constitutional peer but far weaker in freely deployable capital and strategic resilience. Its eventual numeric bands are not locked until approval.
 
+For an illustrative, non-overlapping beneficial-equity allocation that fits the three locked ranges, see [Valdieri — 2026 Financial Ownership Model](valdieri-financial-ownership-model-2026.md). Those proposed holding buckets and midpoint examples are not canonized as individual company assets.
+
 ## 6. Other subordinate House relationships — develop without inventing entities prematurely
 
 Valdieri may have a small number of pledged Major Houses and localized Lesser Houses that support its industrial, conservation or regional interests, plus many patroned professional families that are **not** constitutionally subordinate. Their names and actual allegiances are currently unassigned.

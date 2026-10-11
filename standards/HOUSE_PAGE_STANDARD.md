@@ -75,7 +75,7 @@ For approved 2026 financial ranges, use the <a href="../world/great-house-wealth
 
 Every Great-House record must describe more than family governance. Show the House's relationships with **cadet Houses, subordinate/bound Major Houses, Lesser Houses, independent allies, patroned families and individuals, corporations and trusts, industrial interests, political networks, civic institutions, and criminal or covert organizations when established**. Major and Lesser Houses receive a proportional version.
 
-**Cadet House rank rule (locked world canon):** A genuine cadet House is a **distinct subordinate House with either Major or Lesser standing**. Cadet status describes blood descent and additional family privileges; it does **not** add a rank between the Great and Major Houses. All subordinate **Major Houses answer directly to their Great House**, including Major-ranking blood cadets and unrelated bound Major dynasties. Major Houses may in turn govern Lesser Houses, but **not other Major Houses**. A Lesser cadet follows the same chartered allegiance rules as other Lesser Houses. Every House maintains separate ownership, Headship, personnel and succession; collateral family households are not automatically cadets.
+**Cadet House rank rule (locked world canon):** A genuine cadet House is a **distinct subordinate House with either Major or Lesser standing**. Cadet status describes blood descent and additional family privileges; it does **not** add a rank between the Great and Major Houses. All subordinate **Major Houses answer directly to their Great House**, including Major-ranking blood cadets and unrelated bound Major dynasties. Major Houses may in turn govern Lesser Houses, but **not other Major Houses**. **Major Houses administer regional House interests; Lesser Houses administer local territories or specialist industries/professions.** A specialist Lesser's business may cross regional boundaries without changing constitutional allegiance. No House's assigned area means that it owns the public government or all regional enterprises. A Lesser cadet follows the same chartered allegiance rules as other Lesser Houses. Every House maintains separate ownership, Headship, personnel and succession; collateral family households are not automatically cadets.
 
 ### Explicit relationship categories
 
@@ -87,6 +87,14 @@ Every Great-House record must describe more than family governance. Show the Hou
 - **Politically influential:** policy coalitions, officials, public institutions, civic bodies and professional organizations; distinguish access and alignment from actual command.
 - **Covertly linked or criminal:** independent clandestine contacts, criminal-business families, or organizations with a supported fictional relationship; distinguish alliance, transactional cooperation, rivalry and direct affiliation.
 - **Independent or contested:** rivals, unaligned institutions and overlapping spheres where more than one House has meaningful relationships.
+
+### Required regional and local/specialist map
+
+For every subordinate **Major House**, identify the principal **region of House authority**, its administrative and political liaison role, regional security/continuity obligations, dependent Lesser Houses and any overlapping business networks. Every subordinate Major answers **directly to the Great House**, regardless of cadet or non-blood ancestry.
+
+For each **Lesser House**, specify whether it acts mainly as a **local authority**, an **industry or professional specialist**, or both. Record its immediate Great-House or Major-House superior. Specialist Lessers may provide services across multiple regions without thereby changing their constitutional superior.
+
+House jurisdiction is different from state sovereignty, ownership of a city/industry, patronage, board representation or informal influence. Mark cross-regional institutional cooperation and escalation of charter disputes separately.
 
 For each major real or fictional institution record **type of relationship, relative power, office or House that owns the tie, actual mechanism of authority or influence, independence/limits, obligations, vulnerabilities and canon certainty**. Different Houses must make different choices about which levers they use and how much they rely upon them. An institution can have multiple ties to different Houses. Never treat an entire country, government, region, industry or criminal underworld as automatically owned by one family.
 

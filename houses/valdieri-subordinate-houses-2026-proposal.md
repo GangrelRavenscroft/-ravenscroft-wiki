@@ -1,6 +1,6 @@
 # House Valdieri — Major and Lesser Houses (2026) — LOCKED CANON
 
-**STATUS: LOCKED HOUSE CANON — October 2026.** The direct-to-Great-House Major-House chain of allegiance, cadet Houses' rank-equivalent status, the two bound Major Houses and five Lesser Houses, their 2026 Heads where named, independent net-worth ranges, locations, specialties and reporting relationships are ratified. Personal spouse/children dossiers, exact founding and binding dates, house arms and lesser-house current Heads remain open. This record supersedes the earlier suggested arrangement placing Major House Marenesi beneath the Genova cadet.
+**STATUS: LOCKED HOUSE CANON — October 2026.** The direct-to-Great-House Major-House chain of allegiance, cadet Houses' rank-equivalent status, the two bound Major Houses and five Lesser Houses, their 2026 Heads where named, independent net-worth ranges, locations, specialties and reporting relationships are ratified. The Major-House Roccabruna/Marenesi background families and the five Lesser-House current Heads were later ratified and are linked below. Exact founding/binding instruments, House arms, granular asset ownership and additional genealogies remain open. This record supersedes the earlier suggested arrangement placing Major House Marenesi beneath the Genova cadet.
 
 ## 1. The corrected constitutional hierarchy
 
@@ -94,7 +94,7 @@ Under the established Order hierarchy, **Major Houses administer regional House 
 | **House Valcerra** | **Major-standing cadet House Valdieri di Canavese** | **$100–180 million** | Metrology, materials standards, precision components and technical qualification |
 | **House Boscariva** | **Major-standing cadet House Valdieri di Canavese** | **$50–110 million** | Forestry, watershed stewardship, ecological restoration, working landscapes |
 
-These Lesser Houses have their **own** family Heads, succession, property, funds, commercial organizations and appropriate personnel. Their individual 2026 Heads, births, family members and exact holdings are intentionally unassigned. Wealth held by a Lesser House belongs to it, not automatically to its superior Major House or to Lorenzo.
+These Lesser Houses have their **own** family Heads, succession, property, funds, commercial organizations and appropriate personnel. Their 2026 Heads and birth years are now established in the [ratified charter-operations record](valdieri-charter-operations-2026-proposal.md): Lucia Belmonte, Alberto Serravento, Giovanni Portelivo, Marta Valcerra and Elena Boscariva. Further relatives and specific asset holdings remain open. Wealth held by a Lesser House belongs to it, not automatically to its superior Major House or to Lorenzo.
 
 ## 5. Chain of authority and dispute routes
 
@@ -135,6 +135,6 @@ No part of this hierarchy revives the extinct Monferrato bloodline, changes the 
 
 **LOCKED:** Four direct Major-level subordinate Houses (Genova and Canavese as blood cadets; Roccabruna and Marenesi as separate non-blood Majors), five Lesser Houses with the reported attachment, Major House and Lesser House names, the two Major Heads' names/birth years/professions, each subordinate House's own approximate net worth range, geographic and professional niches, and distinction between allegiance and ownership.
 
-**OPEN:** Exact birth dates of Beatrice and Giorgio, personal families and successors, historic binding dates, specific Lesser Heads, final regional boundaries and special districts, heraldry, family seats, company names, detailed property titles and the juridical procedures for House charter appeals.
+**OPEN:** Exact birth dates of Beatrice and Giorgio, additional extended relatives, historic binding dates, final regional boundaries and special districts, heraldry, detailed property titles and the exceptional constitutional review forum where Lorenzo is personally involved. Roccabruna/Marenesi background families, seats, companies, the five Lesser Heads and ordinary House-charter appeal procedures have since been ratified.
 
-**Development next:** Establish Roccabruna's and Marenesi's separate histories and current households; clarify their charters as Great-House direct dependencies; name the Lesser Heads as their brief profiles are developed; add the appropriate Major/Lesser status to every future Great-House power register.
+**Later completion note:** Roccabruna/Marenesi current household backgrounds and direct Great-House charters are approved, as are the five Lesser Heads and functional regional reporting/appeals. Consult [Roccabruna](roccabruna-major-house-development.md), [Marenesi](marenesi-major-house-development.md) and [charter operations](valdieri-charter-operations-2026-proposal.md) before developing remaining specifics.

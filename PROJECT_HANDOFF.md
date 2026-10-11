@@ -1,11 +1,11 @@
-# House Ravenscroft / World building 2 — Living Project Handoff
+# House Ravenscroft / World building 3 — Living Project Handoff
 
 **Updated:** 2026-10-11  
 **Repository:** https://github.com/GangrelRavenscroft/-ravenscroft-wiki  
-**Current focus:** **Great House Valdieri closeout**. The Council officer identities, five Lesser Heads, charter procedures and cross-references are **locked and verified**. The next substantial task is **visual canon approval and required House-level visuals**; proposed heraldry concepts are recorded but not locked.  
+**Current focus:** **Great House Valdieri visual closeout in World building 3**. Existing political, institutional, Major/Lesser and Council canon is synchronized. The main page received an additional verified cleanup on October 11 (commit `e7f8a6c`). **Next substantive decision: select a heraldic direction for the four-asset House visual package.** All heraldry and images remain proposals awaiting explicit approval.  
 **Purpose:** Stable entry point for new conversations; preserve continuity, distinguish locked canon from proposals, and identify the exact next task.
 
-> **START HERE IN A NEW CHAT.** This is an established worldbuilding project, not a request to reinvent the setting. Read this file, then the directly relevant linked canonical records. The user's explicit approval of a detail is authoritative even if an older GitHub page still says "proposed"; mark the repository synchronization as pending rather than discarding approval. Do not restart previous Houses or create a new project merely because a chat reached its length limit.
+> **START HERE IN A NEW CHAT.** Work currently continues in **World building 3**, migrated intact from World building 2; this is an established worldbuilding project, not a request to reinvent the setting. Read this file, then the directly relevant linked canonical records. The user's explicit approval of a detail is authoritative even if an older GitHub page still says "proposed"; mark the repository synchronization as pending rather than discarding approval. Do not restart previous Houses or create a new project merely because a chat reached its length limit.
 
 ## Working rules and source-of-truth precedence
 
@@ -32,7 +32,7 @@ Other Houses already meaningfully developed include **Wycliffe, Falkenrath, Volk
 - Principal Great-House net worth: **US$3.5–5 billion (2026)**, excluding separately owned cadet and bound-House wealth. No double-counting.
 - Constitutional seat: **Rocca delle Fonti**, near Valdieri, Piedmont. Working/commercial seat: **Palazzo Valdieri**, Milan. Separate cadet seats: **Palazzo di Levante** (Genova), **Villa della Rocchetta** (Canavese).
 - Core institutions: **Compagnia Patrimoniale Valdieri**, **Officine Valdieri Group**, **Fondazione Valdieri per il Patrimonio e le Scienze Applicate**, **Archivio della Rocca / Ufficio della Continuità**, **Consorzio Tecnico Valdieri**. The industrial group has approximately **7–11 operating sites**, **2,700–4,000 employees**, and **US$1.2–1.9B annual revenue**. Cadet vehicles are **Compagnia di Levante Valdieri** and **Tecnologie Canavese Valdieri**.
-- **Consiglio di Casa Valdieri** has **seven seats**. The established protected-decision rule is **five of seven plus the Head's concurrence**. Do not add subordinate Major Heads as voting seats by default. Functions of **Steward of Assets** and **Warden of Constitutional Continuity** are approved; officeholders are still unnamed.
+- **Consiglio di Casa Valdieri** has **seven seats**. The established protected-decision rule is **five of seven plus the Head's concurrence**. Do not add subordinate Major Heads as voting seats by default. **Steward of Assets: Dr. Riccardo Leone Ferrante** (born February 16, 1970) and **Warden of Constitutional Continuity: Avv. Dr. Teresa Maddalena Bellandi** (born November 4, 1963) are fully approved appointed officeholders; exact post-2023 sworn dates remain open.
 
 Key canonical links:
 - [Main Great-House page](houses/valdieri.html)
@@ -66,7 +66,7 @@ Key canonical links:
 | **Valcerra** | Canavese Major cadet | $100–180M | Metrology, materials, precision standards |
 | **Boscariva** | Canavese Major cadet | $50–110M | Forestry, ecology, landscape/watershed stewardship |
 
-Their **2026 Heads have not been assigned**. Each House independently owns its legitimate property, with its own succession and personnel. Do not add Lesser net worth to the parent Major or Great House.
+The five 2026 Heads are **locked**: Dr. Lucia Agnese Belmonte (1972); Alberto Vittorio Serravento (1966); Giovanni Elio Portelivo (1971); Dr. Marta Cecilia Valcerra (1974); Elena Sofia Boscariva (1977). Each House independently owns its legitimate property, with its own succession and personnel. Do not add Lesser net worth to the parent Major or Great House.
 
 ### Earlier user-approved development — synchronized and locked in GitHub
 
@@ -107,9 +107,13 @@ Protected structural decisions still require **five of seven Council votes PLUS 
 - Canon cross-reference source updates: [institutional charters](houses/valdieri-2026-institutional-charters-proposal.md), [institutional study](houses/valdieri-2026-institutions-and-estates-proposal.md), [modern cadets](houses/valdieri-modern-cadet-branches-proposal.md), [regional governance](houses/valdieri-regional-governance-development.md), [subordinate hierarchy](houses/valdieri-subordinate-houses-2026-proposal.md). Each was committed and read back.
 - [879f99f](https://github.com/GangrelRavenscroft/-ravenscroft-wiki/commit/879f99f98013b232bfbfd679a863cc363a39c7d2) — [Valdieri closeout review and recommended visuals](houses/valdieri-closeout-review-2026.md), **proposal only**, not approval for any new heraldry or imagery.
 
+### October 11, 2026 — World building 3 continuation and readback verification
+
+**Completed and verified in this project:** The October 11 repository state was checked against the Library handoff and the newer canonical GitHub handoff. The earlier postwar-rank, Roccabruna/Marenesi, Council and Lesser records were already locked; no repeat overwrites were performed. The main [Valdieri page](houses/valdieri.html) was corrected for an obsolete "unnamed Council officers" canon footer, a stale open-cadet-heads claim, Milan's formerly mislabeled "proposed" seat, the established Genova wardship-and-return policy, and the visual closeout cross-reference. [Verified focused commit `e7f8a6c`](https://github.com/GangrelRavenscroft/-ravenscroft-wiki/commit/e7f8a6c29dc55d5905081e3e8e520ae9e7a96d00); file readback confirmed the updated lines. All new heraldry and visual assets remain unapproved; no imagery or new historical exact dates were invented.
+
 ### Exact next steps — current
 
-1. **NEXT: visual canon for Valdieri**. The [closeout audit](houses/valdieri-closeout-review-2026.md) recommends three possible heraldic directions (Alpine bridge preferred, reconstructed tower, or ledger seal) and four required House-level visual assets: full heraldic achievement, Rocca delle Fonti exterior, influence map, and 1946 reconstruction/archives historical scene. **None of these concepts/images is approved canon yet.** No character face is canon merely because a tentative image is proposed.
+1. **NEXT: visual canon for Valdieri — proposals only, no images yet.** The [closeout audit](houses/valdieri-closeout-review-2026.md) recommends three possible heraldic directions (Alpine bridge preferred, reconstructed tower, or ledger seal) and four required House-level visual assets: full heraldic achievement, Rocca delle Fonti exterior, influence map, and 1946 reconstruction/archives historical scene. **None of these concepts/images is approved canon yet.** No character face is canon merely because a tentative image is proposed.
 2. After visual direction approval, produce only appropriate selected House-level visuals, integrate into the website and test image links. Respect distinct apparent age and existing Great House visual standards.
 3. Optionally establish exact Tribunal/Council dates, 2023 restoration instruments, Roccabruna and Marenesi binding charter dates, office appointments and standing/alternate Conclave delegates. **Do not conflate these with locked years, seven-seat House Council or fictional international Order Council.**
 4. Re-review [Valdieri main page](houses/valdieri.html) for unresolved metadata, image completeness and genuinely open history; then close Valdieri and proceed to the next Great House, preserving the user's instruction **not** to create exhaustive subsidiary-House family dossiers.

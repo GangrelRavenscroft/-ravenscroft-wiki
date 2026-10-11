@@ -1,6 +1,6 @@
 # Valdieri Regional Authority and Major-House Charters — CANON
 
-**STATUS: LOCKED VALDIERI REGIONAL CANON — October 2026.** The four broad primary regional assignments, five Lesser-House local/specialist mandates, principle of commercial overlap without superior constitutional authority, senior-House direct estates, and the Major-to-Great appeal structure are established. **Still open:** precise boundary lines, special districts, charter signature/effective dates, procedural reporting frequencies, named Lesser Heads, detailed corporate holdings and individual family biographies.
+**STATUS: LOCKED VALDIERI REGIONAL CANON — October 2026.** The four broad primary regional assignments, five Lesser-House local/specialist mandates, principle of commercial overlap without superior constitutional authority, senior-House direct estates, and the Major-to-Great appeal structure are established. **Still open:** precise boundary lines, special districts, charter signature/effective dates, particular corporate holdings and extended individual biographies. **Since ratified:** quarterly Major reporting, annual review, emergency escalation, dispute/appeal procedures and all five named Lesser Heads in the [later charter operations record](valdieri-charter-operations-2026-proposal.md).
 
 ## Constitutional rule — established
 
@@ -53,7 +53,7 @@ House government is not state government. A House's jurisdiction determines its 
 | **Valcerra** | Canavese Major House | Specialist technical and industrial | Metrology, precision component standards and materials qualification; service contracts beyond northern Piedmont |
 | **Boscariva** | Canavese Major House | Local land stewardship + ecology specialist | Canavese forest and watershed interests, with environmental consulting outside its immediate district |
 
-Lesser House governance may include property, employees, family succession, business ownership, chartered obligations and patroned professional clients. **The current Lesser Heads remain unassigned.** Their previously approved independent net-worth ranges are unaffected.
+Lesser House governance may include property, employees, family succession, business ownership, chartered obligations and patroned professional clients. **The five Lesser Heads are now named in the later ratified charter-operations record.** Their previously approved independent net-worth ranges are unaffected.
 
 ## III. Boundaries, exceptions, and authority conflicts
 
@@ -82,14 +82,14 @@ Lorenzo keeps overarching House obligations, Conclave Voice, the principal House
 - **Industrial facility near Ivrea:** Canavese handles regional House relationships; Valcerra may supply standards work, but individual corporations still have their own management and ownership.
 - **Bridge and watershed work around Cuneo:** Roccabruna leads the assigned regional House liaison. Serravento may exercise its direct senior-House local mission where an estate or protected site is implicated, requiring coordination rather than forced hierarchy.
 - **Marine-insurance dispute involving Genoa and La Spezia:** Genova and Marenesi can separately represent their own institutions and agree on a joint commercial position. Neither can assume superiority over the other, even if one House is wealthier.
-- **Succession or archive emergency at Rocca delle Fonti:** the Warden of Constitutional Continuity (office established; incumbent unnamed) acts within the principal House mandate. Regional Majors may assist but cannot displace the constitutional archive or create a rival Headship.
+- **Succession or archive emergency at Rocca delle Fonti:** the Warden of Constitutional Continuity (Avv. Dr. Teresa Maddalena Bellandi) acts within the principal House mandate. Regional Majors may assist but cannot displace the constitutional archive or create a rival Headship.
 
 ## V. Remaining detail to develop
 
 1. Draw precise **Genoa/west Liguria versus east Liguria/La Spezia** administrative boundaries and special mandates within the approved broad regions, while preserving overlapping commercial interests.
 2. Identify additional direct senior-House sites or protected special districts, if any, beyond the established **Rocca delle Fonti and Milan** sovereign administrative exceptions; do not alter the broad regional assignments.
-3. Define the exact administrative responsibilities of a Major Head: frequency of reports, regional diplomatic status, obligations under the Compact, and role in emergencies.
-4. Design local seats, charters and current Heads of the five Lesser Houses. Avoid automatically making them miniature replicas of the regional Majors.
+3. The Major reporting frequency, annual review and emergency escalation have since been ratified; detailed local charters and specialized warrants remain open.
+4. The five current Lesser Heads are established in the later charter-operations record; any specific local seats and detailed legal instruments remain open. Avoid turning these Lessers into miniature regional Majors.
 5. Record cadet special family privileges explicitly while preserving equal Major-to-Great rank/allegiance rules.
 
 **Status boundary:** Major-regional / Lesser-local-or-specialist authority, the four broad Valdieri primary regions, five Lesser mandates and direct-Great-House exceptions are canon. Detailed geographic boundaries, exceptional operating warrants, regional manpower and precise charter procedures remain open.

@@ -16,14 +16,14 @@ Most Great Houses in this setting should be as wealthy as, or wealthier than, th
 
 Figures are US dollar equivalents, 2026. **All exclude independently owned cadet-House net worth.** Influence figures overlap and are not additive.
 
-| House | Proposed principal-House net worth | Broader assets controlled or influenced | Rationale |
+| House | Approved principal-House net worth (2026) | Broader assets controlled or influenced | Rationale |
 |---|---:|---:|---|
 | Ravenscroft | **TBD — principal-only valuation deferred** | **TBD — influence-assets band deferred** | Widely established multi-trillion-scale dynasty, unmatched reach and advanced AI; quantify only after reconciling family dossiers, trust beneficiaries, actual ownership and cadet-House property |
 | Wycliffe | **$850 billion–$1.25 trillion** | **$3–5 trillion** | Long-duration British/Commonwealth capital, legal institutions, private investments and infrastructure; third-party client funds excluded from ownership |
 | Veyrholm | **$750 billion–$1.1 trillion** | **$2.5–4 trillion** | Nordic-Baltic shipping, infrastructure, insurance, communications, capital and minority positions; not one flagship business |
 | Falkenrath | **$650–950 billion** | **$2–3.5 trillion** | Separate industrial investment platforms, enduring trusts, property and multinational stakes; retain established Falkenrath Werke values |
 | Volkov | **$550–850 billion** | **$1.5–3 trillion** | Distributed trusts, reserves, transport, energy-adjacent industries, agriculture and cross-border assets; resilient by diversification |
-| Valdieri | **$3.5–5 billion**, proposed weak exception | Undetermined | Recently restored, heavy institutional costs; Genova and Canavese excluded |
+| Valdieri | **$3.5–5 billion**, locked weak exception | Undetermined | Recently restored, heavy institutional costs; Genova and Canavese excluded |
 
 Other Great Houses — de Villiers, Amaru, Ashcroft, Shen and Kuroda — must have independent valuations based on their actual institutions. They are not presumed to rank below the examples above. Ravenscroft retains broad strategic primacy.
 

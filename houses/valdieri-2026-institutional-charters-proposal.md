@@ -133,7 +133,7 @@
 
 A credible peer-recognition audit should show:
 
-1. **Lawful Headship and succession:** Lorenzo recognized, Matteo succeeding him, Chiara next after Giulia's formal withdrawal, with properly authenticated documents.
+1. **Lawful Headship and succession:** At the **2023 restoration review**, Lorenzo is the recognized Head; Matteo is first successor, Giulia next, and Chiara follows. When Giulia formally renounces her and her descendants' succession claims on her **2026 marriage**, Chiara moves into the second-successor position. Both the historic register and the subsequent amendment are authenticated, without retroactively rewriting the 2023 order.
 2. **Genuine economic independence:** House-owned operating equity, patient capital and reserve capacity sufficient for ongoing obligations; cadet support helps but is not the sole basis of survival.
 3. **Independent continuity:** distinct records, officeholders and emergency succession procedures; protection against a single-site loss.
 4. **Enforceable subordinate charters:** Genova and Canavese possess genuine autonomous mandates under a shared House constitution, without creating an unstable competing sovereign claim.

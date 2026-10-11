@@ -1,12 +1,12 @@
-# House Valdieri — Institutional Charters, Seats and Operating Power (2026)
+# House Valdieri — Estates, Institutions and Operating Charters (2026) — LOCKED
 
-**STATUS: NEW INSTITUTIONAL DEVELOPMENT FOR REVIEW — NOT LOCKED.** This proposal builds the actual offices, property layout and professional structures behind House Valdieri's 2023 restoration. It does NOT lock estate/company names, operating scale, new charters, detailed powers or unassigned people. **Existing canon is binding:** Head Lorenzo Vittorio; senior household Elena, Matteo, Giulia and Chiara; seven-seat Consiglio di Casa Valdieri with Claudia (Genova) and Tommaso (Canavese); two unnamed officer seats; senior independent net worth US$3.5–5B; Genova independent net worth $1–2B; Canavese independent net worth $1.5–2.5B. The family war, branch alignments, Monferrato extinction and Genova wardship settlement remain unchanged.
+**STATUS: LOCKED INSTITUTIONAL CANON — October 2026.** The four named estates and their regional functions, five senior/shared institutional pillars, two separately cadet-owned commercial vehicles, Officine Valdieri's approximate 7–11 sites / 2,700–4,000 employees / US$1.2–1.9B annual revenue, and the Steward of Assets and Warden of Constitutional Continuity charters are approved. The seven-seat council and its five-of-seven plus Head concurrence requirement remain intact. **Not assigned:** named holders of the two offices, individual enterprise boards and executives, exact street locations, asset-specific beneficial equity/debt, detailed personnel or subordinate Major/Lesser Houses. The principal Valdieri $3.5–5B, independent Genova $1–2B and Canavese $1.5–2.5B net-worth ranges remain separate and locked.
 
-## 1. Recommended architectural and geographic system
+## 1. Established architectural and geographic system
 
 **A House with multiple centers, not competing capitals.**
 
-| Proposed site | Relationship | Function | Distinctive atmosphere |
+| Established site | Relationship | Function | Distinctive atmosphere |
 |---|---|---|---|
 | **Rocca delle Fonti**, fictional estate in the foothills of the Gesso valley, near Valdieri in the province of Cuneo | Senior/common Great-House estate | True constitutional seat, protected archives, formal Headship ceremonies, family quarters, private succession authentication | Old stone fortress-palazzo visibly repaired after wartime ruin; comfortable but not ostentatious |
 | **Palazzo Valdieri**, Milan | Senior/common commercial office property | Capital stewardship, professional legal and financial staff, meetings with companies, orderly public House representation | Discreet renovated historic palazzo; modern working offices in restored historic spaces |
@@ -17,7 +17,7 @@
 
 **Continuity rule:** A ceremony held in Milan does not make Milan the sovereign seat, and a cadet's grand estate does not give it equal Great-House constitutional authority. Conversely, the senior family's authority doesn't make the cadet properties Lorenzo's beneficial property. The older property should carry architectural traces of the war without romanticizing Monferrato's annihilation.
 
-## 2. Proposed senior-Line enterprises and genuinely common institutions
+## 2. Established senior-line enterprises and common institutions
 
 ### Compagnia Patrimoniale Valdieri — capital stewardship
 
@@ -31,7 +31,7 @@
 ### Officine Valdieri Group — senior House's industrial backbone
 
 - **Nature:** a group of specialist industrial companies; not the entirety of northern Italian manufacturing.
-- **Working scale to review:** approximately **7–11 operating locations**, **2,700–4,000 employees**, and roughly **US$1.2–1.9B equivalent annual consolidated revenue**. These are proposals, not existing company canon.
+- **Approved operating scale:** approximately **7–11 operating locations**, **2,700–4,000 employees**, and roughly **US$1.2–1.9B equivalent annual consolidated revenue**. These are approximate operating ranges, not an exact audited count or beneficial-equity valuation.
 - **Lanes:** precision machinery and tooling, metrology and industrial measurement, specialty automation, testing, advanced mechanical components, and long-lived industrial maintenance and service.
 - **Sources of enterprise value:** engineering capability, customer contracts, sophisticated production assets, intellectual property and a history of executing difficult projects.
 - **Governance:** professional operating-company chief executives; a group board accountable to its real shareholders; House stewardship does not entitle Matteo to a chief-executive post merely through birth.
@@ -66,7 +66,7 @@
 ### House Valdieri di Genova
 
 - **Head:** Claudia Renata Valdieri di Genova (born 1964).
-- **Proposed principal vehicle:** *Compagnia di Levante Valdieri*, separately owned by her cadet House.
+- **Established principal vehicle:** *Compagnia di Levante Valdieri*, separately owned by the Genova cadet House.
 - **Lanes:** commercial property, contracted finance and leasing, selective logistics-infrastructure stakes, heritage-commercial buildings and merchant-network relationships.
 - **Net worth:** **$1–2B LOCKED**, separate from the principal $3.5–5B.
 - **Political position:** Claudia participates in the seven-seat House Council while maintaining her branch's legitimate property rights and internal decision-making. The memory of Genova's wartime censure informs how fiercely her branch defends its charter.
@@ -74,20 +74,20 @@
 ### House Valdieri di Canavese
 
 - **Head:** Tommaso Enrico Valdieri di Canavese (born 1967).
-- **Proposed principal vehicle:** *Tecnologie Canavese Valdieri*, separately owned by that cadet.
+- **Established principal vehicle:** *Tecnologie Canavese Valdieri*, separately owned by the Canavese cadet House.
 - **Lanes:** precision industrial equipment, materials engineering, specialist manufacturing, applied testing, productive land and technical partnerships.
 - **Net worth:** **$1.5–2.5B LOCKED**, separate from both the principal House and Genova.
 - **Political position:** indispensable technical ally of the senior line, but not its wholly owned manufacturing division; Tommaso's House can sponsor professionals and manage dependent interests within its charter.
 
 **Shared rule:** The Great-House Head may decide House constitutional questions and reserved obligations; ordinary cadet purchases, employment, independent property and legitimate commercial strategy normally belong to each cadet House. The parent's political or protective jurisdiction is not carte blanche to confiscate separate assets.
 
-## 4. The seven-seat Consiglio di Casa Valdieri — established seats, proposed office charters
+## 4. The seven-seat Consiglio di Casa Valdieri — established seats and charters
 
 **Already locked seats:** Lorenzo (Head), Matteo (heir), Dr. Elena (senior consort by appointment), Claudia (Genova cadet Head), Tommaso (Canavese cadet Head), **Steward of Assets** (identity unassigned), **Warden of Constitutional Continuity** (identity unassigned). It is an internal House body, not the international nine-member Council.
 
-### A. Steward of Assets — proposed office charter
+### A. Steward of Assets — established office charter
 
-**Italian title option:** *Sovrintendente al Patrimonio* (Steward of Patrimony).
+**Established Italian style:** *Sovrintendente al Patrimonio* (Steward of Assets/Patrimony).
 
 - Custody/oversight of common-House treasury policy, beneficial ownership registers, major capital commitments, insurance and resilience reserves.
 - Reviews principal House investment and institutional exposures; consolidates true House accounts and records **cadet reports as separate affiliated entities**, never silently counting all cadet assets as senior equity.
@@ -95,9 +95,9 @@
 - **Cannot** choose the Head, authenticate succession, sell a cadet House's privately owned property, or claim to own charitable assets held for third parties.
 - **Selection option:** a senior trusted professional, blood relative, or married-in member with significant capital-management competence; exact eligibility and person remain open.
 
-### B. Warden of Constitutional Continuity — proposed office charter
+### B. Warden of Constitutional Continuity — established office charter
 
-**Italian title option:** *Custode della Continuità* (Custodian of Continuity).
+**Established Italian style:** *Custode della Continuità* (Warden/Custodian of Constitutional Continuity).
 
 - Authenticates succession instruments, the regency pathway and the legal existence of cadet charters.
 - Preserves the Great-House recognition file, restricted archive, essential Order/Compact documents, official seals and certified emergency duplicates.
@@ -106,7 +106,7 @@
 - **Cannot** command the capital portfolio, personally dispose of principal reserves, or hold a permanent unilateral veto over a lawful successor.
 - **Selection option:** a trusted constitutionally trained official with substantial institutional experience. Blood membership is not automatically required, but exact charter qualifications remain open.
 
-### C. Existing council voting canon, with implementing details to develop
+### C. Existing council voting canon; procedural details still developing
 
 - **Ordinary business (established):** simple-majority procedure within powers lawfully delegated to the council. Precise quorum, abstention and proxy rules remain to be developed.
 - **Structural reserved acts (established threshold):** **five of seven votes plus lawful Head assent**. The categories of structural acts, possible headship incapacitation exceptions and the protection of existing cadet property should be precisely enumerated in the future charter; an ordinary council vote cannot override Compact-protected rights.
@@ -152,13 +152,13 @@ The exact 2023 ruling day and recognition reviewers remain unassigned. The Febru
 - **Claudia:** insists that Genova's genuine charters and independent capital be respected after the humiliations of civil war.
 - **Tommaso:** a practical, sometimes blunt defender of Canavese's autonomy and industrial collaboration.
 
-## 8. Review checklist
+## 8. Open implementation details
 
-1. Approve **Rocca delle Fonti, Palazzo Valdieri, Palazzo di Levante and Villa della Rocchetta** as the four named principal/cadet properties, or revise individual names.
-2. Approve the **five senior/shared institutional pillars**, their ownership separation and the two proposed cadet operating-vehicle names.
-3. Confirm or adjust the proposed **Officine Valdieri** workforce, plant count and annual revenue *without changing the locked House net worths*.
-4. Approve or revise the **Steward of Assets** and **Warden of Constitutional Continuity** charters, with their personal identities still deliberately unassigned.
-5. Preserve the **already established five-of-seven threshold and Head assent**, while drafting precise quorum rules, reserved-act definitions, emergency-regency exceptions and protections for cadet autonomy.
-6. Once the foundations are settled, develop Valdieri's handful of bound Major and Lesser House dependents, plus spouses and genealogical bridges for Claudia and Tommaso.
+1. Specify final street-level and cadastral details, architectural room programs and approved visual canon for the four established estates.
+2. Assign senior-company and cadet-vehicle corporate managers and board governance, while keeping each House's assets separately titled.
+3. Assign the **Steward of Assets** and **Warden of Constitutional Continuity** only after confirming existing family and professional dossiers; the offices and basic charters are established, not their incumbents.
+4. Set council quorum, proxies, emergencies and precise reserved-act definitions without revising its established seven voting seats or five-of-seven plus Head concurrence rule.
+5. Develop the subordinate bound Major and Lesser Houses and their charter relationships, then the spouses and precise genealogical bridges for Claudia and Tommaso.
+6. Allocate real institution-by-institution beneficial equity, debt and liquidity within the three locked independent net-worth bands; the earlier illustrative allocation remains unratified.
 
-**IMPORTANT: All new names, charter provisions, institution scale and property details above remain proposed. No further character, branch, company, investment or asset is locked by creating this study.**
+**CANON BOUNDARY:** Named estate and institutional identities, broad functions, separate cadet ownership, operating ranges and the two constitutional office charters are locked. The exact asset-by-asset valuations, new people, named subordinate Major/Lesser Houses, business boards, detailed bylaws and property images remain open.

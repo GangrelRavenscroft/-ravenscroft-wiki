@@ -22,7 +22,7 @@ The user reviewed the six-image identification page against the Batch 1 collage 
 
 The six locked images are the **full heraldic achievement (Alpine Bridge rendering), simplified seal, Rocca delle Fonti exterior, Palazzo Valdieri Milan exterior, regional influence map, and 1946 reconstruction/archives scene**. The visual design is locked as depicted, without declaring fictional influence regions sovereign or inventing a legal heraldic grant. **No separate motto has been approved.** The phrase “What is promised must endure” remains a proposed maxim only.
 
-**Batches 2 and 3 are now approved:** Batch 2 includes the principal-family portraits/group; Batch 3 includes Claudia, Federico and Elisa of Genova, their family group and Palazzo di Levante. All are locked and integrated. Later batches remain unapproved until individually reviewed. See the [Batch 2 manifest](valdieri-batch-2-visual-canon.md) and [Batch 3 Genova manifest](valdieri-batch-3-visual-canon.md).
+**Batches 2, 3 and 4 are now approved:** Batch 2 includes the principal-family portraits/group; Batch 3 covers Genova's Claudia, Federico, Elisa, family group and Palazzo di Levante; Batch 4 covers Canavese's Tommaso, Lucia, Pietro, group and Villa della Rocchetta. All are locked and integrated. Later batches remain unapproved until individually reviewed. See the [Batch 2](valdieri-batch-2-visual-canon.md), [Batch 3](valdieri-batch-3-visual-canon.md) and [Batch 4](valdieri-batch-4-visual-canon.md) manifests.
 
 ### B. Historical legal dates — OPEN but nonblocking for House overview
 
@@ -52,9 +52,9 @@ The six locked images are the **full heraldic achievement (Alpine Bridge renderi
 
 ## 4. Completion recommendation
 
-**Valdieri's political/institutional overview is substantially complete.** Batches 1–3 (House identity, senior-family portraits, and Genova cadet images) are locked and integrated. Review remaining character/support batches separately before declaring the page *finished*. Optional exact-date history can be expanded only if needed for future plot work. This House should not consume the same character-by-character dossier effort as Ravenscroft.
+**Valdieri's political/institutional overview is substantially complete.** Batches 1–4 (House identity, senior-family portraits, and both Genova and Canavese cadet images) are locked and integrated. Review remaining character/support batches separately before declaring the page *finished*. Optional exact-date history can be expanded only if needed for future plot work. This House should not consume the same character-by-character dossier effort as Ravenscroft.
 
-**Priority next:** identify and integrate the next Valdieri image batch when uploaded and user-approved. The earlier House-wide heraldry proposals are superseded by locked Batch 1 art. The senior family and Genova images are separately locked; do not re-open them without user direction.
+**Priority next:** identify and integrate the next Valdieri image batch when uploaded and user-approved. The earlier House-wide heraldry proposals are superseded by locked Batch 1 art. The senior family, Genova and Canavese images are separately locked; do not reopen them without user direction.
 
 ## Live references
 

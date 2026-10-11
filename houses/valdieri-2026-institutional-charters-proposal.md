@@ -11,8 +11,8 @@
 | **Rocca delle Fonti**, fictional estate in the foothills of the Gesso valley, near Valdieri in the province of Cuneo | Senior/common Great-House estate | True constitutional seat, protected archives, formal Headship ceremonies, family quarters, private succession authentication | Old stone fortress-palazzo visibly repaired after wartime ruin; comfortable but not ostentatious |
 | **Palazzo Valdieri**, Milan | Senior/common commercial office property | Capital stewardship, professional legal and financial staff, meetings with companies, orderly public House representation | Discreet renovated historic palazzo; modern working offices in restored historic spaces |
 | **Northern Piedmont industrial operations** in the broader Cuneo–Turin corridor | Senior industrial companies; separate corporate title | Precision industry and applied technology; non-ceremonial professional operations | Modern plants and laboratories; shop-floor competence matters |
-| **Palazzo di Levante**, Genoa | Independently owned by Genova cadet (proposed title) | Claudia's residence and senior cadet office, commercial property and infrastructure investment | Merchant-patrician palazzo with functioning offices, not an imitation of senior-House headquarters |
-| **Villa della Rocchetta**, Canavese, near Ivrea | Independently owned by Canavese cadet (proposed title) | Tommaso's residence, working estates, nearby technical facilities and research ties | Landed northern-Italian engineering family estate, surrounded by active businesses |
+| **Palazzo di Levante**, Genoa | Independently owned by Genova cadet (established title) | Claudia's residence and senior cadet office, commercial property and infrastructure investment | Merchant-patrician palazzo with functioning offices, not an imitation of senior-House headquarters |
+| **Villa della Rocchetta**, Canavese, near Ivrea | Independently owned by Canavese cadet (established title) | Tommaso's residence, working estates, nearby technical facilities and research ties | Landed northern-Italian engineering family estate, surrounded by active businesses |
 | **Secondary protected archive and continuity site**, precise address intentionally omitted | Principal House constitutional institution | Verified duplicates of succession and essential instruments, not an alternate second Headship | More functional than ceremonial |
 
 **Continuity rule:** A ceremony held in Milan does not make Milan the sovereign seat, and a cadet's grand estate does not give it equal Great-House constitutional authority. Conversely, the senior family's authority doesn't make the cadet properties Lorenzo's beneficial property. The older property should carry architectural traces of the war without romanticizing Monferrato's annihilation.
@@ -35,7 +35,7 @@
 - **Lanes:** precision machinery and tooling, metrology and industrial measurement, specialty automation, testing, advanced mechanical components, and long-lived industrial maintenance and service.
 - **Sources of enterprise value:** engineering capability, customer contracts, sophisticated production assets, intellectual property and a history of executing difficult projects.
 - **Governance:** professional operating-company chief executives; a group board accountable to its real shareholders; House stewardship does not entitle Matteo to a chief-executive post merely through birth.
-- **Matteo's development:** propose a genuine technical or transformation mandate earned through his career, with a clear separation from his constitutional status as heir.
+- **Matteo's development:** a genuine technical or transformation mandate is plausible for his career but his exact corporate position remains unassigned, separately from his constitutional heirship.
 - **Valuation boundary:** The locked senior-House $3.5–5B includes whatever beneficial equity Valdieri actually owns. Company revenue, enterprise value and total managed assets are not additional senior-House net worth.
 
 ### Fondazione Valdieri per il Patrimonio e le Scienze Applicate — genuine charitable institution
@@ -56,7 +56,7 @@
 ### Consorzio Tecnico Valdieri — a shared technical institution
 
 - **Type:** consortium or joint training arrangement, not a single new House-owned megacorporation.
-- **Members:** proposed participation from senior industrial operations, Canavese-owned firms, independent suppliers, applied research and specialist educational partners.
+- **Members:** participation from senior industrial operations, Canavese-owned firms and independent specialist educational or supplier partners; specific entities and memberships remain open.
 - **Purpose:** scholarships, apprenticeships, apprentices' exchange, manufacturing skills, metrology, and supplier quality.
 - **Ownership:** separate members contribute under contract and retain their actual assets; consortium authority comes from its charter, not surname alone.
 - **Cadet consequence:** Canavese has genuine influence based on technical merit and investment, not just a ceremonial subordinate seat.
@@ -93,7 +93,7 @@
 - Reviews principal House investment and institutional exposures; consolidates true House accounts and records **cadet reports as separate affiliated entities**, never silently counting all cadet assets as senior equity.
 - Advises Lorenzo, the council and professional boards on large capital commitments and vulnerability to concentration, liability and liquidity shortages.
 - **Cannot** choose the Head, authenticate succession, sell a cadet House's privately owned property, or claim to own charitable assets held for third parties.
-- **Selection option:** a senior trusted professional, blood relative, or married-in member with significant capital-management competence; exact eligibility and person remain open.
+- **Future incumbent:** to be selected from qualified trusted professionals or family members; exact constitutional eligibility and personal identity remain open.
 
 ### B. Warden of Constitutional Continuity — established office charter
 
@@ -104,7 +104,7 @@
 - Coordinates legal records of House council decisions, charter disputes, restitution and branches' standing without taking over the courts or individual cadet governance.
 - Confirms **who has authority under existing House law**; does **not** get to designate a preferred heir or rewrite Giulia's irrevocable renunciation by discretionary edict.
 - **Cannot** command the capital portfolio, personally dispose of principal reserves, or hold a permanent unilateral veto over a lawful successor.
-- **Selection option:** a trusted constitutionally trained official with substantial institutional experience. Blood membership is not automatically required, but exact charter qualifications remain open.
+- **Future incumbent:** a constitutionally trained official with substantial institutional experience; whether blood membership is formally required and the individual's identity remain open.
 
 ### C. Existing council voting canon; procedural details still developing
 
@@ -118,7 +118,7 @@
 
 ## 5. Who owes whom what: House power ledger
 
-| Entity or group | 2026 proposed relationship | What Valdieri can actually do | What Valdieri cannot automatically do |
+| Entity or group | 2026 relationship type | What Valdieri can actually do | What Valdieri cannot automatically do |
 |---|---|---|---|
 | Principal industrial group | House beneficial owner with corporate governance rights | Vote its actual shareholding, set broad strategy through legal board mechanisms | Treat all company revenues or third-party shareholders' capital as personal cash |
 | Genova cadet House | Constitutional subordination, separate House identity | Enforce lawful House-wide charter duties, receive agreed reporting, decide reserved disputes | Own its entire investment portfolio or select Claudia's personal purchases |
@@ -140,7 +140,7 @@ A credible peer-recognition audit should show:
 5. **Real trained personnel:** administrative, legal, financial, archival, professional and security teams that do not evaporate when an aging Head leaves office.
 6. **Compact capacity and reliability:** demonstrable ability to answer for House responsibilities without relying on Ravenscroft's protection as a substitute for sovereignty.
 
-The exact 2023 ruling day and recognition reviewers remain unassigned. The February/May timing of Giulia's 2026 marriage cannot retroactively become proof of the 2023 recognition. Valdieri must have independently qualified before receiving Ravenscroft's later dynastic prestige.
+The exact 2023 ruling day and recognition reviewers remain unassigned. Giulia's 2026 marriage cannot retroactively become proof of the 2023 recognition; her exact marriage date remains open. Valdieri must have independently qualified before receiving Ravenscroft's later dynastic prestige.
 
 ## 7. Narrative consequences for the senior and cadet families
 

@@ -1,5 +1,31 @@
 # GREAT HOUSE PAGE STANDARD
 
+## DEFINITIVE DEPTH POLICY — USER-LOCKED, 11 OCTOBER 2026
+
+**House Ravenscroft is the ONE dynasty for exhaustive worldbuilding.** This explicitly supersedes any older passage below that treats every Great House as requiring Ravenscroft-level dossiers, exhaustive family trees, extensive historic chronicles, financial ledgers, institutions, charters, multi-batch character portraits or lengthy branch narratives.
+
+### Tier A — House Ravenscroft (deep treatment)
+Develop as fully as useful to the narrative: detailed generations, characters and personal Master A/B dossiers, genealogies, formative history, Order offices and clearance, patronage, private intelligence, finances and holdings, residences, political relationships, visual identities and scenes. Preserve all existing locked content and the separate dossier standard.
+
+### Tier B — All other Great Houses (concise but credible treatment)
+Each of the other ten recognized Great Houses merits a **cohesive, attractive overview**, not encyclopedic development:
+- basic identity, geography, distinctive competence and historic character;
+- Head and immediate senior leadership / a small number of noteworthy relatives **only when already established or narratively needed**;
+- principal seat and one or two important institutions and sources of power;
+- broad history and contemporary geopolitical role, major relationships and relevant pressures;
+- approximate House-scale wealth **only when established and meaningful**;
+- a **compact subordinate-House directory** with names, region/industry and superior;
+- minimal selected House-level visuals (crest/seat, perhaps one map or significant portrait when desired), not automatically large batches.
+  
+For non-Ravenscroft Great Houses, **the full 21-section required page order and stress-test documentation below are a reference menu, NOT a mandatory exhaustive production checklist**. Condense, combine or omit nonessential sections. We may build enough credibility for all eleven to coexist in the Order, but our creative time is concentrated on Ravenscroft. Do not keep expanding other House genealogies simply to fill perceived gaps.
+
+### Tier C — Major and Lesser Houses under ANY Great House (directory only)
+Standard output: **House name · rank/immediate superior where needed · principal locality/House-network sphere · industry or specialty**. One table row or sentence is sufficient. **No individual family dossiers, Head identities, spouses, descendants, personal finances, estates, corporate ownership registers, charter history, portraits, heraldry, or dedicated webpages by default.**
+
+**Grandfather clause:** already locked named subordinate Heads, children, records, financial decisions or images stay canon and accessible in archival files; never erase approved continuity. But do **not** feature their detailed biographies in routine Great-House overviews, generate additional subordinate pages, or continue subordinate projects without an explicit user request. This applies to previously expanded Valdieri and Belgian/Swiss de Villiers subordinate families as well.
+
+**No extra workstreams:** Do not treat unapproved individual subordinate-character, succession, charter, financial or portrait proposals as necessary unfinished work. When moving through the roster, stop at appropriate world-level coverage and return creative focus to Ravenscroft.
+
 ## Purpose
 Great House pages are institutional records, not person dossiers. They explain why a House qualifies as a constitutional peer, how it developed historically, where and how it exercises influence, how it relates to the Order, and how its identity differs from other Great Houses.
 
@@ -21,7 +47,7 @@ A table row or a one-sentence entry is sufficient. For example: **House de Brév
 
 **Constitutional constraints still apply:** all bound or cadet **Major Houses report directly to the Great House**; Lessers report to their specified Major or directly to the Great House. House territory describes responsibility within the hidden network, not sovereignty over modern states, public institutions or whole industries. Avoid inventing local officers and charters merely to complete a template.
 
-## Required page order
+## Full archival page order (Ravenscroft; optional reference structure for other Great Houses)
 1. House masthead and full heraldic identity
 2. Global archive navigation
 3. Breadcrumb
@@ -60,7 +86,7 @@ A table row or a one-sentence entry is sufficient. For example: **House de Brév
 
 Do not invent officeholders merely to fill the page. Use “intentionally unassigned / record pending” until the relevant character exists.
 
-## Required Great-House stress-test categories
+## Great-House stress-test categories (high-level summary for non-Ravenscroft peers)
 Every recognized Great House must have a credible historical answer for:
 1. Independent sovereignty
 2. Durable succession
@@ -89,7 +115,7 @@ House records must keep these distinct:
 
 For approved 2026 financial ranges, use the <a href="../world/great-house-wealth-revaluation-proposal.md">Great-House Wealth Canon</a>. The principal-House bands for Wycliffe, Veyrholm, Falkenrath, Volkov and Valdieri, and the independent Genova and Canavese bands, are **locked**. Earlier four-House $8–22B estimates are superseded legacy figures. **Ravenscroft has no locked principal-only net worth or wider assets-under-influence range** pending review of its trusts, personal fortunes, institutions and cadet property. Preserve named companies, individual fortune facts and exact ownership canon until independently reconciled.
 
-## Required House-wide power and dependencies register
+## Great-House power and dependencies (summary only outside Ravenscroft)
 
 Every Great-House record should describe its broad network of subordinate Houses, institutions, independent allies, patronage and commercial/covert relationships **at the Great-House level**. Use **brief table rows only** for individual subordinate Major/Lesser Houses. Do not produce a proportional full power register for each subordinate House.
 
@@ -118,7 +144,7 @@ For each major real or fictional institution record **type of relationship, rela
 
 The shared reference is <a href="../world/great-house-power-structure.html">Great-House Power Structure</a>. The House-specific section should give a tangible, distinctive network, not merely repeat the world guide or list ungrounded assets.
 
-## Required cadet-branch relations and private loyalty architecture
+## Cadet-branch relations (brief general note outside Ravenscroft)
 
 Great-House pages may include **one concise paragraph** describing the sovereign family's general relationship to cadet branches or subordinate Houses if relevant. **Do not create separate cadet-relationship subsections or full histories for subordinate Major/Lesser House entries**; the only standard presentation for each subordinate is its name, locality, specialty and parent relationship.
 
@@ -141,7 +167,7 @@ Distinguish **formal House constitution** from **unwritten political management*
 Where no named cadets exist, a short note such as **Cadet Houses not yet established** is sufficient. Do not invent a genealogy or additional Houses to fill a table.
 
 ## Visual standard
-### Required
+### House-level options (do not create extensive non-Ravenscroft image programs automatically)
 1. Full heraldic crest — primary House identifier; full crest reserved for House-level use.
 2. Principal seat — exterior or establishing image.
 3. House influence map — must distinguish core, deep influence, overlap/contested areas, and legacy networks; never imply modern sovereignty unless canon explicitly does.

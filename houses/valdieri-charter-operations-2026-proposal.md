@@ -58,3 +58,8 @@ A regional **Major House Head** is Valdieri's appointed/chartered regional **Hou
 **Scope:** This is a concise institutional appendix. Further character genealogies are unnecessary without direct plot relevance.
 
 [Main Valdieri page](valdieri.html) · [Council officeholders](valdieri-council-officeholders-2026-proposal.md)
+
+
+## Batch 8 approved likenesses — five Lesser-House Heads (11 October 2026)
+
+The user confirmed **A→3, B→4, C→2, D→1, E→5** against the numbered Batch 8 collage and then approved the complete set. These five portraits are fixed visual canon for the five already-ratified heads on this charter record; the approval does not alter their personal names, birth years, titles, mandates, personalities or succession. **Collage 4 = Elena Boscariva, collage 5 = Dr. Marta Valcerra** (not the initial requested-image list order). Their source image hashes, original uploaded filenames, and permanent asset paths are recorded in [Batch 8 canon](valdieri-batch-8-visual-canon.md); [House Valdieri gallery](valdieri.html#valdieri-lesser-heads-gallery) displays all five. Treat their apparent ages as credible non-Great-House-blood aging.

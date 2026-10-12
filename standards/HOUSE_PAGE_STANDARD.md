@@ -3,6 +3,24 @@
 ## Purpose
 Great House pages are institutional records, not person dossiers. They explain why a House qualifies as a constitutional peer, how it developed historically, where and how it exercises influence, how it relates to the Order, and how its identity differs from other Great Houses.
 
+## Production scope — LOCKED user instruction, 11 October 2026
+
+**Great Houses receive full development; subordinate Major and Lesser Houses receive SHORT DIRECTORY ENTRIES ONLY.** This instruction applies to **ALL recognized Great Houses** and supersedes older production requirements in this file insofar as they demand full biographies, detailed cadet charters, exhaustive subordinate enterprise/finance registers, separate portrait sets, or stand-alone websites for Major and Lesser Houses.
+
+**Minimum entry for each Major or Lesser House:**
+- **House name**;
+- **rank/status and immediate superior** (briefly, if not obvious);
+- **locality / primary area of House-network responsibility**;
+- **principal industry, specialty or local mandate**.
+
+A table row or a one-sentence entry is sufficient. For example: **House de Bréval — bound Major under de Villiers; Belgium (Wallonia/Brussels); industrial infrastructure and cross-border rail/logistics**. **House de Cressens — Lesser under de Corvelles; Geneva; engineering-contract liaison and compliance**.
+
+**Do not automatically create** named Heads, spouses, children, personal histories, individual fortunes, property inventories, dedicated pages, portraits, house crests, technical dossiers, bespoke governing councils or additional subordinate Layers. No need to assign a net worth or personal Head to every subordinate. If a Head, branch history, asset or family detail is *already approved*, **preserve it in archival canon** and do not delete or retcon it; simply keep routine Great-House public-facing sections concise. Expand a particular subordinate only on explicit user direction or when indispensable to a specific story.
+
+**Priorities:** Great-House history, sovereign ruling family, actual main institutions, long-range power and politics, estates, history, wealth and visuals. Subordinate Houses provide *geographic and functional coverage*, not a second tier of full worldbuilding projects.
+
+**Constitutional constraints still apply:** all bound or cadet **Major Houses report directly to the Great House**; Lessers report to their specified Major or directly to the Great House. House territory describes responsibility within the hidden network, not sovereignty over modern states, public institutions or whole industries. Avoid inventing local officers and charters merely to complete a template.
+
 ## Required page order
 1. House masthead and full heraldic identity
 2. Global archive navigation
@@ -73,7 +91,7 @@ For approved 2026 financial ranges, use the <a href="../world/great-house-wealth
 
 ## Required House-wide power and dependencies register
 
-Every Great-House record must describe more than family governance. Show the House's relationships with **cadet Houses, subordinate/bound Major Houses, Lesser Houses, independent allies, patroned families and individuals, corporations and trusts, industrial interests, political networks, civic institutions, and criminal or covert organizations when established**. Major and Lesser Houses receive a proportional version.
+Every Great-House record should describe its broad network of subordinate Houses, institutions, independent allies, patronage and commercial/covert relationships **at the Great-House level**. Use **brief table rows only** for individual subordinate Major/Lesser Houses. Do not produce a proportional full power register for each subordinate House.
 
 **Cadet House rank rule (locked world canon):** A genuine cadet House is a **distinct subordinate House with either Major or Lesser standing**. Cadet status describes blood descent and additional family privileges; it does **not** add a rank between the Great and Major Houses. All subordinate **Major Houses answer directly to their Great House**, including Major-ranking blood cadets and unrelated bound Major dynasties. Major Houses may in turn govern Lesser Houses, but **not other Major Houses**. **Major Houses administer regional House interests; Lesser Houses administer local territories or specialist industries/professions.** A specialist Lesser's business may cross regional boundaries without changing constitutional allegiance. No House's assigned area means that it owns the public government or all regional enterprises. A Lesser cadet follows the same chartered allegiance rules as other Lesser Houses. Every House maintains separate ownership, Headship, personnel and succession; collateral family households are not automatically cadets.
 
@@ -90,9 +108,9 @@ Every Great-House record must describe more than family governance. Show the Hou
 
 ### Required regional and local/specialist map
 
-For every subordinate **Major House**, identify the principal **region of House authority**, its administrative and political liaison role, regional security/continuity obligations, dependent Lesser Houses and any overlapping business networks. Every subordinate Major answers **directly to the Great House**, regardless of cadet or non-blood ancestry.
+For every subordinate **Major House**, identify **only the House name, status, geographic sphere and principal industry/function**, plus immediate allegiance where useful. Every Major reports **directly to the Great House**, regardless of cadet or nonblood ancestry. Do not develop each Major's separate leadership, capital, security, branch charters and family tree as a default output.
 
-For each **Lesser House**, specify whether it acts mainly as a **local authority**, an **industry or professional specialist**, or both. Record its immediate Great-House or Major-House superior. Specialist Lessers may provide services across multiple regions without thereby changing their constitutional superior.
+For each **Lesser House**, specify its **name, locality or industry/specialty and immediate superior** (Great House or Major House). One short row is enough. Specialists may serve projects across regional boundaries without changing allegiance.
 
 House jurisdiction is different from state sovereignty, ownership of a city/industry, patronage, board representation or informal influence. Mark cross-regional institutional cooperation and escalation of charter disputes separately.
 
@@ -102,7 +120,7 @@ The shared reference is <a href="../world/great-house-power-structure.html">Grea
 
 ## Required cadet-branch relations and private loyalty architecture
 
-Every newly developed Great House **must** include a meaningful section on how its senior line relates to cadet branches, even if the family currently has no large established cadet branch. This is a standard requirement for every future House we develop and for substantial revisions of older House pages. **Apply a proportionate version to Major and Lesser House records as well**, identifying parent-House obligations, subordinate family divisions and loyalty practices where relevant.
+Great-House pages may include **one concise paragraph** describing the sovereign family's general relationship to cadet branches or subordinate Houses if relevant. **Do not create separate cadet-relationship subsections or full histories for subordinate Major/Lesser House entries**; the only standard presentation for each subordinate is its name, locality, specialty and parent relationship.
 
 Distinguish **formal House constitution** from **unwritten political management**:
 
@@ -120,7 +138,7 @@ Distinguish **formal House constitution** from **unwritten political management*
 
 **Ravenscroft-specific reference:** See the <a href="../houses/ravenscroft-cadet-relations.html">Ravenscroft Cadet Relations record</a> when created or updated; preserve its existing patronage and Ashbourne doctrine rather than inventing contradictory education or patronage rules. Separate the main-line/collateral-family relationships from patroned outsiders and independent former offshoots.
 
-For a House with few or no named cadets, provide an explicit **Cadet Relations — Developing** section that describes known policy, historical precedent and unanswered structural questions instead of fabricating a complete genealogy. When cadets are named later, update this section.
+Where no named cadets exist, a short note such as **Cadet Houses not yet established** is sufficient. Do not invent a genealogy or additional Houses to fill a table.
 
 ## Visual standard
 ### Required
@@ -136,7 +154,7 @@ For a House with few or no named cadets, provide an explicit **Cadet Relations �
 8. Major secondary seat or protected Order site.
 9. Historically important marriage/alliance image if central to House history.
 
-Avoid generic image galleries. Every visual should explain either identity, geography, history, leadership, or institutional power.
+Avoid generic image galleries. Every visual should explain Great-House identity, geography, history, leadership or institutional power. **Subordinate Major and Lesser Houses do not require portraits, individual estate views or heraldry.** Preserve previously approved art if it exists without making more.
 
 ## Influence-map rules
 - “Core” = deepest historical/institutional concentration, not political ownership.

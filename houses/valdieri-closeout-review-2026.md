@@ -1,6 +1,6 @@
 # House Valdieri — Great-House Closeout Review (11 October 2026)
 
-**STATUS: REFERENCE AUDIT WITH BATCH 1 VISUAL CANON NOW LOCKED.** The earlier draft alternatives have been superseded for this approved image set; other unresolved lore and other image batches remain outside this approval. The user approved and locked the Council officers, five Lesser-House Heads, regional reporting and peer-House dispute rules on October 11.
+**STATUS: FULL NINE-BATCH VISUAL CANON LOCKED; REPOSITORY AND CONTINUITY AUDIT COMPLETE — 11 OCTOBER 2026.** The approved House, Council, family, subordinate-House and institutional visuals are present and verified. Outstanding exact-date political history, some dossier details and Giulia's separate Ravenscroft-styled Master B hero portrait remain open; visual completion does not close those matters. Previously ratified constitutional hierarchy, offices, reporting and separate wealth remain unchanged.
 
 ## 1. Canon synchronized and verified
 
@@ -82,11 +82,22 @@ The user mapped **A→1, B→2, C→4, D→5, E→3, F→6** and explicitly **ap
 
 **Valdieri's political/institutional overview is substantially complete.** Batches 1–9 (House identity, senior and cadet families, Council/interiors, independent Roccabruna and Marenesi households and sites, five Lesser-House Heads and six support scenes) are locked and integrated, with the separate Batch 4 correction documented. The planned visual batch package is finished; optional portraits, unresolved dossier biography details or specific historical dates still require separate approval. Optional exact-date history can be expanded only if needed for future plot work. This House should not consume the same character-by-character dossier effort as Ravenscroft.
 
-**Priority next:** audit the full House Valdieri page for image placement and remaining optional canon gaps, then move to the next House or user-selected dossier. Do not reopen locked Batches 1–9 without explicit instruction. The earlier House-wide heraldry proposals are superseded by locked Batch 1 art. The senior family, Genova and Canavese images are separately locked; do not reopen them without user direction.
+**Priority next:** Valdieri's post-integration audit is complete. Continue with the next user-selected House, or develop Giulia's separate Ravenscroft Master B hero/dossier. Do not reopen locked Batches 1–9 without explicit instruction. The earlier House-wide heraldry proposals are superseded by locked Batch 1 art. The senior family, Genova and Canavese images are separately locked; do not reopen them without user direction.
+
+## 5. Final post-integration repository and continuity audit — 11 October 2026
+
+**Result: PASS for file paths, manifests, local references, approved scope and locked institutional continuity.** The [detailed final audit](valdieri-final-visual-and-continuity-audit-2026.md) checks all 52 images against canonical Git blob SHA values across nine manifests (6+6+5+5+5+7+7+5+6). The [main House page](valdieri.html) has 58 image placements referring to exactly 52 distinct image sources; the six extra placements are deliberate repeats of Batch 1 House art. All local image/link targets are present in Git for the main House page, Giulia dossier, nine image test pages, and historic Batch 4/5 recovery page. Another 27 Valdieri-related Markdown records were checked for relative link integrity.
+
+Corrected the House masthead, stale 1–4 batch status note and footer. Added an accessible all-nine-batch index in the House's Visual Canon section. No approved visual binary or approved image-to-person mapping was altered during this audit.
+
+**Residual visual-continuity considerations:** The Giulia/Elias couple scene is approved as narrative support, not the authoritative individual face or future Ravenscroft Master B hero. Incidental alternative heraldry in supporting artwork is not canon; House Valdieri's locked arms remain a silver three-arch bridge over waves and gold star on blue. Historic sail imagery in a contemporary Marenesi office is not 2026 historical/traffic canon. This pass verifies file and document integrity, **not** an independent pixel-level certification of every depicted face, number of figures or architectural detail. If a scene's visual anachronism becomes objectionable, request a separately reviewed derivative correction rather than silently replacing locked art.
+
+**Remaining open decisions:** Giulia's separate Master B primary portrait and personal dossier gaps, exact postwar court/council instruments and dates, exceptional Head-review procedure, narrow charter boundaries, patrimonial beneficial allocations, certain genealogical bridges, and further character dossiers. The nine planned Valdieri image batches require no additional approval.
 
 ## Live references
 
 - [House Valdieri page](valdieri.html)
+- [Full final image/link and continuity audit](valdieri-final-visual-and-continuity-audit-2026.md)
 - [Living project handoff](../PROJECT_HANDOFF.md)
 - [Council officeholders — locked](valdieri-council-officeholders-2026-proposal.md)
 - [Regional operations and Lesser Heads — locked](valdieri-charter-operations-2026-proposal.md)

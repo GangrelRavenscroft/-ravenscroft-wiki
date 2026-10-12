@@ -138,3 +138,8 @@ No part of this hierarchy revives the extinct Monferrato bloodline, changes the 
 **OPEN:** Exact birth dates of Beatrice and Giorgio, additional extended relatives, historic binding dates, final regional boundaries and special districts, heraldry, detailed property titles and the exceptional constitutional review forum where Lorenzo is personally involved. Roccabruna/Marenesi background families, seats, companies, the five Lesser Heads and ordinary House-charter appeal procedures have since been ratified.
 
 **Later completion note:** Roccabruna/Marenesi current household backgrounds and direct Great-House charters are approved, as are the five Lesser Heads and functional regional reporting/appeals. Consult [Roccabruna](roccabruna-major-house-development.md), [Marenesi](marenesi-major-house-development.md) and [charter operations](valdieri-charter-operations-2026-proposal.md) before developing remaining specifics.
+
+
+## Batch 6 Roccabruna visual canon — 11 October 2026
+
+**LOCKED BY EXPLICIT USER APPROVAL:** The Roccabruna set is matched **A→7, B→6, C→5, D→4, E→1, F→3, G→2**. Seven separately named original PNG blobs are fixed as primary portraits of Beatrice, Marco, Giovanni, Lucia and Pietro, their family group, and the independently owned **Villa Roccabruna** exterior. This changes no rank, wealth, birth dates or reporting relationships. [Batch 6 manifest](valdieri-batch-6-visual-canon.md) · [Roccabruna background](roccabruna-major-house-development.md) · [House Valdieri gallery](valdieri.html#roccabruna-gallery).

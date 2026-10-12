@@ -60,11 +60,15 @@ The user also clarified that files we treated as in-progress Batch 5 were Batch 
 
 The five corrected uploads were explicitly user-approved as **A→1, B→2, C→3, D→5, E→4**: Ferrante, Bellandi, seven-seat Consiglio group, Milan Council boardroom, and Archivio della Rocca interior. All were moved using exact original Git blobs and integrated into the [House page](valdieri.html), [Council officeholder record](valdieri-council-officeholders-2026-proposal.md), [updated test page](../valdieri-batch-5-image-test.html) and [Batch 5 locked manifest](valdieri-batch-5-visual-canon.md). This changes visual canon only, not existing Council powers, House blood-status or international mandates. The earlier Batch 4/5 cleanup remains separately documented above.
 
+## Batch 6 Roccabruna visual canon — approved 11 October 2026
+
+Seven source uploads matched **A→7, B→6, C→5, D→4, E→1, F→3, G→2** and explicitly approved by the user. Primary 2026 faces for Dr. Beatrice Ludovica Roccabruna, spouse Marco Davide Bellini, and children Giovanni, Lucia and Pietro are locked. The family group and Villa Roccabruna exterior are also locked and appear in the [Roccabruna gallery](valdieri.html#roccabruna-gallery). All seven permanent images preserve their original Git blob data and are documented in the [Batch 6 visual manifest](valdieri-batch-6-visual-canon.md). This is a separate, non-Valdieri-blood Major House with independently owned wealth; no new bloodline status, unusual longevity, or extra House Council seat follows from the portrait approval.
+
 ## 4. Completion recommendation
 
-**Valdieri's political/institutional overview is substantially complete.** Batches 1–5 (House identity, senior and cadet family visuals, Council officer portraits and institutional interiors) are locked and integrated, with the separate Batch 4 correction documented. Review remaining character/support batches separately before declaring the page *finished*. Optional exact-date history can be expanded only if needed for future plot work. This House should not consume the same character-by-character dossier effort as Ravenscroft.
+**Valdieri's political/institutional overview is substantially complete.** Batches 1–6 (House identity, senior and cadet family art, Council officers/interiors and the independent Roccabruna family and Villa) are locked and integrated, with the separate Batch 4 correction documented. Review remaining character/support batches separately before declaring the page *finished*. Optional exact-date history can be expanded only if needed for future plot work. This House should not consume the same character-by-character dossier effort as Ravenscroft.
 
-**Priority next:** identify Batch 6 images against their collage after upload, and integrate only after approval. The earlier House-wide heraldry proposals are superseded by locked Batch 1 art. The senior family, Genova and Canavese images are separately locked; do not reopen them without user direction.
+**Priority next:** identify and approve Batch 7 Marenesi images against their collage after upload. The earlier House-wide heraldry proposals are superseded by locked Batch 1 art. The senior family, Genova and Canavese images are separately locked; do not reopen them without user direction.
 
 ## Live references
 

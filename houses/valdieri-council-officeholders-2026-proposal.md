@@ -2,11 +2,19 @@
 
 **STATUS: APPROVED AND LOCKED CANON — October 11, 2026.** The two offices and their seats on the **seven-member Consiglio di Casa Valdieri** were already canon; the user has now also approved the incumbents, births, education, broad careers, personalities and personal relationships recorded here. **Still open:** precise appointment instruments and exact effective dates after the 2023 restoration; specifics of Order clearance and operational authorization. This is a background leadership record, not a new Council tier.
 
+## Approved Batch 5 Council visual canon
+
+User-confirmed source mapping **A→1, B→2, C→3, D→5, E→4**. All five visuals were explicitly approved 11 October 2026 and assigned named permanent asset paths. The officers' already-locked backgrounds and constitutional limits remain unchanged. See [Batch 5 manifest](valdieri-batch-5-visual-canon.md) and [House Council gallery](valdieri.html#governance).
+
+![Approved group scene of the seven-seat Consiglio di Casa Valdieri](../assets/institutions/valdieri/consiglio-di-casa-2026-group.png)
+
 ## Existing council: fixed
 
 The established seven voting seats are: (1) **Lorenzo Vittorio Valdieri**, Head; (2) **Matteo Lorenzo Valdieri**, heir; (3) **Dr. Elena Beatrice Montanari Valdieri**, appointed senior consort; (4) **Claudia Renata Valdieri di Genova**, cadet Head; (5) **Tommaso Enrico Valdieri di Canavese**, cadet Head; (6) **Steward of Assets**, incumbent identified below; (7) **Warden of Constitutional Continuity**, incumbent identified below. Routine council recommendations use a simple majority; **protected structural acts require five of seven plus the lawful Head's concurrence**. This is not the Order's nine-seat International Council. Neither independent Major House Roccabruna nor Marenesi receives a separate council seat by virtue of its regional House rank.
 
 ## Steward of Assets / Sovrintendente al Patrimonio
+
+![Dr. Riccardo Leone Ferrante approved primary portrait](../assets/characters/riccardo-leone-ferrante/primary-portrait.png)
 
 **Full name:** **Dr. Riccardo Leone Ferrante**  
 **Birth:** **February 16, 1970** (56 in October 2026)  
@@ -23,6 +31,8 @@ The established seven voting seats are: (1) **Lorenzo Vittorio Valdieri**, Head;
 **Apparent age and future visuals:** Non-Great-House blood; privileged medical access might modestly preserve his appearance, but do not depict an implausibly young man in his thirties. Apparent-age visual guidance: **early fifties**.
 
 ## Warden of Constitutional Continuity / Custode della Continuità
+
+![Avv. Dr. Teresa Maddalena Bellandi approved primary portrait](../assets/characters/teresa-maddalena-bellandi/primary-portrait.png)
 
 **Full name:** **Avv. Dr. Teresa Maddalena Bellandi**  
 **Birth:** **November 4, 1963** (62 in October 2026)  
@@ -48,6 +58,6 @@ This produces a useful political dynamic without changing the fixed **five-of-se
 
 **LOCKED:** Dr. Riccardo Leone Ferrante (born February 16, 1970) as Steward of Assets and Avv. Dr. Teresa Maddalena Bellandi (born November 4, 1963) as Warden of Constitutional Continuity; both are non-Valdieri-blood professional appointees, with the backgrounds, work histories, personal interests and relationships outlined above. Their offices are two **existing**, not additional, Council seats. The existing five-of-seven votes plus Head concurrence rule for protected structural acts remains mandatory.
 
-**OPEN:** Exact sworn appointment dates after 2023, individual ceremonial instruments, personal Order clearance and any future portraits. Their ordinary professional appointments should not be read as automatic authority over independent cadet/Major/Lesser patrimony.
+**OPEN:** Exact sworn appointment dates after 2023, individual ceremonial instruments, personal Order clearance and any further age-progression portraits or narrative scenes outside their now-locked 2026 primary faces. Their ordinary professional appointments should not be read as automatic authority over independent cadet/Major/Lesser patrimony.
 
 [Return to main Valdieri House page](valdieri.html) · [Regional charter operations](valdieri-charter-operations-2026-proposal.md)

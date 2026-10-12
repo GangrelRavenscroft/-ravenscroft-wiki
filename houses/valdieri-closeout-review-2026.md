@@ -56,11 +56,15 @@ A user screenshot proved that `assets/families/valdieri-di-canavese/family-portr
 
 The user also clarified that files we treated as in-progress Batch 5 were Batch 4 and that previously removed files belonged to the Batch 5 upload workflow. Git history preserved the original data; three missing original PNG paths from the five-image upload commit `79d6a4b` have been restored to root `assets/`, and two others were already present. The sixth, separately uploaded `76822486-279C-430E-8724-0D1302A9072C.png`, is preserved. **Do not delete these originals or make new Batch 5 assignments without reviewing their contents.** Batch 4/5 file attribution and the identity of the sixth original remain to be reconciled through the [visual recovery audit](../valdieri-batches-4-5-recovery-audit.html). The branch and institutional canon are unchanged; portrait file assignments beyond the verified estate correction should not be treated as visually revalidated.
 
+## Batch 5 Council and institutional imagery — approved 11 October 2026
+
+The five corrected uploads were explicitly user-approved as **A→1, B→2, C→3, D→5, E→4**: Ferrante, Bellandi, seven-seat Consiglio group, Milan Council boardroom, and Archivio della Rocca interior. All were moved using exact original Git blobs and integrated into the [House page](valdieri.html), [Council officeholder record](valdieri-council-officeholders-2026-proposal.md), [updated test page](../valdieri-batch-5-image-test.html) and [Batch 5 locked manifest](valdieri-batch-5-visual-canon.md). This changes visual canon only, not existing Council powers, House blood-status or international mandates. The earlier Batch 4/5 cleanup remains separately documented above.
+
 ## 4. Completion recommendation
 
-**Valdieri's political/institutional overview is substantially complete.** Batches 1–4 (House identity, senior-family portraits, and both Genova and Canavese cadet images) are locked and integrated. Review remaining character/support batches separately before declaring the page *finished*. Optional exact-date history can be expanded only if needed for future plot work. This House should not consume the same character-by-character dossier effort as Ravenscroft.
+**Valdieri's political/institutional overview is substantially complete.** Batches 1–5 (House identity, senior and cadet family visuals, Council officer portraits and institutional interiors) are locked and integrated, with the separate Batch 4 correction documented. Review remaining character/support batches separately before declaring the page *finished*. Optional exact-date history can be expanded only if needed for future plot work. This House should not consume the same character-by-character dossier effort as Ravenscroft.
 
-**Priority next:** identify and integrate the next Valdieri image batch when uploaded and user-approved. The earlier House-wide heraldry proposals are superseded by locked Batch 1 art. The senior family, Genova and Canavese images are separately locked; do not reopen them without user direction.
+**Priority next:** identify Batch 6 images against their collage after upload, and integrate only after approval. The earlier House-wide heraldry proposals are superseded by locked Batch 1 art. The senior family, Genova and Canavese images are separately locked; do not reopen them without user direction.
 
 ## Live references
 

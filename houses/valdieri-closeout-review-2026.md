@@ -72,11 +72,17 @@ The user approved all seven Marenesi images, then gave verified identities **A�
 
 User-confirmed and approved mapping **A→3, B→4, C→2, D→1, E→5** locks 2026 primary faces of Giovanni Elio Portelivo, Elena Sofia Boscariva, Alberto Vittorio Serravento, Dr. Lucia Agnese Belmonte and Dr. Marta Cecilia Valcerra. Their portraits are stored under the corresponding named character assets and displayed in the [five-head gallery](valdieri.html#valdieri-lesser-heads-gallery). The [Batch 8 visual manifest](valdieri-batch-8-visual-canon.md) retains exact original filenames and blob SHAs. All five remain independently headed nonblood Lesser Houses under the previously ratified direct/Genova/Canavese charter relationships; the user approval changes visual canon only.
 
+## Batch 9 — relationship and institutional support images (approved 11 October 2026)
+
+The user mapped **A→1, B→2, C→4, D→5, E→3, F→6** and explicitly **approved** all six artworks: Giulia/Elias couple (A), Officine industrial campus (B), Fondazione interior (C), Roccabruna field project (D), Consorzio Tecnico workshop (E), and Marenesi maritime/commercial-risk office (F). Their original Git PNG blobs are preserved under named assets; provenance is documented in the [Batch 9 locked manifest](valdieri-batch-9-visual-canon.md). All scenes were added to the appropriate family, economic institution and bound Major House sections, and Giulia's Master B relationship section. No preexisting portrait or approved House arms are superseded; apparent heraldic inventions or historically evocative ship imagery in supporting artwork do not change historical or constitutional canon.
+
+**The nine planned Valdieri image batches are now all completed and locked.** This closes the planned 2026 House Valdieri visual-asset batch program, not every unresolved individual dossier or optional historical question.
+
 ## 4. Completion recommendation
 
-**Valdieri's political/institutional overview is substantially complete.** Batches 1–8 (House identity, senior and cadet families, Council/interiors, independent Roccabruna and Marenesi households/estates, and the five Lesser-House Heads) are locked and integrated, with the separate Batch 4 correction documented. Review remaining character/support batches separately before declaring the page *finished*. Optional exact-date history can be expanded only if needed for future plot work. This House should not consume the same character-by-character dossier effort as Ravenscroft.
+**Valdieri's political/institutional overview is substantially complete.** Batches 1–9 (House identity, senior and cadet families, Council/interiors, independent Roccabruna and Marenesi households and sites, five Lesser-House Heads and six support scenes) are locked and integrated, with the separate Batch 4 correction documented. The planned visual batch package is finished; optional portraits, unresolved dossier biography details or specific historical dates still require separate approval. Optional exact-date history can be expanded only if needed for future plot work. This House should not consume the same character-by-character dossier effort as Ravenscroft.
 
-**Priority next:** identify the six Batch 9 supporting images against their labeled collage after upload, then lock/integrate only if approved. The earlier House-wide heraldry proposals are superseded by locked Batch 1 art. The senior family, Genova and Canavese images are separately locked; do not reopen them without user direction.
+**Priority next:** audit the full House Valdieri page for image placement and remaining optional canon gaps, then move to the next House or user-selected dossier. Do not reopen locked Batches 1–9 without explicit instruction. The earlier House-wide heraldry proposals are superseded by locked Batch 1 art. The senior family, Genova and Canavese images are separately locked; do not reopen them without user direction.
 
 ## Live references
 

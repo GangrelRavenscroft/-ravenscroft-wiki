@@ -162,3 +162,8 @@ The exact 2023 ruling day and recognition reviewers remain unassigned. Giulia's 
 6. Allocate real institution-by-institution beneficial equity, debt and liquidity within the three locked independent net-worth bands; the earlier illustrative allocation remains unratified.
 
 **CANON BOUNDARY:** Named estate and institutional identities, broad functions, separate cadet ownership, operating ranges and the two constitutional office charters are locked. The exact asset-by-asset valuations, new people, named subordinate Major/Lesser Houses, business boards, detailed bylaws and property images remain open.
+
+
+## Batch 9 approved institutional scenes — 11 October 2026
+
+The user approved the Batch 9 supporting images after confirming **A→1, B→2, C→4, D→5, E→3, F→6**. Approved Valdieri-associated institution scenes depict **Officine Valdieri flagship industrial facility (B/2)**, **Consorzio Tecnico Valdieri workshop (E/3)** and **Fondazione Valdieri interior (C/4)**. These illustrations are displayed in the [House's institutional gallery](valdieri.html#valdieri-batch-9-institutions) and tracked at their precise SHA-preserving paths in the [Batch 9 image manifest](valdieri-batch-9-visual-canon.md). They do **not** establish unratified site addresses, boards, subsidiaries, equity percentages, institution coats of arms or alternate House heraldry. The previously locked Officine scale and staffing estimates remain unchanged.

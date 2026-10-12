@@ -15,9 +15,26 @@ Each of the other ten recognized Great Houses merits a **cohesive, attractive ov
 - broad history and contemporary geopolitical role, major relationships and relevant pressures;
 - approximate House-scale wealth **only when established and meaningful**;
 - a **compact subordinate-House directory** with names, region/industry and superior;
-- minimal selected House-level visuals (crest/seat, perhaps one map or significant portrait when desired), not automatically large batches.
+- **standard illustrated Great-House package**: elaborate and simplified matching heraldry, Head and immediate ruling family (including individual images where useful), ancestral/constitutional seat, institutional headquarters, influence map and a defining House-level scene. Preserve already approved faces and sites; do not substitute only a crest/seat for the fuller House-level set.
   
 For non-Ravenscroft Great Houses, **the full 21-section required page order and stress-test documentation below are a reference menu, NOT a mandatory exhaustive production checklist**. Condense, combine or omit nonessential sections. We may build enough credibility for all eleven to coexist in the Order, but our creative time is concentrated on Ravenscroft. Do not keep expanding other House genealogies simply to fill perceived gaps.
+
+### Tier B visual and ruling-household package — USER CLARIFICATION, 11 OCTOBER 2026
+
+**IMPORTANT: “Concise” does NOT mean minimal visuals or an anonymous Great House.** User explicitly confirmed that the **other ten Great Houses retain the same core family, location and illustrated House-package depth already established for the first Houses**, while only Ravenscroft receives exhaustive multi-generation and individually deep dossier treatment.
+
+For each non-Ravenscroft **Great House**, normally retain or create the following **House-level visual/canon essentials** when going through its visual development:
+1. **Full formal heraldic achievement** — elaborate House crest and supporters where visually appropriate; distinct, historical-feeling, readable, matching family identity.
+2. **Simplified heraldic seal / crest** — clearly derived from the SAME approved shield and colors; suitable for mastheads and person dossier headers, not an unrelated monogram.
+3. **Current Great-House Head and immediate ruling family** — names, appropriate personal details, ages, apparent ages, roles, and a manageable selection of photorealistic cinematic portraits/family image(s). Approved faces and longevity canon remain immutable; new faces are proposals until approved.
+4. **Principal ancestral / constitutional House seat** — architecture, grounds and one defining establishing exterior; historically credible for country and family.
+5. **Primary institutional / administrative seat** — distinct city-facing residence or headquarters with an establishing exterior.
+6. **House influence map** — core/deep influence/overlap/legacy network distinctions without representing national governments as privately owned.
+7. **At least one defining historical or institutional image** when helpful to the Great House's identity, without extensive subordinate family image batches.
+
+This is comparable to the established Great-House set for Wycliffe, Falkenrath, Veyrholm and Valdieri, **not** the exhaustive Ravenscroft family-dossier/character-photo scope. A **modest organized batch set** covering these Great-House subjects is welcome; do **not** forbid batches as such. Do not require detailed dossiers or portraits for subordinate Major/Lesser Houses just because a few were previously archived.
+
+**Visual continuity:** keep full and simplified heraldry visually consistent; differentiate ancestral seat vs administrative headquarters; preserve already approved Henri Alexandre de Villiers portrait and any other locked face; age other Great-House blood members consistent with approved longevity benefit (Ravenscroft strongest, others slightly less). Separate image identity approval and asset upload/path mapping from concept approval. Never claim temporary concept image is locked official heraldry before the user selects it.
 
 ### Tier C — Major and Lesser Houses under ANY Great House (directory only)
 Standard output: **House name · rank/immediate superior where needed · principal locality/House-network sphere · industry or specialty**. One table row or sentence is sufficient. **No individual family dossiers, Head identities, spouses, descendants, personal finances, estates, corporate ownership registers, charter history, portraits, heraldry, or dedicated webpages by default.**

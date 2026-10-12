@@ -22,7 +22,7 @@
 
 **House Ravenscroft** is the narrative center and merits exhaustive character dossiers, genealogy, patronage records, careers, appearances, images, sites and consistency checks. Other **Great Houses** require rich but more economical House overviews: leadership, important kin, institutions, history, politics, resources, allegiance, estates, cultural identity and selected key portraits. Non-Ravenscroft **Major Houses** normally need credible background households/institution profiles, while **Lesser Houses** usually need short descriptive entries; do **not** automatically expand every one into a full multi-generation dossier/portrait campaign.
 
-Other Houses already meaningfully developed include **Wycliffe, Falkenrath, Volkov and Veyrholm**. Veyrholm's portrait batches underwent apparent-age, identity and visual-variety corrections. Any remaining visual fixes were **deferred** when the user moved on; do not reopen them without direction. **Valdieri is the active workstream.**
+Other Houses already meaningfully developed include **Wycliffe, Falkenrath, Volkov and Veyrholm**. Veyrholm's portrait batches underwent apparent-age, identity and visual-variety corrections. Any remaining visual fixes were **deferred** when the user moved on; do not reopen them without direction. **Valdieri's planned nine visual batches and final audit are now complete; it is no longer an active image-batch workstream.**
 
 ## House Valdieri — approved 2026 foundations
 

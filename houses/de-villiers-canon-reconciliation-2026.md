@@ -36,3 +36,8 @@ This section is a later chronological update, not a retroactive claim that the o
 - [Ravenscroft family genealogy](../families/ravenscroft-genealogy.html)
 
 **Do not revive de Varenne or narrate its replacement as an event inside the setting.**
+
+### Later locked international House hierarchy — 11 October 2026
+
+The user approved six directly subordinate Major Houses: blood cadets **de Villiers de la Loire** and **de Villiers de Provence**; bound nonblood Majors **d'Aubrecourt** and **Montferrand** in France, **de Bréval** in Belgium and **de Corvelles** in French-speaking Switzerland. Their names, constitutional rank, direct allegiance and principal regional functions are locked in [Six-Major Constitutional Network](de-villiers-international-major-network-2026.md). Individual Heads, families, Lesser Houses and detailed charters remain proposals; [international household development](de-villiers-benelux-suisse-romande-development-2026-proposal.md) is not approved. This does not change the seven-seat internal Conseil.
+

@@ -143,3 +143,8 @@ No part of this hierarchy revives the extinct Monferrato bloodline, changes the 
 ## Batch 6 Roccabruna visual canon — 11 October 2026
 
 **LOCKED BY EXPLICIT USER APPROVAL:** The Roccabruna set is matched **A→7, B→6, C→5, D→4, E→1, F→3, G→2**. Seven separately named original PNG blobs are fixed as primary portraits of Beatrice, Marco, Giovanni, Lucia and Pietro, their family group, and the independently owned **Villa Roccabruna** exterior. This changes no rank, wealth, birth dates or reporting relationships. [Batch 6 manifest](valdieri-batch-6-visual-canon.md) · [Roccabruna background](roccabruna-major-house-development.md) · [House Valdieri gallery](valdieri.html#roccabruna-gallery).
+
+
+## Batch 7 Marenesi visual canon — 11 October 2026
+
+**LOCKED:** All seven Marenesi images were approved as a set and then individually assigned by the user **A→7, B→1, C→2, D→3, E→5, F→4, G→6**. The approved primary faces of Giorgio, Francesca, Alessandro, Bianca and Enrico, their group picture and Palazzo delle Torri are stored at stable named assets and displayed in the [Marenesi gallery](valdieri.html#marenesi-gallery). See the [Batch 7 original hash/face-lock manifest](valdieri-batch-7-visual-canon.md) and [Marenesi approved background](marenesi-major-house-development.md). Marenesi is independently descended and a **direct nonblood Major subordinate** of Great House Valdieri, not subordinate to the Valdieri di Genova cadet. Visual approval leaves its US$350–650M independent wealth and existing rank unchanged.

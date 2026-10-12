@@ -1,6 +1,8 @@
 # House de Villiers — Subordinate Great-House Network (2026)
 
-**STATUS: NEW DEVELOPMENT PROPOSAL — NOT LOCKED, 11 October 2026.** The senior-line genealogy, Philippe's headship, Château de Montrevaux / Hôtel de Villiers and seven-seat Conseil de Maison are separately **LOCKED** in [Senior-line canon](de-villiers-senior-line-and-governance-2026.md). The new subordinate families, names, dates, regions, property, cash figures, charters and crisis history below have **NOT** yet been approved by the user and must not be treated as canon. The two council cadet seats are reserved in established senior-line architecture, but proposed cadets below do not occupy them until approved.
+**STATUS: DRAFT CHARACTER DETAILS — STRUCTURAL HOUSE NAMES/RANKS NOW APPROVED, 11 October 2026.** See the later [LOCKED six-Major network](de-villiers-international-major-network-2026.md). The four French Major names, ranks and regional fields in this older proposal are now canon, alongside Belgium's **de Bréval** and Swiss **de Corvelles**. **All named Heads, dates, spouses, children, Lessers, estates, finance and charter history in this file remain unapproved.** The superseding six-House record governs any structural contradiction.
+
+**EARLIER DRAFT NOTE (superseded for House structure):** The senior-line genealogy, Philippe's headship, Château de Montrevaux / Hôtel de Villiers and seven-seat Conseil de Maison are separately **LOCKED** in [Senior-line canon](de-villiers-senior-line-and-governance-2026.md). The new subordinate families, names, dates, regions, property, cash figures, charters and crisis history below have **NOT** yet been approved by the user and must not be treated as canon. The two council cadet seats are reserved in established senior-line architecture, but proposed cadets below do not occupy them until approved.
 
 ## 1. Constitutional model and regional allocation
 

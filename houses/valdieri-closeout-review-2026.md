@@ -50,6 +50,12 @@ The six locked images are the **full heraldic achievement (Alpine Bridge renderi
 - Approved character faces and apparent-age standards apply if and when portraits are requested. Non-Great-blood Lesser or officeholder characters should not automatically receive Ravenscroft-level longevity treatment.
 - House Valdieri is one of **eleven** recognized Great Houses, formally equal but economically weakest in 2026; historical loss of an international Council mandate does not mean it currently holds one.
 
+## Batch 4 / Batch 5 file recovery correction — 11 October 2026
+
+A user screenshot proved that `assets/families/valdieri-di-canavese/family-portrait.png` was wrongly showing an estate exterior. The image contents have been swapped between the family and Villa asset paths so the confirmed **TEST E / collage 4** source is Villa della Rocchetta and **TEST B / collage 5** was the asset assigned as the family group. The Batch 4 visual manifest and identification test labels have been corrected.
+
+The user also clarified that files we treated as in-progress Batch 5 were Batch 4 and that previously removed files belonged to the Batch 5 upload workflow. Git history preserved the original data; three missing original PNG paths from the five-image upload commit `79d6a4b` have been restored to root `assets/`, and two others were already present. The sixth, separately uploaded `76822486-279C-430E-8724-0D1302A9072C.png`, is preserved. **Do not delete these originals or make new Batch 5 assignments without reviewing their contents.** Batch 4/5 file attribution and the identity of the sixth original remain to be reconciled through the [visual recovery audit](../valdieri-batches-4-5-recovery-audit.html). The branch and institutional canon are unchanged; portrait file assignments beyond the verified estate correction should not be treated as visually revalidated.
+
 ## 4. Completion recommendation
 
 **Valdieri's political/institutional overview is substantially complete.** Batches 1–4 (House identity, senior-family portraits, and both Genova and Canavese cadet images) are locked and integrated. Review remaining character/support batches separately before declaring the page *finished*. Optional exact-date history can be expanded only if needed for future plot work. This House should not consume the same character-by-character dossier effort as Ravenscroft.

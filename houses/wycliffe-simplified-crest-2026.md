@@ -15,6 +15,6 @@ House Wycliffe's simplified masthead seal is the **midnight/navy-blue shield bea
 
 The simplified image was verified against its locally generated source PNG via Git object SHA and installed by **reusing the exact original uploaded Git blob**, with no resizing, recompression, substitution or regeneration. The former loose UUID path was removed from the current branch only after the permanent file was committed; history preserves the original.
 
-The user approved simplified seals for Wycliffe, Falkenrath, Volkov and Veyrholm. Wycliffe's file identity was independently verified, while the other three raw UUID uploads await mapping and must not be assigned to houses solely from filename order.
+The user approved simplified seals for Wycliffe, Falkenrath, Volkov and Veyrholm. Wycliffe's file identity was independently verified; the user subsequently confirmed Falkenrath as upload 1, Volkov as upload 3, and Veyrholm as upload 4. **All four original PNGs have been installed and locked.** See the [four-House approved seal manifest](four-houses-approved-simplified-heraldry-2026.md) for their exact original blob SHAs and permanent asset paths.
 
 [House Wycliffe](wycliffe.html) · [Four-House numbered simplified crest identification](../four-house-simplified-crest-test.html) · [Great House visual reference board](great-house-visual-gap-review-2026.html).

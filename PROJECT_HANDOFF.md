@@ -66,6 +66,10 @@ All current House hero/masthead and Falkenrath visual-gallery crest links now re
 
 [Approved four-House source manifest](houses/four-houses-approved-simplified-heraldry-2026.md) · [Numbered approval page](four-house-simplified-crest-test.html) · [Visual comparison board](houses/great-house-visual-gap-review-2026.html) · [Cross-House audit update](houses/completed-great-houses-cross-house-audit-2026-10-12.md).
 
+## October 13, 2026 — Simplified crest viewing/caching correction
+
+After the four simplified seals had been approved and installed, user reported an older comparison view still displayed three crest positions as "awaiting mapping." **Verified repository facts:** all four `assets/houses/<house>/crest-simplified.png` files exist and match the exact user-approved original Git blob SHAs; all four House pages use these files in mastheads and preserve their full formal heraldic achievements. The old comparison page in GitHub source is already fully mapped, indicating an outdated displayed version or cache rather than missing files. A new cache-distinct [four-House approved visual verification gallery](houses/four-house-heraldry-approved-2026-10-13.html) was created with side-by-side full and simplified crests and identity mapping: **Falkenrath 1, Wycliffe 2, Volkov 3, Veyrholm 4**. Use this fresh page rather than a previously cached copy of the older review page. No approved heraldic image data was changed. The separate Veyrholm influence map remains the only required unapproved artwork among these developed Great Houses.
+
 ## Working rules and source-of-truth precedence
 
 1. Newest **explicitly user-approved** canon or correction overrides conflicting older text.

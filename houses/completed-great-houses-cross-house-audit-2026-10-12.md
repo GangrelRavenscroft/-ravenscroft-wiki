@@ -99,3 +99,10 @@ This change **updates which full achievements are approved**; it does not fill a
 **Conclusion:** The six are *broadly complete in information*. They are **not yet uniform in design or full visual package**. Fix the five approved-art gaps and navigation/section parity before calling them identical.
 
 [House Directory](index.html) · [Standards](../standards/HOUSE_PAGE_STANDARD.md) · [Project Handoff](../PROJECT_HANDOFF.md).
+
+
+## Post-audit update — October 13, 2026: Four matching simplified seals locked
+
+**Supersedes the visual-gap status in the October 12 audit above.** The user uploaded, approved and explicitly identified **Falkenrath 1, Wycliffe 2, Volkov 3 and Veyrholm 4**. The original uploaded Git PNG blobs were moved unchanged into each House's `assets/houses/<house>/crest-simplified.png`, and all four mastheads and visual canon galleries or heraldry notes were updated. Their separate **full formal achievements are preserved unchanged**. Numbered verification and hash provenance: [locked four-House manifest](four-houses-approved-simplified-heraldry-2026.md), [numbered image page](../four-house-simplified-crest-test.html) and [full-versus-simplified comparison board](great-house-visual-gap-review-2026.html).
+
+**Updated visual-completeness finding:** All six developed Great Houses — Wycliffe, Falkenrath, Volkov, Veyrholm, Valdieri and de Villiers — now have approved *both* full and simplified heraldic representations. **The sole outstanding required visual gap identified in the October 12 audit is the dedicated House Veyrholm influence map**, still awaiting separate approval. This update does not certify browser-level layout testing, nor change historical audit observations; it closes four previously pending heraldic asset gaps.

@@ -1,8 +1,8 @@
 # House Ravenscroft / World building 3 — Living Project Handoff
 
-**Updated:** 2026-10-12  
+**Updated:** 2026-10-13  
 **Repository:** https://github.com/GangrelRavenscroft/-ravenscroft-wiki  
-**Current focus:** **House de Villiers visual program CLOSED OUT — six approved batches, 36 verified assets.** The original user-approved images and mappings are preserved unchanged. All six test pages and live gallery references passed audit. Previously stale status wording has been synchronized with later approvals; optional finance, Council, detailed history and French Major Head details remain open, not blockers. Next focus: proceed to the next Great House selected by the user, preserving the compact non-Ravenscroft development standard.
+**Current focus:** **Wycliffe and Falkenrath new full heraldry approved, identified and installed (13 October 2026).** Wycliffe is approved uploaded image 1, Falkenrath image 2. Their exact original PNG blobs are now installed as their permanent current formal full crests; both superseded prior crests are archived by their original SHA. House pages, reference board and canon audit have been updated. Simplified seals for Wycliffe, Falkenrath, Volkov and Veyrholm remain separately pending; Veyrholm map remains unapproved. **De Villiers is already visual-closeout complete:** six locked batches, 36 approved images. Preserve established six-House parity, canon and House scope.
 **Purpose:** Stable entry point for new conversations; preserve continuity, distinguish locked canon from proposals, and identify the exact next task.
 
 > **START HERE IN A NEW CHAT.** Work currently continues in **World building 3**, migrated intact from World building 2; this is an established worldbuilding project, not a request to reinvent the setting. Read this file, then the directly relevant linked canonical records. The user's explicit approval of a detail is authoritative even if an older GitHub page still says "proposed"; mark the repository synchronization as pending rather than discarding approval. Do not restart previous Houses or create a new project merely because a chat reached its length limit.
@@ -28,6 +28,19 @@ Visual comparison/approval reference: [four full crests and outstanding map](hou
 ## 2026-10-12 — Six-House presentation parity implemented
 
 The previously approved [cross-House audit](houses/completed-great-houses-cross-house-audit-2026-10-12.md) has now driven shared layout improvements across Wycliffe, Falkenrath, Volkov, Veyrholm, Valdieri and de Villiers: **seven consistent at-a-glance fields**, responsive rails, shared footer navigation, approved-only apparent-age disclaimer, preserved custom heraldry and image galleries, and clearer locked/open interpretation. Volkov and Veyrholm now have separate anchored Order, Relations and Visual Canon summaries plus Strengths/Vulnerabilities sections using established information; Wycliffe and Falkenrath's existing strengths/risk sections are linked. Historical superseded estimates remain in collapsible archival notes. Valdieri's numerous subgallery shortcuts are available within a collapsible dedicated index instead of a crowded main nav. De Villiers retains its distinctive burgundy palette. All internal anchors and current image links were checked. **Outstanding visual approval**: four simplified seals for Wycliffe, Falkenrath, Volkov and Veyrholm; Veyrholm influence-map artwork. Do not publish new artwork as canon until the user approves it.
+
+## October 13, 2026 — Wycliffe/Falkenrath full-heraldry replacements approved and locked
+
+**User approval and file identity:** the user selected both newly generated full heraldic achievements, uploaded the PNGs, and confirmed **Wycliffe = 1**, **Falkenrath = 2** against the [numbered review](wycliffe-falkenrath-new-heraldry-test.html). This overrides the two previous approved formal full achievements, which remain preserved in the House asset archive as superseded, not current heraldry.
+
+| House | New approved visual | Permanent approved file and exact Git blob | Superseded artwork archive and exact blob |
+|---|---|---|---|
+| **Wycliffe** | Midnight-blue shield, white cliffs, golden tower, silver griffins | `assets/houses/wycliffe/crest-full-heraldic.png` — `75d370e00e20617477608a749bc746ba74c9b8be` | `assets/houses/wycliffe/crest-full-heraldic-superseded-2026-10-13.png` — `ba49eb610371d9536d87e49d8533cf68f7a49a91` |
+| **Falkenrath** | Burgundy shield, silver falcon on Alpine mountains, two falcon supporters | `assets/houses/falkenrath/crest-full-heraldic.png` — `157009c563faa5d31b0fdd59e5a7c9442d07ca30` | `assets/houses/falkenrath/crest-full-heraldic-superseded-2026-10-13.png` — `73ce332b228ffc35b961cce5f422346bf6244d74` |
+
+All current House hero/masthead and Falkenrath visual-gallery crest links now resolve to the new permanent full arms. New uploads were removed from loose root `assets/` only after preserving their exact Git blobs at their canonical destinations. The [locked manifest](houses/wycliffe-falkenrath-approved-full-heraldry-2026.md) specifies identities and protected historical versions. [Visual gap reference board](houses/great-house-visual-gap-review-2026.html) and [six-House audit addendum](houses/completed-great-houses-cross-house-audit-2026-10-12.md) are updated.
+
+**Still pending:** A new and separately approved simplified shield/seal for each of Wycliffe, Falkenrath, Volkov and Veyrholm (never base the first two on archived superseded full heraldry); Veyrholm's separate influence map. Maintain the other five completed Great Houses' approved visual assets, including 36 de Villiers images. Do not add House-specific genealogy, authority, or estate retcons merely because heraldry was updated.
 
 ## Working rules and source-of-truth precedence
 

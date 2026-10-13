@@ -23,6 +23,6 @@ De Villiers enjoys deep French roots and institutional links in Belgium and Fren
 
 ## What remains open beyond the approved broad outline
 
-Historic foundation and Great-House recognition dates; specific revolutionary and wartime family events; Nine-seat Council mandate; overall principal Great-House fortune and beneficial ownership; exact older history; approved House heraldry or new images. Any numerical finance ranges in older drafts remain proposals. **Do not create more individual Major/Lesser portraits, spouses, heads, estates, charters or fortunes solely to fill gaps.**
+Historic foundation and Great-House recognition dates; specific revolutionary and wartime family events; Nine-seat Council mandate; overall principal Great-House fortune and beneficial ownership; exact older history. House heraldry and the six-batch visual program were separately approved and locked on 12 October 2026; additional images are optional. Any numerical finance ranges in older drafts remain proposals. **Do not create more individual Major/Lesser portraits, spouses, heads, estates, charters or fortunes solely to fill gaps.**
 
 [Locked family background](de-villiers-senior-line-and-governance-2026.md) | [Live Great-House page](de-villiers.html) | [Current production standards](../standards/HOUSE_PAGE_STANDARD.md)

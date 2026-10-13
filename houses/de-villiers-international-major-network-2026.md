@@ -2,6 +2,8 @@
 
 **STATUS: USER-LOCKED STRUCTURAL CANON — 11 OCTOBER 2026.** Following the earlier unapproved four-Major proposal, the user reviewed a six-Major model expressly adding local Belgian and Swiss authorities, then instructed **“Lock update continue.”** The **six House names, ranks, blood/bound distinctions, direct allegiance, and primary geographic/professional spheres** below are now approved. This does **not** ratify any previously proposed individual Head, birth date, child, estate, corporate owner, Lesser House, charter instrument or financial estimate: all such details remain proposals until explicitly approved.
 
+> **CURRENT STATUS — 12 OCTOBER 2026:** The six-Major table below is a historical snapshot of the *initial* structural ratification, not the final status of all Heads. A later 11 October ratification, recorded near this document's end and in the [locked Belgian/Swiss household canon](de-villiers-belgian-swiss-households-2026.md), approved **Geneviève Thérèse de Bréval** and **Étienne Marc de Corvelles** as Heads, approved six local Lesser Houses, and established **d'Orvalet** under de Bréval for Luxembourg and **Bellafonte** under de Villiers de Provence for Monaco/Riviera. The four original French Major Head candidates remain unapproved, and other proposed French Lesser Houses are unratified. The seven-seat Conseil remains unchanged.
+
 ## Approved constitutional structure
 
 **Sovereign Head:** Philippe Étienne de Villiers (born 17 April 1964), head of recognized Great House de Villiers since 2018. **Constitutional seat:** Château de Montrevaux, fictional Burgundy. **Institutional center:** Hôtel de Villiers, Paris.

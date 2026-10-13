@@ -1,6 +1,6 @@
 # House de Villiers — Great-House Visual Canon Plan (2026)
 
-**STATUS: BATCHES 1 AND 2 (TWELVE IMAGES) APPROVED AND LOCKED VISUAL CANON, OCTOBER 12, 2026.** Batch 1: A1, B4, C2, D3, E6, F5. Batch 2: A2, B1, C6, D4, E5, F3 (user's original mapping 1B, 2A, 3F, 4D, 5E, 6C). **Other batches still require separate identification and approval.** The user confirms that Great Houses besides Ravenscroft keep the established visual package: head and immediate family, ancestral and institutional seats, full and simplified matching heraldry, influence map, defining historical/institutional imagery. Only Ravenscroft gets exhaustive individual dossiers. Major/Lesser Houses remain directory entries. New art must be approved by the user before becoming canonical and published as authoritative images.
+**STATUS: BATCHES 1–3 (EIGHTEEN IMAGES) APPROVED AND LOCKED VISUAL CANON, OCTOBER 12, 2026.** Batch 1: A1, B4, C2, D3, E6, F5. Batch 2: A2, B1, C6, D4, E5, F3 (user's notation 1B, 2A, 3F, 4D, 5E, 6C). Batch 3: A6, B1, C3, D5, E4, F2 (user's notation B1, F2, C3, E4, D5, A6). **Other batches still require separate identification and approval.** The user confirms that Great Houses besides Ravenscroft keep the established visual package: head and immediate family, ancestral and institutional seats, full and simplified matching heraldry, influence map, defining historical/institutional imagery. Only Ravenscroft gets exhaustive individual dossiers. Major/Lesser Houses remain directory entries. New art must be approved by the user before becoming canonical and published as authoritative images.
 
 ## Canonical people and places
 
@@ -35,7 +35,7 @@ The earlier midnight-blue bridge, waves, and eight-point star were rejected as d
 
 **Additional locked Batch 1 panels outside the older lettered master-list:** Montrevaux Library & Archives (Batch 1 E→6) and Paris Institutional Council Room (Batch 1 F→5). Both are fully approved. The earlier master-list IDs E–L refer to the initial *overall visual program*, not to the six-image Batch 1 A–F lettering; do not confuse these indexes.
 
-Optional portrait of retired Charles; **reuse existing approved Henri image**. No portraits, heraldry or estate asset programs for Major/Lesser Houses.
+**Batch 3 senior-generation portraits LOCKED:** A Charles→6; B Béatrice→1; C Charles+Philippe→3; D Henri→5; E Catherine→4; F Henri+Catherine at Moulin des Ormes→2. The current named files and exact blob SHAs are recorded in the [Batch 3 locked canon manifest](de-villiers-batch-3-visual-canon.md); [numbered upload verification](../de-villiers-batch-3-image-test.html). This confirms the approved Charles portrait and a user-approved Henri image while maintaining the requirement to preserve his established Ravenscroft dossier identity. No additional portrait or visual program is mandated for Major/Lesser Houses.
 
 ## Production and approval rules
 
@@ -43,7 +43,7 @@ Optional portrait of retired Charles; **reuse existing approved Henri image**. N
 - Château and Paris Hôtel should be individual distinct exterior compositions. Vary lighting and visual palette; preserve French real architectural character.
 - Approve new character faces individually before generating a family group; Great-House bloodlines benefit from longevity less than Ravenscroft, and married-in characters are treated separately.
 - User identifies/approves any final imagery and orders; upload verified final images to the de Villiers House asset directory and update the live House page only AFTER files exist and identity mappings are checked.
-- Batches 1 and 2, 12 total images, have been ratified; later batches require their own user approval. No invented file paths or claims of approved final face, coat of arms or site image.
+- Batches 1–3, 18 total images, have been ratified; later batches require their own user approval. No invented file paths or claims of approved final face, coat of arms or site image.
 - Keep House histories consistent with the user-approved broad historical outline: pre-Revolution landed engineering origins; survival of Revolutionary change; nineteenth-century bridge/canal/water expansion; wartime continuity and postwar rebuilding; Philippe's 2018 modernization.
 
 References: [Great House page](de-villiers.html) | [Senior family canon](de-villiers-senior-line-and-governance-2026.md) | [Historic overview now approved](de-villiers-historical-overview-2026-proposal.md) | [House visual and depth standards](../standards/HOUSE_PAGE_STANDARD.md).

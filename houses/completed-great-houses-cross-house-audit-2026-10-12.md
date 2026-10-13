@@ -70,6 +70,12 @@ Other Houses may keep extra distinctive subchapters; a shared hierarchy is **not
 - **Volkov:** used the **existing approved full heraldic achievement** in its masthead.
 - **No image regenerated or reassigned**, no person renamed, no Great House Office/Council mandate invented, no old art deleted.
 
+## Implementation update — 2026-10-12
+
+**Layout improvements committed:** all six developed Houses now share seven-field 2026 overview rails, consistent bottom navigation, apparent-age/chronological-age disclosure, and responsive styling. Volkov and Veyrholm have dedicated Order, inter-House relations, visual-canon and strengths/vulnerabilities summaries based on existing approved facts. Wycliffe and Falkenrath's existing strengths/risk sections are linked; old superseded wealth ranges moved into marked expandable archival notes. Valdieri's extensive gallery links are preserved in a compact collapsible navigation block, and the de Villiers burgundy presentation is preserved. Existing user-approved portraits and all canonical source image objects were not modified.
+
+**Visual gaps remain open:** four matching simplified seals and the Veyrholm influence map. A conceptual map was generated in conversation for user review but has not been installed as a canonical site image. Review exact full-crest references on the [visual gap comparison board](great-house-visual-gap-review-2026.html). **No new crest or map is approved merely because a draft exists.**
+
 ## Next work, prioritized
 
 **P1:** Create/approve the 4 simplified matching heraldic seals and Veyrholm map, then add them to galleries and use simplified shields in mastheads.  

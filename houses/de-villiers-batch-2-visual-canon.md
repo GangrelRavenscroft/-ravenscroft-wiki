@@ -20,6 +20,6 @@
 - **Nicolas Charles de Villiers** (b. May 30, 1998) specializes in industrial cybersecurity and digital infrastructure.
 - **The ruling family portrait** is the original approved group image of Philippe, Isabelle, Adrien, Margot and Nicolas; do not swap it for a regenerated montage.
 
-All approved permanent files reuse the **exact same Git blob SHA** as their original uploads; no re-render, crop, or image edit was made. All originals are retained in `assets/` for traceability. Their names and faces are now the approved image identities to preserve when creating related images. No further facts about titles, House power, Order ranks or character history are implied by this approval.
+All approved permanent files reuse the **exact same Git blob SHA** as their original uploads; no re-render, crop, or image edit was made. The redundant UUID original files were removed from the current branch after verifying all twelve permanent named images matched their source Git blob SHAs; Git history retains the previous paths and content for traceability. Their names and faces are now the approved image identities to preserve when creating related images. No further facts about titles, House power, Order ranks or character history are implied by this approval.
 
 [House de Villiers](de-villiers.html#batch-2-portraits) · [Numbered identification page](../de-villiers-batch-2-image-test.html) · [Batch 1 separately locked](de-villiers-batch-1-visual-canon.md)

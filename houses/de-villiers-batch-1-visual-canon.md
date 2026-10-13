@@ -20,7 +20,7 @@
 - **Paris Institutional Council Room:** approved institutional conference-room image at Hôtel de Villiers.
 - **No House motto:** “The Architects of Continuity” is the House epithet, not an approved motto or shield inscription.
 
-Original uploaded PNGs in `assets/` remain intact. All named images in `assets/houses/de-villiers/` reuse the **same Git blob SHA** as their original upload. No new image generation, cropping or recompression was performed during the archival mapping or locking process.
+The 12 redundant UUID-named originals for Batches 1 and 2 have been deleted from the current branch after SHA verification against approved named copies. All named images in `assets/houses/de-villiers/` reuse the **same Git blob SHA** as their original upload. No new image generation, cropping or recompression was performed during the archival mapping or locking process.
 
 ## References
 

@@ -1,6 +1,6 @@
 # House de Villiers — Batch 2 Approved Image Mapping
 
-**LOCKED CANON.** The user wrote “Batch 2 uploaded. Images approved.” and subsequently confirmed **`1B, 2A, 3F, 4D, 5E, 6C`**, equivalent to **`A2, B1, C6, D4, E5, F3`**. Approval and identification are both complete. Original uploads remain intact.
+**LOCKED CANON.** The user wrote “Batch 2 uploaded. Images approved.” and subsequently confirmed **`1B, 2A, 3F, 4D, 5E, 6C`**, equivalent to **`A2, B1, C6, D4, E5, F3`**. Approval and identification are both complete. The UUID originals were deleted from the current branch after identical named copies were verified; filenames remain documented in Git history.
 
 | Collage letter | Upload number | Approved identity | Original asset | Approved permanent asset | Git blob SHA |
 |---|---:|---|---|---|---|

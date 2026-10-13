@@ -84,6 +84,14 @@ Other Houses may keep extra distinctive subchapters; a shared hierarchy is **not
 **P2:** Audit/label chronological versus apparent ages at the **person level**; show “unassigned” if no approved apparent age exists.  
 **P3:** Review old redundant assets and superseded financial snippets, plus actual browser/mobile/tablet UI after structural edits.
 
+## Post-audit update — October 13, 2026: Wycliffe and Falkenrath full heraldry
+
+**User-confirmed and locked:** two redesigned formal full-heraldry achievements were uploaded and identified: **Wycliffe original image 1; Falkenrath original image 2**. Both are installed at the prior permanent full-heraldry paths; both previous full crests were copied under uniquely named 2026-10-13 superseded archive paths, preserving the exact old Git blob SHA. Original new artwork bytes also remain unchanged. Wycliffe is now the midnight-blue tower/white-cliff/silver-griffin achievement; Falkenrath the burgundy falcon/Alpine-peaks/falcon-supporters achievement.
+
+This change **updates which full achievements are approved**; it does not fill any of the five separate outstanding art gaps identified in the original audit: four matching simplified seals (Wycliffe, Falkenrath, Volkov, Veyrholm) and the Veyrholm influence map. Future Wycliffe and Falkenrath simplified seals must be derived from these **new** full arms; creating/installing those seals remains subject to user approval.
+
+[Locked full-heraldry replacement manifest](wycliffe-falkenrath-approved-full-heraldry-2026.md) · [Updated reference board](great-house-visual-gap-review-2026.html) · [House Wycliffe](wycliffe.html) · [House Falkenrath](falkenrath.html).
+
 ## Scope exclusions
 
 **[Ravenscroft](ravenscroft.html)** is the ongoing **Tier A** dynasty, **not** a completed Tier B peer; its public House landing page is presently shorter than these six while much canonical depth lives in linked personal/family/Order pages. It merits its own deep consolidation audit rather than forced short-template compliance. The recognized peers **Amaru, Ashcroft, Shen and Kuroda** do not yet have completed peer dossiers and were **not** counted as finished.

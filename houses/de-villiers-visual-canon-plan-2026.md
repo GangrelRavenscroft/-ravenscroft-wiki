@@ -1,6 +1,6 @@
 # House de Villiers — Great-House Visual Canon Plan (2026)
 
-**STATUS: BATCHES 1–3 (EIGHTEEN IMAGES) APPROVED AND LOCKED VISUAL CANON, OCTOBER 12, 2026.** Batch 1: A1, B4, C2, D3, E6, F5. Batch 2: A2, B1, C6, D4, E5, F3 (user's notation 1B, 2A, 3F, 4D, 5E, 6C). Batch 3: A6, B1, C3, D5, E4, F2 (user's notation B1, F2, C3, E4, D5, A6). **Other batches still require separate identification and approval.** The user confirms that Great Houses besides Ravenscroft keep the established visual package: head and immediate family, ancestral and institutional seats, full and simplified matching heraldry, influence map, defining historical/institutional imagery. Only Ravenscroft gets exhaustive individual dossiers. Major/Lesser Houses remain directory entries. New art must be approved by the user before becoming canonical and published as authoritative images.
+**STATUS: BATCHES 1–4 (TWENTY-FOUR IMAGES) APPROVED AND LOCKED VISUAL CANON, OCTOBER 12, 2026.** Batch 1: A1, B4, C2, D3, E6, F5. Batch 2: A2, B1, C6, D4, E5, F3 (user's notation 1B, 2A, 3F, 4D, 5E, 6C). Batch 3: A6, B1, C3, D5, E4, F2 (user's notation B1, F2, C3, E4, D5, A6). **Batch 4 mapping: A2, B4, C5, D6, E1, F3 (user's order E1, A2, F3, B4, C5, D6). Later batches require separate identification and approval.** The user confirms that Great Houses besides Ravenscroft keep the established visual package: head and immediate family, ancestral and institutional seats, full and simplified matching heraldry, influence map, defining historical/institutional imagery. Only Ravenscroft gets exhaustive individual dossiers. Major/Lesser Houses remain directory entries. New art must be approved by the user before becoming canonical and published as authoritative images.
 
 ## Canonical people and places
 
@@ -28,8 +28,8 @@ The earlier midnight-blue bridge, waves, and eight-point star were rejected as d
 | H | Margot portrait | Woman 31, professional water/environment engineer | Approved Batch 2 D→4 |
 | I | Nicolas portrait | Male 28, technical/cyber resilience professional | Approved Batch 2 E→5 |
 | J | Philippe, Isabelle and three children together | Approved senior family portrait | Approved Batch 2 F→3 |
-| K | House influence map | Burgundy/Paris institutional core; French regions plus Belgium and French-speaking Switzerland; narrower Luxembourg/Monaco ties, overlap not state ownership | Not created |
-| L | One historical or institutional image | Interwar/postwar civil-work preservation or bridge/water-reconstruction scene, no newly invented named historical event required | Not created |
+| K | House influence map | Burgundy/Paris and overlapping European institutional networks, not sovereignty | Approved Batch 4 E→1 |
+| L | Historical or institutional imagery | Nineteenth-century construction C and postwar reconstruction D, plus modern infrastructure and institutions | Approved Batch 4 A→2, B→4, C→5, D→6, F→3 |
 
 **Locked Batch 2 ruling family:** Philippe A→2, Isabelle B→1, Adrien C→6, Margot D→4, Nicolas E→5, and five-person family F→3. These are not interchangeable with the overall visual plan letters E–J. See [Batch 2 locked canon manifest](de-villiers-batch-2-visual-canon.md), [the exact upload mapping](de-villiers-batch-2-image-mapping.md), and [the numbered image page](../de-villiers-batch-2-image-test.html).
 
@@ -37,13 +37,15 @@ The earlier midnight-blue bridge, waves, and eight-point star were rejected as d
 
 **Batch 3 senior-generation portraits LOCKED:** A Charles→6; B Béatrice→1; C Charles+Philippe→3; D Henri→5; E Catherine→4; F Henri+Catherine at Moulin des Ormes→2. The current named files and exact blob SHAs are recorded in the [Batch 3 locked canon manifest](de-villiers-batch-3-visual-canon.md); [numbered upload verification](../de-villiers-batch-3-image-test.html). This confirms the approved Charles portrait and a user-approved Henri image while maintaining the requirement to preserve his established Ravenscroft dossier identity. No additional portrait or visual program is mandated for Major/Lesser Houses.
 
+**Batch 4 industrial heritage and European influence LOCKED:** A European headquarters→2; B modern infrastructure→4; C nineteenth-century civil works→5; D postwar reconstruction→6; E European strategic footprint→1; F conservation atelier→3. See [Batch 4 locked manifest](de-villiers-batch-4-visual-canon.md) and [numbered review page](../de-villiers-batch-4-image-test.html). Map symbolism describes relationships, not sovereignty; historical depictions are illustrative, not records of newly specified historical events.
+
 ## Production and approval rules
 
 - Start with **heraldry concept pairing**, then create separate A/B outputs after the user approves design.
 - Château and Paris Hôtel should be individual distinct exterior compositions. Vary lighting and visual palette; preserve French real architectural character.
 - Approve new character faces individually before generating a family group; Great-House bloodlines benefit from longevity less than Ravenscroft, and married-in characters are treated separately.
 - User identifies/approves any final imagery and orders; upload verified final images to the de Villiers House asset directory and update the live House page only AFTER files exist and identity mappings are checked.
-- Batches 1–3, 18 total images, have been ratified; later batches require their own user approval. No invented file paths or claims of approved final face, coat of arms or site image.
+- Batches 1–4, 24 total images, have been ratified; later batches require their own user approval. No invented file paths or claims of approved final face, coat of arms or site image.
 - Keep House histories consistent with the user-approved broad historical outline: pre-Revolution landed engineering origins; survival of Revolutionary change; nineteenth-century bridge/canal/water expansion; wartime continuity and postwar rebuilding; Philippe's 2018 modernization.
 
 References: [Great House page](de-villiers.html) | [Senior family canon](de-villiers-senior-line-and-governance-2026.md) | [Historic overview now approved](de-villiers-historical-overview-2026-proposal.md) | [House visual and depth standards](../standards/HOUSE_PAGE_STANDARD.md).

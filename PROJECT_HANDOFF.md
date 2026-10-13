@@ -2,7 +2,7 @@
 
 **Updated:** 2026-10-13  
 **Repository:** https://github.com/GangrelRavenscroft/-ravenscroft-wiki  
-**Current focus:** **Four simplified Great House seals user-approved on 13 October 2026.** Wycliffe's upload 2 has been identified by an exact Git PNG SHA match, moved intact to `assets/houses/wycliffe/crest-simplified.png`, and installed in its masthead; its approved full achievement remains unchanged. Three remaining uploaded originals (numbered 1, 3, 4) need user confirmation of which is Falkenrath, Volkov, and Veyrholm, via [four-house identification page](four-house-simplified-crest-test.html). All three were approved as artworks but are not yet assigned to specific houses. The separate Veyrholm influence map remains unapproved. De Villiers has 6 locked batches and 36 approved images.
+**Current focus:** **Four simplified Great House seals APPROVED, IDENTIFIED, INSTALLED AND LOCKED (October 13, 2026).** User-confirmed file identities are **Falkenrath 1, Wycliffe 2, Volkov 3, Veyrholm 4** (the user's "Vehrholm" denotes canon House Veyrholm). All four original uploaded Git PNG blobs now occupy `assets/houses/<house>/crest-simplified.png`, with original SHA identity preserved. All four House mastheads now display simplified crests and retain their unchanged full formal heraldry elsewhere. The numbered review, four-House manifest, comparison board, audit and House pages are synchronized. **Only remaining required visual gap among these developed Great Houses: the Veyrholm influence map**, separately unapproved. De Villiers' six batches (36 images) remain complete and locked.
 **Purpose:** Stable entry point for new conversations; preserve continuity, distinguish locked canon from proposals, and identify the exact next task.
 
 > **START HERE IN A NEW CHAT.** Work currently continues in **World building 3**, migrated intact from World building 2; this is an established worldbuilding project, not a request to reinvent the setting. Read this file, then the directly relevant linked canonical records. The user's explicit approval of a detail is authoritative even if an older GitHub page still says "proposed"; mark the repository synchronization as pending rather than discarding approval. Do not restart previous Houses or create a new project merely because a chat reached its length limit.
@@ -48,6 +48,23 @@ All current House hero/masthead and Falkenrath visual-gallery crest links now re
 - **Verified exact-match identity:** Wycliffe = upload **2**, original loose path `assets/37B0202E-7CF9-4798-95B3-988FC1E279EC.png`, blob `0c2e58f18169b3467b044664b65306d987ae96da`. Permanently preserved unchanged at `assets/houses/wycliffe/crest-simplified.png`. The Wycliffe masthead now uses this shield, while its formal full arms `crest-full-heraldic.png` remain in the hero. See [locked source manifest](houses/wycliffe-simplified-crest-2026.md).
 - **Pending image identity, NOT artwork approval:** raw numbered upload **1** `327D88CA-D496-4379-BFE6-F7C3344D9C27.png` (SHA `b315123e6c091319ba2d5ea3e797e344fb0defac`), **3** `4D5E00E4-BBFA-48AE-A326-63E3EA781D71.png` (SHA `85b2158c7e810e72dee283e87cd8300d18707309`), **4** `ADA756D0-67B1-4F7B-B3AE-35AD19316C75.png` (SHA `5ca0a3218a7372dddf5b5b740a0e6e74d5e07d42`). The user needs to assign these three to Falkenrath, Volkov, and Veyrholm through [numbered four-house test](four-house-simplified-crest-test.html). Do not infer from alphabetical filename order.
 - After mapping, move originals by reusing Git blobs, update each House masthead while preserving full achievement, improve visual canon, update reference board and cross-house audit. Do not imply that the separate Veyrholm influence map is approved.
+
+## October 13, 2026 — Four simplified Great-House seals fully installed
+
+**Supersedes the immediately earlier section recording partial upload-identity confirmation.** User provided exact final mapping: **Falkenrath 1, Wycliffe 2, Volkov 3, Vehrholm 4**; the established canonical House name is **Veyrholm**. All four PNGs are approved and installed in the matching House asset directories, with unmodified Git blobs and permanently named `crest-simplified.png` files:
+
+| House | Upload | Permanent simplified asset | Exact original Git blob SHA |
+|---|---:|---|---|
+| Falkenrath | 1 | `assets/houses/falkenrath/crest-simplified.png` | `b315123e6c091319ba2d5ea3e797e344fb0defac` |
+| Wycliffe | 2 | `assets/houses/wycliffe/crest-simplified.png` | `0c2e58f18169b3467b044664b65306d987ae96da` |
+| Volkov | 3 | `assets/houses/volkov/crest-simplified.png` | `85b2158c7e810e72dee283e87cd8300d18707309` |
+| Veyrholm | 4 | `assets/houses/veyrholm/crest-simplified.png` | `5ca0a3218a7372dddf5b5b740a0e6e74d5e07d42` |
+
+**Completed synchronization:** House mastheads and visual galleries/heraldry notes; numbered identification test; four-House source-and-identity manifest; Great House visual reference board; six-House image-gap audit; House page standard. Original uploaded UUID files were removed from the working `assets/` directory only after identical Git blobs were copied to permanent paths. Existing full heraldic achievements (including Wycliffe and Falkenrath's recently revised versions and archived superseded arms) remain untouched. This seal approval does not change any unrelated House canon.
+
+**Next visual item:** dedicated House Veyrholm influence map still requires user approval before publishing. Do not revive closed simplified-seal tasks or reinterpret full heraldry as simplified heraldry.
+
+[Approved four-House source manifest](houses/four-houses-approved-simplified-heraldry-2026.md) · [Numbered approval page](four-house-simplified-crest-test.html) · [Visual comparison board](houses/great-house-visual-gap-review-2026.html) · [Cross-House audit update](houses/completed-great-houses-cross-house-audit-2026-10-12.md).
 
 ## Working rules and source-of-truth precedence
 

@@ -29,4 +29,4 @@ Original uploaded PNGs in `assets/` remain intact. All named images in `assets/h
 - [Detailed original-upload identification mapping](de-villiers-batch-1-image-mapping.md)
 - [Visual canon plan](de-villiers-visual-canon-plan-2026.md)
 
-All subsequent Batch 2–6 materials require separate upload identification, explicit user approval, and checks for approved character likenesses and apparent-age standards before publication as locked visual canon.
+Batch 2 is now separately approved and identity-locked (see [Batch 2 manifest](de-villiers-batch-2-visual-canon.md)); later batches 3–6 still require their own mapping and explicit approval.

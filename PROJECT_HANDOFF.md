@@ -2,7 +2,7 @@
 
 **Updated:** 2026-10-12  
 **Repository:** https://github.com/GangrelRavenscroft/-ravenscroft-wiki  
-**Current focus:** **House de Villiers Batches 1–5 approved and locked (30 images).** Batch 5 user-confirmed mapping is B1, C2, D3, A4, E5, F6, now stored under permanent descriptively named House assets; the images have been added to the House gallery and locked visual canon. Scope still limits exhaustive dossiers to Ravenscroft; other Great Houses receive the full House-level visual package and immediate ruling-family details. Next planned work: Batch 6 identification and approval.
+**Current focus:** **House de Villiers Batches 1–6 approved and locked (36 images).** Batch 6 user-confirmed mapping: A1, B2, C3, F4, E5, D6 (letter order A1, B2, C3, D6, E5, F4). Six original untouched PNG image blobs have been moved to permanent House asset filenames, approved visual canon and image mapping committed, numbered identification page updated, and House gallery expanded. Next step: Batch 7 only if the user requests or uploads it, or perform House closeout review. Ravenscroft retains exclusive exhaustive individual dossier scope; other Great Houses receive House-level images and immediate ruling-family coverage.
 **Purpose:** Stable entry point for new conversations; preserve continuity, distinguish locked canon from proposals, and identify the exact next task.
 
 > **START HERE IN A NEW CHAT.** Work currently continues in **World building 3**, migrated intact from World building 2; this is an established worldbuilding project, not a request to reinvent the setting. Read this file, then the directly relevant linked canonical records. The user's explicit approval of a detail is authoritative even if an older GitHub page still says "proposed"; mark the repository synchronization as pending rather than discarding approval. Do not restart previous Houses or create a new project merely because a chat reached its length limit.
@@ -10,6 +10,10 @@
 ## Milestone — House de Villiers Batch 5 (2026-10-12)
 
 Six more original user-approved images have been given permanent names in `assets/houses/de-villiers/` and integrated into the live [House de Villiers gallery](houses/de-villiers.html#batch-5-dynasty). The approval order was `B1, C2, D3, A4, E5, F6`, or in letter order `A4, B1, C2, D3, E5, F6`: Élodie/Alejandro, Sophia Catherine Amaru, Laurent/Marianne, Elaine Catherine de Villiers at marine research, Sophie/Adrian, and the three siblings. The original Git blob SHA of each file was preserved exactly; no regenerations. Loose UUID directory entries were removed after their corresponding named entries were established. All six identities and source filenames are recorded in [locked manifest](houses/de-villiers-batch-5-visual-canon.md), [mapping](houses/de-villiers-batch-5-image-mapping.md), and [numbered test page](de-villiers-batch-5-image-test.html). **Approved House images total: 30 through Batch 5.** Next: check for Batch 6 uploads, prepare numbered identification, and await user confirmation before locking.
+
+## Milestone — House de Villiers Batch 6 (2026-10-12)
+
+**Approved image mapping:** user supplied `A1, B2, C3, F4, E5, D6` (letter order `A1, B2, C3, D6, E5, F4`). A Montrevaux family gathering; B private dining at Montrevaux; C Montrevaux gardens/grounds; D Moulin des Ormes private mill retreat; E generational stewardship; F Montrevaux evening reception. Six original exact Git blob SHAs reused under named paths in `assets/houses/de-villiers/`; original UUID loose asset paths removed from the current branch and recorded in the manifest/mapping. **Total locked House images: 36 (six batches).** [Dossier gallery](houses/de-villiers.html#batch-6-estates) · [Approved numbered test page](de-villiers-batch-6-image-test.html) · [Locked manifest](houses/de-villiers-batch-6-visual-canon.md) · [Upload mapping](houses/de-villiers-batch-6-image-mapping.md) · [Visual plan](houses/de-villiers-visual-canon-plan-2026.md). This approval does not add new Order ceremonies or family dates. Next: Batch 7 if provided, otherwise House-level visual/canon closeout and determine the next House.
 
 ## Working rules and source-of-truth precedence
 
@@ -265,7 +269,7 @@ User ordered **“Lock update. Continue on to visual canon.”** The earlier [sh
 
 **De Villiers visual plan identifiers:** A full crest; B matched simple seal; C Château de Montrevaux; D Hôtel de Villiers (Paris); E Philippe Étienne portrait; F Isabelle Claire portrait; G Adrien portrait; H Margot portrait; I Nicolas portrait; J five-person ruling household; K House influence map; L one historical/institutional scene. Optional Charles older generation portrait; **reuse Henri's already-approved Master A portrait without changing likeness**. Newly generated symbols and portraits are proposals until user approves them and files/paths are verified. Proposed heraldry: midnight blue + ivory/silver three-arched bridge, blue/silver waves, a gold surveying star; no motto. This is a **visual design suggestion, not yet official arms**.
 
-**Current task:** House de Villiers Batch 5 now locked, using A4 B1 C2 D3 E5 F6; continue with Batch 6 when uploaded. Preserve all 30 previous image approvals and do not restart or overwrite visual canon.
+**Current task:** Batch 6 is fully locked; continue with Batch 7 when supplied or complete the de Villiers House-level visual/canon audit. Preserve all 36 approved images, family faces, heraldry, rank and historical continuity.
 
 ## Wider House Ravenscroft foundational continuity
 

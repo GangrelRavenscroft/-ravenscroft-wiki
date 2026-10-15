@@ -19,6 +19,18 @@ The existing official House influence maps in the GitHub repository remain untou
 5. **The map's levels represent effective influence, not counted firms, operated cameras, employees or sworn members.** Unmapped/neutral does not mean no local influence by other Houses.
 6. **The six European atlas colors and levels stay fixed.** Ravenscroft's broader European reach and unique intelligence advantages should not be silently converted into a seventh claim to European territory.
 
+## October 14 clarification: subordinate-House reach and home-country continuity (user-directed canon principle)
+
+The previous metropolitan-only draft loses a core part of Great-House power. A Great House's geographic presence includes networks maintained by **directly subordinate Major Houses and their Lesser Houses**, not just senior-family assets and offices. Major/Lesser property remains separately owned where established; their contractual, political and institutional relationships nevertheless form part of the senior Great House's wider *network influence*, not its direct legal holdings.
+
+For established, long-rooted Great Houses, the map should generally show **some low-strength background influence across the home country** and sometimes other genuinely established core countries. This is a **diffuse Level-1-type network substrate**, not uniform Level 4–5 color, all-company control or sovereign jurisdiction. Confirmed subordinate mandates can amplify it, especially around major cities, industry, universities and ports. There may be exceptions to comprehensive national coverage where the historical or current record does not support it.
+
+**Critical exceptions:** Valdieri's postwar vulnerability and narrower network may prevent a confident Italy-wide baseline; prioritize northern regions and evidence-based weaker southern nodes. Russia is far too large for all of it to be colored Volkov, even at low level merely by nationality: favor western Russian cadet and industrial centers and supported links only. Norway's low-density inland reach should remain much weaker than Oslo and supported maritime ports, but do not presume zero influence wherever Veyrholm's regional affiliations can support some reach. Maintain political boundary precision; no modern border implies House charter sovereignty.
+
+**Two-scale concept (proposal to implement):** (a) broad low-intensity House-network foundation where historically supported by core-country + subordinate-House continuity; (b) independently peaked, sharply localized urban and specialist nodes. Additional cross-border/corridor effects require evidence. Store home/core eligibility and the diffuse strength baseline in data distinct from specific institution coordinates and node scores. Do not infer a fictional subordinate charter boundary from a real country outline.
+
+**Country-by-country floor assignments below remain cartographic review proposals; the broad doctrine above is canon.**
+
 ## Proposed editable data model
 
 Keep each House × place × sector combination as independently editable records with:

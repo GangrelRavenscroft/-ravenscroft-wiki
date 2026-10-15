@@ -31,6 +31,16 @@ For established, long-rooted Great Houses, the map should generally show **some 
 
 **Country-by-country floor assignments below remain cartographic review proposals; the broad doctrine above is canon.**
 
+## Government reach as a separate influence driver (October 14 doctrine extension)
+
+Great Houses may have extensive government infiltration, influence and occasional control of particular offices or networks. This can involve national/federal, state/provincial/cantonal and municipal levels, including executive administrations, legislatures, courts, police and prosecutorial institutions, regulators, diplomacy, military and intelligence organizations. For Europe, use each country's actual administrative structure rather than assuming every country has US-style federal and state governments.
+
+**Cartographic implication:** A concentration of governmental influence in a national capital can create substantial effects across the territory governed, even in areas with no direct senior-House assets. A subordinate Major or Lesser House may simultaneously have strong regional administrative and law-enforcement relationships in a different city. Model diffuse policy/administrative reach independently from physical corporate/industrial nodes, constitutional House jurisdiction and intelligence coverage. Avoid making every government office a point marker.
+
+**Candidate modeling fields (draft):** public-sector branch, jurisdiction level, area of effect, relationship kind (access/alignment/patronage/influence/documented direction), confidence, House-specific source dossier, coverage/authority limitations, and proposed geographic effective-influence contribution. Only carry an actual national or regional spillover into the map where supported by House canon and user approval; never assume infiltration of a specific real-world officeholder or agency.
+
+**Control discipline:** A House can direct specific persons or influence individual decisions without controlling an entire government, judiciary, legislature, police force or country. Public governmental institutions are not constitutionally subordinate Major/Lesser Houses. The existing six-House influence scale measures aggregate practical effect, not ownership of or lawful authority over governments.
+
 ## Proposed editable data model
 
 Keep each House × place × sector combination as independently editable records with:

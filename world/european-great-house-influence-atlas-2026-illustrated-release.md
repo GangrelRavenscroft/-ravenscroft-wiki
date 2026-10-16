@@ -15,7 +15,7 @@ The full ornate European atlas illustration with the deep midnight-navy sea, cla
 **Immutable SHA-256:** `8d4eb296d9a7454e73c7f0ef34c5bcc9d289457a66857f13278d9598f752a7fe`
 **Pixel dimensions:** 1536 × 1024
 **Master artifacts generated:** unaltered PNG; display/modest-print image-backed 12 × 8 inch PDF; release notes and checksum manifest, included in `Ravenscroft_European_Atlas_2026_FINAL_Illustrated_Edition.zip` in the ChatGPT deliverables.
-**Binary artwork in GitHub:** Not yet uploaded as a repository image; this record, approved SHA and the existing project package preserve the exact identity. Do not represent the text manifest as if it contains image bytes.
+**Binary artwork uploaded and verified:** [Full-size original PNG](../assets/europe-great-house-influence-2026-full.png) (`assets/europe-great-house-influence-2026-full.png`, 1536 × 1024) and [fast page preview](../assets/europe-great-house-influence-2026-preview.webp) (`assets/europe-great-house-influence-2026-preview.webp`, 1152 × 768). GitHub blob SHA for the uploaded original matches the approved source: `f388f868cf8d9f505b7e43ef788e4ac1e2fc6cf5`; original SHA-256 unchanged. The clickable map is featured on the [World page](index.html#europe-atlas) and the dedicated [European Influence Atlas Viewer](european-influence-atlas.html). Select the preview or Open full-size map to see the original.
 
 ### Relaxed geographic quality standard — user-directed
 

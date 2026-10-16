@@ -1,8 +1,24 @@
 # House Ravenscroft / World building 3 — Living Project Handoff
 
-**Updated:** 2026-10-14  
+**Updated:** 2026-10-16  
 **Repository:** https://github.com/GangrelRavenscroft/-ravenscroft-wiki  
 **Previous heraldry focus (October 13):** **Four simplified Great House seals APPROVED, IDENTIFIED, INSTALLED AND LOCKED (October 13, 2026).** User-confirmed file identities are **Falkenrath 1, Wycliffe 2, Volkov 3, Veyrholm 4** (the user's "Vehrholm" denotes canon House Veyrholm). All four approved simplified crests occupy permanent House paths. The subsequently approved Volkov navy silver-wolf-and-mountains shield has replaced Volkov's earlier crimson simplified crest; that earlier version is preserved as a superseded archive. All four House mastheads now display simplified crests and retain their unchanged full formal heraldry elsewhere. The numbered review, four-House manifest, comparison board, audit and House pages are synchronized. **Only remaining required visual gap among these developed Great Houses: the Veyrholm influence map**, separately unapproved. De Villiers' six batches (36 images) remain complete and locked.
+
+## October 16, 2026 — HOUSE AMARU ACTIVE DEVELOPMENT (NOT A CANON LOCK)
+
+**User direction:** “Let's start working on House Amaru” followed by “Continue.” This starts the next recognized Great-House Tier B profile after de Villiers and the completed European illustrated atlas. **Do not mistake creation of a working page or assistant-generated proposals for user approval of the new House canon.**
+
+**Committed:** [House Amaru draft House page](houses/amaru.html), [foundational development proposal](houses/amaru-foundational-development-2026-proposal.md), and a live [House Directory](houses/index.html) entry. The page uses the established shared Great-House page/navigation framework, has the seven-field at-a-glance rail, defined structural sections, and links the two already approved de Villiers Batch 5 portraits of Alejandro/Élodie and Sophia Catherine Amaru without creating replacement faces or claiming images are approved Amaru art.
+
+**Established continuity being preserved:** One of **eleven recognized Great Houses**; Andean core **Peru and Bolivia**; senior patriarch **Rafael Esteban Amaru**, allied-lineage senior **Lucía Marisol Quispe-Amaru**, principal heir **Nicolás Rafael Amaru**, second son **Alejandro Mateo Amaru** (born 24 September 1968, Senior External Representative, principal Ravenscroft–Amaru liaison, Tier II Order), and younger daughter **Camila Inés Amaru** (cultural and philanthropic). Alejandro's marriage to **Élodie Catherine de Villiers** and their children **Sophia Catherine Amaru, Mateo Henri Amaru, Isabella Lucia Amaru** are not to be retconned. Clarify first-name accents/spellings against specific individual canonical dossiers if necessary. **Amaru's elected International Council of Nine mandate remains UNASSIGNED**; Great-House recognition and Conclave voice do not require a Nine mandate. Distinguish Alejandro's established personal net worth/Order rank from principal House wealth/authority.
+
+**Working proposals only:** “The House of the Watersheds” editorial epithet, an Altiplano-to-coast infrastructure/resource strategy, early history, Urubamba/Sacred Valley constitutional seat, Lima headquarters, La Paz partner office, potential House-governing council, Rafael's exact constitutional Head title, proposed Major Houses Huamán/Valcárcel/Arce/Rojas with Lesser Houses Condori/Medina/Cárdenas/Salcedo, and midnight-teal/copper serpentine-watercourse heraldry. All are **UNAPPROVED**. No sovereign territorial control over modern Peru or Bolivia or claim to Qhapaq Ñan heritage ownership. Financial valuation, Council appointment, particular historical dates, personal apparent ages and all new artwork remain open.
+
+**Visual sequence when direction approved:** Batch 1 full achievement A, matching simplified B, plausible Sacred Valley estate C, distinct Lima center D, ruling-family portrait E, Andean influence atlas F; Batch 2 selected leadership portraits and institutional scenes. Create standalone high-quality images, letter-label the review collage, number the GitHub comparison page, preserve approved faces and original uploaded binary identities, and lock only upon explicit user mapping/approval. Follow [approved atlas style](world/atlas-visual-style-and-geographic-production-standard-2026.md) and [Great House Tier B standards](standards/HOUSE_PAGE_STANDARD.md). No House Amaru images have been generated or approved here.
+
+**Next:** Request assessment/approval or refinements to the House identity, location pair, Rafael's Headship, subordinate names and heraldic concept. Build the first carefully controlled illustrated batch after approval, and then return to House page integration. The earlier Veyrholm influence-map approval gap remains independently outstanding and was not silently closed.
+
+---
 
 ## October 15, 2026 — EUROPEAN ATLAS WEBSITE INTEGRATED
 

@@ -22,7 +22,7 @@
 
 **Still subject to approval:** Individual geographic influence ratings, particular House predominance or neutral regions, all contested overlap boundaries, numeric model weights, precise fictional institutional locations, wording of map-specific intelligence assessments, exact use of classified labels, and replacement of older official House maps. The existence of an approved *visual* template must never silently certify unapproved geographic decisions.
 
-**Two different source artifacts must be tracked:** (A) the approved ornamental illustration supplied as the design master; and (B) the independent, editable GIS-based Europe revision (currently Revision 10) containing actual coordinate geometry. The target final artifact is a deliberate composite in which the **GIS defines the map's shape** and the **visual master defines its artistic framing**.
+**Two source artifacts must be tracked:** (A) the approved ornamental illustration, which is the **finished visual master for the 2026 narrative atlas plate**; and (B) the independent editable GIS-based Europe Revision 10, the reference for accurate coastlines, modern states, and influence anchors. Future high-precision editions may combine them. The approved 2026 illustration does not need a full GIS reconstruction to be accepted as a believable in-world atlas.
 
 ## 2. The house style at a glance
 
@@ -111,11 +111,11 @@ The **GIS-based European map**, not the illustrated final reference image, was b
 
 **Truthful historical distinction:** The *beautiful approved master image* was produced through an illustration-generation step inspired by the GIS-based drafts and user references. It did **not** directly consume the Natural Earth shapefile or preserve EPSG:3035 feature geometries. It can appear convincingly geographic without being verifiably accurate. The final production workflow must composite its decorative language with a GIS-controlled map rather than assume its coastlines, country contours, grid, scale or place markers are authoritative.
 
-### Upgrade required for authoritative print geography
+### Geographic standard: credible fiction first; precision upgrades optional
 
-The map drafts used coarse 1:110m Natural Earth land masks plus intermediate GSHHS vectors. For high-resolution final atlas printing, replace the underlying geometry with **Natural Earth 1:10m Admin-0 countries, boundary lines, 1:10m physical land/coastline/minor islands and, where needed, 1:10m Admin-1 subdivisions**. Compare with a second independent modern boundary source for disputed or time-sensitive states; document the viewpoint (de facto / de jure / disputed) rather than silently choosing one. Reproject and recompute masks/zones: do not simply draw a high-resolution border over a coarse mask and call it precise.
+**Standard narrative atlas (approved):** European states, their outlines and positions, major islands and straits, principal cities, and familiar coastlines must be geographically recognizable; no conspicuous invented islands, misplaced countries, or grossly erroneous city locations. The Natural Earth 1:110m / intermediate GSHHS / ETOPO1 reference used in the GIS drafts is adequate as an editorial reality check. Influence colors indicate approximate institutional reach, not surveyed borders. Small coast deviations and generalized boundaries are acceptable in an ornamental intelligence plate. Check the image at its intended reading size. **A 1:10m rebuild is NOT a publication prerequisite.**
 
-Natural Earth itself notes that 1:110m is for small locator maps while 1:10m is suitable for large wall maps; its Admin-0 boundaries may follow **de facto** territorial control by default. Those cartographic choices are separate from this fictional universe's House influence. See **Sources and credit** below.
+**Specialist/high-detail map (optional):** When users specifically require exact modern boundary treatment, large-format geography, accurate island inventories, or city-scale spatial relationships, upgrade to Natural Earth 1:10m and compare contested lines with independent authoritative data. Document the chosen disputed-boundary representation. Such accuracy should not be claimed for a freeform AI-illustrated plate.
 
 ## 7. Reproducible technical workflow and file layout
 
@@ -163,16 +163,16 @@ ATLAS_FAST=1 python source/build_influence_v10.py
 ## 9. Production QA and user-approval gate
 
 **Geography and data**
-- [ ] All coasts and islands match the verified geographic layer; specifically check Mediterranean, Baltic, British Isles, Norwegian fjords and Iceland.
-- [ ] Actual modern international borders are visible through every House influence fill, including Central European inset.
-- [ ] Disputed borders are labeled with the adopted source/date and de facto/de jure viewpoint.
-- [ ] Oslo, Stockholm, Visby, Salzburg, Vienna, Munich and other priority anchor markers remain in the correct cities with approved relative strengths.
+- [ ] Coastlines, countries, straits and major islands are broadly recognizable; check especially that the Mediterranean contains no conspicuous invented islands.
+- [ ] Major modern country borders and labels are visible enough for the reader; minor border simplification is allowed in the illustrated narrative edition.
+- [ ] Any potentially contested political border is presented as a cartographic convention rather than an unqualified claim of lawful sovereignty.
+- [ ] Key centers are approximately located and follow user-locked hierarchy (Oslo/Stockholm/Visby for Veyrholm; Salzburg/Vienna above Munich for Falkenrath); exact numeric strength remains optional.
 - [ ] House scores and background rules have a named approval status; no code-generated proposal presented as locked lore.
-- [ ] Projection, scale bar, coordinate annotations and inset extent independently verified.
+- [ ] Do not claim a survey-grade scale, georeferencing or coordinate precision for the illustrated plate; use the editable GIS version if precise measurements matter.
 
 **House identity and narrative**
 - [ ] Six Great Houses only in the European thematic register, with a note that **eleven Great Houses exist globally in 2026** and **nine Council mandates** are distinct from total House count.
-- [ ] Approved original simplified heraldry used; verify asset file paths and SHA-256. If unavailable, do not substitute.
+- [ ] Heraldic subjects and House identities are correct in the finished illustration; verified original GitHub PNGs remain the authority for future formal/separate reproduction, even when the approved artistic rendering is a stylized interpretation.
 - [ ] Maps represent institutional reach, not ownership, state sovereignty or guaranteed loyalty of every official.
 - [ ] No obsolete names such as de Varenne; de Villiers is the replacement Great House.
 
@@ -180,11 +180,11 @@ ATLAS_FAST=1 python source/build_influence_v10.py
 - [ ] Detail text is legible at full size and anticipated print size; avoid low-contrast panels or tiny labels.
 - [ ] Six House hues and five shade levels form a logically usable legend; overlap hatching has named participants in regional notes.
 - [ ] Decor remains outside true coastline/border shapes; crest panels are aligned, readable and dignified.
-- [ ] Export master PNG and true vector PDF/SVG; note which components are raster (terrain, original heraldry) and which are editable vectors.
-- [ ] Open the final PDFs/SVGs independently, compare visual render to PNG and inspect major regions at high zoom.
+- [ ] Preserve the approved master raster PNG unchanged; PDF may be image-backed and is not falsely described as GIS vector or independently editable. Retain the separate GIS-source package for map analysis.
+- [ ] Open image-backed PDF against the source PNG and check major regions and legibility at typical screen/print sizes.
 - [ ] Preserve approved master image and source GIS versions; do not replace official website maps without explicit approval.
 
-**Separate approval gates:** (1) visual series standard — **already approved**; (2) map-specific copy — review; (3) detailed geography and influence levels — review; (4) final approved atlas image/GitHub asset — explicit publication authorization.
+**Approval status (15 October 2026):** The user approved the ornate 2026 European illustration as a completed **narrative atlas plate** and later accepted a plausible (not survey-grade) geographic standard. Specific numeric House levels, real-entity relationships, exact regional boundaries and other atlas models do **not** thereby become independent canon. Publishing the image to the public GitHub site or replacing official prior assets remains a separate action.
 
 ## 10. Sources, credits and reproducibility pointers
 

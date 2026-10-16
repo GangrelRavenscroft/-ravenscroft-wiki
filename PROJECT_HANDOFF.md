@@ -4,6 +4,16 @@
 **Repository:** https://github.com/GangrelRavenscroft/-ravenscroft-wiki  
 **Previous heraldry focus (October 13):** **Four simplified Great House seals APPROVED, IDENTIFIED, INSTALLED AND LOCKED (October 13, 2026).** User-confirmed file identities are **Falkenrath 1, Wycliffe 2, Volkov 3, Veyrholm 4** (the user's "Vehrholm" denotes canon House Veyrholm). All four approved simplified crests occupy permanent House paths. The subsequently approved Volkov navy silver-wolf-and-mountains shield has replaced Volkov's earlier crimson simplified crest; that earlier version is preserved as a superseded archive. All four House mastheads now display simplified crests and retain their unchanged full formal heraldry elsewhere. The numbered review, four-House manifest, comparison board, audit and House pages are synchronized. **Only remaining required visual gap among these developed Great Houses: the Veyrholm influence map**, separately unapproved. De Villiers' six batches (36 images) remain complete and locked.
 
+## October 15, 2026 — EUROPEAN ATLAS WEBSITE INTEGRATED
+
+**User uploaded both approved atlas images to GitHub.** They landed directly in `assets/`, not the suggested nested `assets/maps/europe/` path: `assets/europe-great-house-influence-2026-full.png` (1536×1024; 3,170,958 bytes; Git blob SHA `f388f868cf8d9f505b7e43ef788e4ac1e2fc6cf5`; source SHA-256 `8d4eb296d9a7454e73c7f0ef34c5bcc9d289457a66857f13278d9598f752a7fe`) and `assets/europe-great-house-influence-2026-preview.webp` (1152×768; 309,984 bytes; blob SHA `14f4a76c8155ec0ec526ff51f3f805348e1cbef1`). The SHA metadata was verified against original local image bytes; no accidental replacements or image changes.
+
+**Website integration committed:** [World page](world/index.html#europe-atlas) has a prominent responsive preview linked directly to the full-sized original PNG; [dedicated atlas viewer](world/european-influence-atlas.html) has the same responsive clickable preview plus **Open full-size map**, **Save original PNG** and release-record links. [Illustrated release record](world/european-great-house-influence-atlas-2026-illustrated-release.md) now links actual uploaded binary files and the viewer. On-page preview uses lightweight WebP while full-size PNG stays intact. Do NOT move asset paths without updating these links. No other House page artwork modified.
+
+**If GitHub Pages deployment is temporarily delayed,** verify published URL after Actions/GitHub Pages completes; HTML links and assets are already committed to repository main.
+
+---
+
 ## October 15, 2026 — EUROPEAN INFLUENCE ATLAS COMPLETED (ILLUSTRATED EDITION)
 
 **Latest user instruction:** After approving the ornate European House influence illustration, user explicitly relaxed the geographic requirement: an in-universe, attractive, credible strategic atlas does **not** need 1:10m or exact surveying fidelity. Avoid only obviously fictional/misplaced islands, gross country-border or city errors, and clear House-canon contradictions. Minor coast generalizations, impressionistic shading, and nongeoreferenced decorative detail are permitted. The user requested execution and finalization.

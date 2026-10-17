@@ -24,7 +24,7 @@ This can make Amaru exceptional in its home terrain: **financially smaller than 
 | Order-wide emergencies and Compact questions | Authorized House security/Order channels | Recognize the Order's distinct jurisdiction, Conclave and elected Nine; Amaru doesn't replace them |
 | Bound criminal enterprise's ordinary operations | That enterprise's own hierarchy, accountable to its immediate superior | Great-House ultimate authority over allegiance, exceptional disobedience or dynastic risk |
 | Tribute disputes or affiliated underworld rivalry | Immediate supervisory layer with local knowledge | Senior reserved adjudication for sustained refusal, strategic exposure, large inter-jurisdiction disputes or threats to House primacy |
-| Matters involving independent criminal groups | No inherent House superior; relationships, if any, depend on the actual agreement | Cannot claim vassal authority solely from geography, rumor or receipt of an isolated payment |
+| Organized criminal groups refusing Amaru authority inside recognized territory | Their immediate territorial superior may try to resolve the dispute | Great-House criminal supremacy is compulsory; refusal leads to sanctions, persistent rebellion to destruction as an independent criminal organization. Wider economic influence without recognized territory cannot itself establish the House’s criminal jurisdiction |
 | Succession continuity | Principal heir, authorized fiduciaries and established family procedures, details still to be settled | The formally constituted House Head and relevant constitutional/Order rules |
 
 **Draft constitutional rule:** Every recognized Major House is answerable directly to Amaru, never another Major; a Lesser House is subordinate to its actual Great/Major superior. Both levels can administer portions of their own jurisdiction without distributing it entirely among subordinates. A Great House can also manage direct local assets and direct Lessers. None of these House relationships replaces national public law.
@@ -47,7 +47,7 @@ This can make Amaru exceptional in its home terrain: **financially smaller than 
 
 ## 3. Tribute is authority and income, not an automatic dynasty fortune
 
-The **locked world-wide rule** is upward payments/obligations within *bound* criminal affiliations: groups retain normal operational independence, remit obligations to their immediate superior, and the agreed eventual value reaches the Great House through intermediate layers. Superior Houses may demand compliance and impose serious consequences. The exact Amaru percentages, amount, mechanisms and affiliated groups are **not established**.
+The **locked world-wide rule** is compulsory Great-House authority over criminal groups in recognized territory; those that submit are bound criminal affiliates making upward payments/obligations: groups retain normal operational independence, remit obligations to their immediate superior, and the agreed eventual value reaches the Great House through intermediate layers. Superior Houses may demand compliance and impose serious consequences. The exact Amaru percentages, amount, mechanisms and affiliated groups are **not established**.
 
 A sound Amaru wealth ledger should show **four different registers** even if a story later brings them into conflict:
 
@@ -72,7 +72,7 @@ In an appropriately layered narrative, a street-level group may not know its syn
 
 **B. The conflicting mandate.** A Major House's private engineering investment and another Major's commercial interest are affected by the same contested public resource or route. Their internal House responsibilities overlap but neither Major outranks the other. A senior constitutional decision may be required, while public agencies and independent communities retain agency outside the fiction's hidden hierarchy. This would test Nicolás's practical competence without fabricating a new official post for him.
 
-**C. The dangerous ally.** An independently organized criminal-business enterprise offers lucrative cooperation to an Amaru-affiliated institution but refuses any binding superior authority. Some family members prefer the financial opportunity, others see unacceptable exposure. The crucial canon question becomes *whether there is any affiliation at all*, not how to control a criminal group the House does not presently command.
+**C. The defiant enterprise.** An independently owned criminal-business organization seeks lucrative business relationships while operating in recognized Amaru territory but refuses its compulsory criminal authority and tribute. Some House figures prefer negotiation, while others regard continued defiance as an intolerable challenge. Under locked doctrine the group cannot obtain exemption by refusing and, if rebellion persists, faces destruction as an independent criminal organization. The story’s competing stakes are legitimacy, consequences and exposure, not techniques of enforcement.
 
 These are **not events canonically dated or attributed to any family member**. They can later become dossier stories, official House incidents or image subjects only after review.
 
@@ -86,7 +86,7 @@ These are **not events canonically dated or attributed to any family member**. T
 | Consejo de Casa | Small advisory body that cannot supplant Major authority or the Order Council | Proposed, no voted charter |
 | Senior response to criminal disobedience | Great-House supremacy is real; judgment of severity depends on political risk, grievance and House temperament | Global powers locked; specific Amaru practice open |
 | Subordinate-House directory | Keep existing directory; no new families added for numerical completeness | Existing individual proposed charters remain separately subject to approval |
-| Criminal affiliates | No unapproved named syndicates or gang affiliations | Exact Amaru networks open |
+| Criminal affiliates | Compulsory territorial supremacy applies to organized crime within actual Amaru territory | Exact jurisdictions, criminal identities, revenues and historical incidents remain open |
 | Money and tribute | Approved $350–650B beneficial net wealth, $1–2T overlapping nonadditive reach; no invented annual tribute schedule or double-counting | Bands locked; underlying accounts open |
 | Historical events | Develop a selected few meaningful incidents only after House constitutional choices are made | Not yet ratified |
 

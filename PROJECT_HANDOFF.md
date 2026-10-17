@@ -419,3 +419,8 @@ Setting: contemporary hidden **Order**, nine-seat international Council, and Rav
 ---
 
 **Maintenance checklist:** Date updated · active House/branch · last verified commit · approved changes integrated · pending approvals / sync issues · next concrete task · links to new dossier/art/standards files. GitHub cannot automatically stay current merely because this document exists: it must be deliberately maintained at each milestone.
+
+
+## House Amaru — Batch 1 permanent visual mapping (17 October 2026)
+
+Confirmed A4, B5, C6, D1, E3, F2. Six original PNGs are permanently organized under `assets/houses/amaru/` using unchanged Git blobs. See [asset identity manifest](houses/amaru-batch-1-visual-canon.md), [numbered test page](amaru-batch-1-image-test.html) and [integrated House dossier](houses/amaru.html). The simplified crest replaces the text monogram; full heraldry goes in Identity, Sacred Valley/Lima/atlas in Geography, five-person family portrait in Family, and all six in the visual archive. Proposed formal seats, institutions, House offices and subordinates remain unratified.

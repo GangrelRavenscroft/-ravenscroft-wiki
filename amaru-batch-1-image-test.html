@@ -1,108 +1,11 @@
-<!doctype html>
-<html lang="en">
-<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex">
-<title>House Amaru — Batch 1 Numbered Image Identification</title>
-<style>
-:root{color-scheme:dark;--bg:#06141c;--panel:#102832;--gold:#e6be82;--muted:#bbcace;--edge:#5e766f;--ivory:#f7ead7}
-*{box-sizing:border-box}html{scroll-behavior:smooth}
-body{margin:0;background:radial-gradient(ellipse at 70% 0%,#173a42 0,#091925 48%,#06141c 100%);color:var(--ivory);font:15px/1.55 system-ui,Arial,sans-serif}
-main{max-width:1450px;margin:auto;padding:25px 20px 65px}
-header{padding:29px 34px;border:1px solid #b8955d;background:linear-gradient(125deg,#0a2e34,#0a1727)}
-.kicker{font:700 11px Arial,sans-serif;letter-spacing:.2em;text-transform:uppercase;color:var(--gold)}
-h1,h2{font-family:Georgia,"Times New Roman",serif;font-weight:400}
-h1{font-size:clamp(29px,4.5vw,52px);line-height:1.15;margin:10px 0}
-header p{max-width:900px;color:var(--muted);margin:7px 0}
-a{color:#f3d3a0;text-underline-offset:3px}
-.nav{display:flex;flex-wrap:wrap;gap:18px;margin-top:20px}
-.notice{margin:20px 0;border-left:4px solid #c6a678;padding:14px 20px;background:#102a32}
-.legend{border:1px solid var(--edge);padding:17px 22px;margin:20px 0;background:#0b2029}
-.legend h2,.picker h2{color:var(--gold);font-size:24px;margin:0 0 9px}
-.legend-grid{list-style:none;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px 20px;padding:0;margin:0}
-.legend-grid li{padding:6px 0;border-bottom:1px solid #415355}
-.legend b{display:inline-block;min-width:28px;font:bold 21px Georgia,serif;color:var(--gold)}
-.picker{border:1px solid #70817a;background:#112a34;padding:17px 22px;margin:0 0 24px}
-.picker p{color:var(--muted);margin:0 0 11px}
-#mapping{width:100%;padding:12px;background:#06151e;color:var(--ivory);border:1px solid #a6b0aa;border-radius:3px;font:16px/1.5 ui-monospace,Menlo,Consolas,monospace;resize:vertical}
-button{border:1px solid #c6a879;border-radius:4px;background:#215057;color:var(--ivory);padding:11px 15px;margin:11px 10px 0 0;cursor:pointer;font-weight:600}
-button:hover{background:#2b686d}
-#feedback{font-size:13px;color:#e8d3ae}
-.gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:23px}
-.tile{min-width:0;border:1px solid #677e79;background:#0d2430;padding:15px;box-shadow:0 7px 25px #0006}
-.tile-header{display:flex;align-items:center;gap:14px;margin-bottom:13px}
-.tile-header h2{font-size:29px;margin:0}
-.number{width:58px;height:58px;flex-shrink:0;display:grid;place-items:center;background:#164348;border:2px solid var(--gold);color:#f7d6a2;font:700 34px Georgia,serif}
-.image-link{display:block;background:#050f17;border:1px solid #50686a}
-.image-link img{display:block;width:100%;height:350px;object-fit:contain}
-.tile-bottom{display:flex;flex-wrap:wrap;align-items:center;gap:12px;margin-top:14px}
-.tile-bottom label{color:#f8e1b9}
-select{background:#071a22;border:1px solid #bfa779;color:var(--ivory);font-size:15px;padding:10px}
-.tile-bottom a{margin-left:auto}
-footer{padding:25px 0;color:var(--muted);font-size:13px}
-@media(max-width:830px){.gallery{grid-template-columns:1fr}.legend-grid{grid-template-columns:repeat(2,1fr)}.image-link img{height:330px}}
-@media(max-width:520px){main{padding:12px 10px 40px}header{padding:20px 16px}.legend-grid{grid-template-columns:1fr}.tile{padding:10px}.image-link img{height:250px}}
-</style></head>
-<body><main>
-<header><div class="kicker">Ravenscroft World Archive · House Amaru · Image Review</div>
-<h1>Batch 1 — Numbered Image Test</h1>
-<p>These are the six original House Amaru images uploaded to GitHub. Images <strong>1–6</strong> refer to the uploads below; your identification collage uses letters <strong>A–F</strong>. Match the letters to the correct numbered images before permanent naming and integration.</p>
-<nav class="nav" aria-label="Archive navigation"><a href="houses/amaru.html">← House Amaru</a><a href="houses/index.html">House directory</a><a href="world/european-influence-atlas.html">European atlas reference</a></nav></header>
-<div class="notice"><strong>Review only:</strong> The six PNG files are displayed directly and have not been repainted, altered or renamed. Click any preview to open its original high-resolution file. The sample sequence below is not an approved mapping.</div>
-<section class="legend" aria-label="Collage identification key"><h2>Approved collage A–F subjects</h2>
-<ul class="legend-grid"><li><b>A</b>Full ceremonial heraldry</li><li><b>B</b>Simplified crest</li><li><b>C</b>Sacred Valley estate</li><li><b>D</b>Lima headquarters</li><li><b>E</b>Senior family portrait</li><li><b>F</b>House influence map</li></ul></section>
-<section class="picker"><h2>Your image matches</h2><p>Select a letter beneath each numbered picture. The complete response is prepared here in the format <strong>A1, B4, C2, D3, E6, F5</strong> (example, not a result). Copy it and send it in chat.</p>
-<label for="mapping">Mapping to send:</label><textarea id="mapping" rows="2" readonly>Select the letters under the numbered images.</textarea>
-<div><button type="button" id="copy">Copy mapping</button><button type="button" id="reset">Reset selections</button><span id="feedback" role="status" aria-live="polite"></span></div></section>
-<section class="gallery" aria-label="Numbered House Amaru images"><article class="tile" id="image-1">
-<div class="tile-header"><span class="number">1</span><h2>Image 1</h2></div>
-<a class="image-link" target="_blank" rel="noopener noreferrer" href="assets/houses/amaru/batch-1-review/upload-1.png" title="Open original Image 1"><img src="assets/houses/amaru/batch-1-review/upload-1.png" alt="Original House Amaru Batch 1 image 1, awaiting identification" loading="eager"></a>
-<div class="tile-bottom"><label for="match-1">Collage letter:</label><select id="match-1" data-num="1" aria-label="Assign letter to image 1"><option value="">Choose A–F</option><option value="A">A</option><option value="B">B</option><option value="C">C</option><option value="D">D</option><option value="E">E</option><option value="F">F</option></select><a target="_blank" rel="noopener noreferrer" href="assets/houses/amaru/batch-1-review/upload-1.png">Full-size original ↗</a></div>
-</article>
-<article class="tile" id="image-2">
-<div class="tile-header"><span class="number">2</span><h2>Image 2</h2></div>
-<a class="image-link" target="_blank" rel="noopener noreferrer" href="assets/houses/amaru/batch-1-review/upload-2.png" title="Open original Image 2"><img src="assets/houses/amaru/batch-1-review/upload-2.png" alt="Original House Amaru Batch 1 image 2, awaiting identification" loading="eager"></a>
-<div class="tile-bottom"><label for="match-2">Collage letter:</label><select id="match-2" data-num="2" aria-label="Assign letter to image 2"><option value="">Choose A–F</option><option value="A">A</option><option value="B">B</option><option value="C">C</option><option value="D">D</option><option value="E">E</option><option value="F">F</option></select><a target="_blank" rel="noopener noreferrer" href="assets/houses/amaru/batch-1-review/upload-2.png">Full-size original ↗</a></div>
-</article>
-<article class="tile" id="image-3">
-<div class="tile-header"><span class="number">3</span><h2>Image 3</h2></div>
-<a class="image-link" target="_blank" rel="noopener noreferrer" href="assets/houses/amaru/batch-1-review/upload-3.png" title="Open original Image 3"><img src="assets/houses/amaru/batch-1-review/upload-3.png" alt="Original House Amaru Batch 1 image 3, awaiting identification" loading="lazy"></a>
-<div class="tile-bottom"><label for="match-3">Collage letter:</label><select id="match-3" data-num="3" aria-label="Assign letter to image 3"><option value="">Choose A–F</option><option value="A">A</option><option value="B">B</option><option value="C">C</option><option value="D">D</option><option value="E">E</option><option value="F">F</option></select><a target="_blank" rel="noopener noreferrer" href="assets/houses/amaru/batch-1-review/upload-3.png">Full-size original ↗</a></div>
-</article>
-<article class="tile" id="image-4">
-<div class="tile-header"><span class="number">4</span><h2>Image 4</h2></div>
-<a class="image-link" target="_blank" rel="noopener noreferrer" href="assets/houses/amaru/batch-1-review/upload-4.png" title="Open original Image 4"><img src="assets/houses/amaru/batch-1-review/upload-4.png" alt="Original House Amaru Batch 1 image 4, awaiting identification" loading="lazy"></a>
-<div class="tile-bottom"><label for="match-4">Collage letter:</label><select id="match-4" data-num="4" aria-label="Assign letter to image 4"><option value="">Choose A–F</option><option value="A">A</option><option value="B">B</option><option value="C">C</option><option value="D">D</option><option value="E">E</option><option value="F">F</option></select><a target="_blank" rel="noopener noreferrer" href="assets/houses/amaru/batch-1-review/upload-4.png">Full-size original ↗</a></div>
-</article>
-<article class="tile" id="image-5">
-<div class="tile-header"><span class="number">5</span><h2>Image 5</h2></div>
-<a class="image-link" target="_blank" rel="noopener noreferrer" href="assets/houses/amaru/batch-1-review/upload-5.png" title="Open original Image 5"><img src="assets/houses/amaru/batch-1-review/upload-5.png" alt="Original House Amaru Batch 1 image 5, awaiting identification" loading="lazy"></a>
-<div class="tile-bottom"><label for="match-5">Collage letter:</label><select id="match-5" data-num="5" aria-label="Assign letter to image 5"><option value="">Choose A–F</option><option value="A">A</option><option value="B">B</option><option value="C">C</option><option value="D">D</option><option value="E">E</option><option value="F">F</option></select><a target="_blank" rel="noopener noreferrer" href="assets/houses/amaru/batch-1-review/upload-5.png">Full-size original ↗</a></div>
-</article>
-<article class="tile" id="image-6">
-<div class="tile-header"><span class="number">6</span><h2>Image 6</h2></div>
-<a class="image-link" target="_blank" rel="noopener noreferrer" href="assets/houses/amaru/batch-1-review/upload-6.png" title="Open original Image 6"><img src="assets/houses/amaru/batch-1-review/upload-6.png" alt="Original House Amaru Batch 1 image 6, awaiting identification" loading="lazy"></a>
-<div class="tile-bottom"><label for="match-6">Collage letter:</label><select id="match-6" data-num="6" aria-label="Assign letter to image 6"><option value="">Choose A–F</option><option value="A">A</option><option value="B">B</option><option value="C">C</option><option value="D">D</option><option value="E">E</option><option value="F">F</option></select><a target="_blank" rel="noopener noreferrer" href="assets/houses/amaru/batch-1-review/upload-6.png">Full-size original ↗</a></div>
-</article></section>
-<footer>House Amaru — Batch 1 visual review · Original full-resolution assets retained · No change to approved House canon until confirmed.</footer>
-</main><script>
-(function(){
- const fields=[...document.querySelectorAll('select[data-num]')];
- const out=document.getElementById('mapping');
- const feedback=document.getElementById('feedback');
- function update(){
-   const mapping={}; for(const f of fields){if(f.value) mapping[f.value]=f.dataset.num;}
-   out.value='ABCDEF'.split('').map(l=>l+(mapping[l]||'?')).join(', ');
- }
- fields.forEach(f=>f.addEventListener('change',function(){
-   if(this.value)for(const other of fields){if(other!==this&&other.value===this.value)other.value='';}
-   update();feedback.textContent='';
- }));
- document.getElementById('reset').addEventListener('click',()=>{for(const f of fields)f.value='';update();feedback.textContent='Selections cleared.';});
- document.getElementById('copy').addEventListener('click',async()=>{
-   update();let ok=false;
-   try{if(navigator.clipboard&&window.isSecureContext){await navigator.clipboard.writeText(out.value);ok=true;}}catch(e){}
-   if(!ok){out.focus();out.select();try{ok=document.execCommand('copy')}catch(e){}}
-   feedback.textContent=ok?'Mapping copied.':'Select the mapping above and copy manually.';
- });
- update();
-})();
-</script></body></html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex">
+<title>House Amaru Batch 1 — Confirmed Identification</title><style>
+:root{color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 70% 0%,#173f44,#091824 56%,#06121c);color:#f4ead7;font:15px/1.55 system-ui,Arial,sans-serif}
+main{max-width:1400px;margin:auto;padding:26px 18px 65px}h1,h2{font-family:Georgia,serif;font-weight:normal}h1{font-size:clamp(30px,4vw,48px);margin:12px 0}a{color:#f3d3a0;text-underline-offset:3px}
+.intro{background:#0b2630;border:1px solid #be9f73;padding:24px 30px;margin-bottom:22px}.eyebrow{font-size:12px;color:#e1bd86;text-transform:uppercase;letter-spacing:.18em}.intro p{color:#c7d1d3;max-width:900px}.nav{display:flex;flex-wrap:wrap;gap:20px}
+.key{border-left:4px solid #d6b27d;padding:18px;background:#0e2731;margin:0 0 23px}.key b{color:#ffdda4}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}.card{border:1px solid #597471;background:#102932;padding:14px;min-width:0}.card header{display:flex;align-items:center;gap:14px;margin-bottom:14px}.card header h2{font-size:26px;margin:2px 0}.card small{color:#c5d1d0}.num{display:grid;place-items:center;width:58px;height:58px;flex-shrink:0;background:#19464b;border:2px solid #d6b27d;color:#ffdda4;font:700 33px Georgia,serif}.card img{display:block;width:100%;height:360px;object-fit:contain;background:#07121a;border:1px solid #456567}.card footer{margin-top:12px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;color:#e2c293}
+@media(max-width:750px){.grid{grid-template-columns:1fr}.card img{height:300px}}@media(max-width:430px){main{padding:12px 10px 35px}.intro{padding:18px}.card img{height:260px}}
+</style></head><body><main><section class="intro"><span class="eyebrow">Ravenscroft World Archive · House Amaru</span><h1>Batch 1 · Confirmed Image Identification</h1><p>All six original images are now identified, preserved at their original resolutions and integrated into the House Amaru dossier. Large numbers reflect original GitHub upload order; letters reflect the approved collage.</p><nav class="nav"><a href="houses/amaru.html">← House Amaru</a><a href="houses/amaru.html#visuals">Integrated image archive</a><a href="houses/amaru-batch-1-visual-canon.md">Image identity manifest</a></nav></section>
+<div class="key"><b>Confirmed October 17, 2026:</b> A4 · B5 · C6 · D1 · E3 · F2. These are visual identity approvals, not implied constitutional authority or territorial ownership.</div>
+<section class="grid"><article class="card"><header><span class="num">1</span><div><small>COLLAGE D</small><h2>Lima Headquarters</h2></div></header><a href="assets/houses/amaru/lima-institutional-headquarters.png" target="_blank" rel="noopener"><img src="assets/houses/amaru/lima-institutional-headquarters.png" alt="House Amaru Batch 1 original image 1, collage D: Lima Headquarters" loading="lazy"></a><footer><strong>Upload 1 = D</strong><a href="assets/houses/amaru/lima-institutional-headquarters.png" target="_blank" rel="noopener">Original PNG ↗</a></footer></article><article class="card"><header><span class="num">2</span><div><small>COLLAGE F</small><h2>Influence and Networks Atlas</h2></div></header><a href="assets/houses/amaru/influence-map-2026.png" target="_blank" rel="noopener"><img src="assets/houses/amaru/influence-map-2026.png" alt="House Amaru Batch 1 original image 2, collage F: Influence and Networks Atlas" loading="lazy"></a><footer><strong>Upload 2 = F</strong><a href="assets/houses/amaru/influence-map-2026.png" target="_blank" rel="noopener">Original PNG ↗</a></footer></article><article class="card"><header><span class="num">3</span><div><small>COLLAGE E</small><h2>Senior Family Portrait</h2></div></header><a href="assets/houses/amaru/senior-family-portrait-2026.png" target="_blank" rel="noopener"><img src="assets/houses/amaru/senior-family-portrait-2026.png" alt="House Amaru Batch 1 original image 3, collage E: Senior Family Portrait" loading="lazy"></a><footer><strong>Upload 3 = E</strong><a href="assets/houses/amaru/senior-family-portrait-2026.png" target="_blank" rel="noopener">Original PNG ↗</a></footer></article><article class="card"><header><span class="num">4</span><div><small>COLLAGE A</small><h2>Full Ceremonial Heraldic Achievement</h2></div></header><a href="assets/houses/amaru/crest-full-heraldic.png" target="_blank" rel="noopener"><img src="assets/houses/amaru/crest-full-heraldic.png" alt="House Amaru Batch 1 original image 4, collage A: Full Ceremonial Heraldic Achievement" loading="lazy"></a><footer><strong>Upload 4 = A</strong><a href="assets/houses/amaru/crest-full-heraldic.png" target="_blank" rel="noopener">Original PNG ↗</a></footer></article><article class="card"><header><span class="num">5</span><div><small>COLLAGE B</small><h2>Simplified Heraldic Crest</h2></div></header><a href="assets/houses/amaru/crest-simplified.png" target="_blank" rel="noopener"><img src="assets/houses/amaru/crest-simplified.png" alt="House Amaru Batch 1 original image 5, collage B: Simplified Heraldic Crest" loading="lazy"></a><footer><strong>Upload 5 = B</strong><a href="assets/houses/amaru/crest-simplified.png" target="_blank" rel="noopener">Original PNG ↗</a></footer></article><article class="card"><header><span class="num">6</span><div><small>COLLAGE C</small><h2>Sacred Valley Ancestral Estate</h2></div></header><a href="assets/houses/amaru/sacred-valley-ancestral-estate.png" target="_blank" rel="noopener"><img src="assets/houses/amaru/sacred-valley-ancestral-estate.png" alt="House Amaru Batch 1 original image 6, collage C: Sacred Valley Ancestral Estate" loading="lazy"></a><footer><strong>Upload 6 = C</strong><a href="assets/houses/amaru/sacred-valley-ancestral-estate.png" target="_blank" rel="noopener">Original PNG ↗</a></footer></article></section></main></body></html>

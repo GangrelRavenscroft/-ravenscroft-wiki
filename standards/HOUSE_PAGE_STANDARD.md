@@ -76,7 +76,7 @@ A table row or a one-sentence entry is sufficient. For example: **House de Brév
 
 **Priorities:** Great-House history, sovereign ruling family, actual main institutions, long-range power and politics, estates, history, wealth and visuals. Subordinate Houses provide *geographic and functional coverage*, not a second tier of full worldbuilding projects.
 
-**Constitutional constraints still apply:** all bound or cadet **Major Houses report directly to the Great House**; Lessers report to their specified Major or directly to the Great House. House territory describes responsibility within the hidden network, not sovereignty over modern states, public institutions or whole industries. Avoid inventing local officers and charters merely to complete a template.
+**Constitutional constraints still apply:** all bound or cadet **Major Houses report directly to the Great House**; Lessers report to their specified Major or directly to the Great House. House territory describes responsibility within the hidden network, not sovereignty over modern states, public institutions or whole industries. **Universal criminal rule:** organized crime in recognized House territory must submit to its Great House and pay tribute upward through the hierarchy. Refusal is punished and persistent defiance crushed; submission preserves ordinary semi-autonomy. Territory is not the same as an atlas influence map. See `world/house-criminal-vassalage-and-tribute.md`. Avoid inventing local officers and charters merely to complete a template.
 
 ## Full archival page order (Ravenscroft; optional reference structure for other Great Houses)
 1. House masthead and full heraldic identity
@@ -160,7 +160,7 @@ Every Great-House record should describe its broad network of subordinate Houses
 - **Invested or commercially linked:** equity stakes, joint ventures, capital support, contracts, industry relationships, supply chains; distinguish ownership from supplier or partner status.
 - **Patroned or sponsored:** people, families, companies, organizations and careers benefiting from reciprocal patronage; patronage need not include induction.
 - **Politically influential:** policy coalitions, officials, public institutions, civic bodies and professional organizations; distinguish access and alignment from actual command.
-- **Covertly linked or criminal:** independent clandestine contacts, criminal-business families, or organizations with a supported fictional relationship; distinguish alliance, transactional cooperation, rivalry and direct affiliation.
+- **Covertly linked or criminal:** distinguish local Great-House territorial authority over organized crime (compulsory), the actual Major/Lesser or syndicate superior, criminal ownership, obligations, tribute, semi-autonomy, defiance, inter-House exceptions and whether participants know about the Order.
 - **Independent or contested:** rivals, unaligned institutions and overlapping spheres where more than one House has meaningful relationships.
 
 ### Required regional and local/specialist map
@@ -171,7 +171,7 @@ For each **Lesser House**, specify its **name, locality or industry/specialty an
 
 House jurisdiction is different from state sovereignty, ownership of a city/industry, patronage, board representation or informal influence. Mark cross-regional institutional cooperation and escalation of charter disputes separately.
 
-For each major real or fictional institution record **type of relationship, relative power, office or House that owns the tie, actual mechanism of authority or influence, independence/limits, obligations, vulnerabilities and canon certainty**. Different Houses must make different choices about which levers they use and how much they rely upon them. An institution can have multiple ties to different Houses. Never treat an entire country, government, region, industry or criminal underworld as automatically owned by one family.
+For each major real or fictional institution record **type of relationship, relative power, office or House that owns the tie, actual mechanism of authority or influence, independence/limits, obligations, vulnerabilities and canon certainty**. Different Houses must make different choices about which levers they use and how much they rely upon them. An institution can have multiple ties to different Houses. Never treat an entire country, government, region, industry or criminal underworld as automatically **owned** by one family. Authority over organized crime in recognized House territory nevertheless remains compulsory; influence alone does not establish territorial jurisdiction.
 
 The shared reference is <a href="../world/great-house-power-structure.html">Great-House Power Structure</a>. The House-specific section should give a tangible, distinctive network, not merely repeat the world guide or list ungrounded assets.
 

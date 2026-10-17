@@ -1,6 +1,6 @@
 # House Amaru — Governance, Historic Continuity, Capital & Inter-House Relations (2026)
 
-**STATUS: DEVELOPMENT PROPOSAL — 17 OCTOBER 2026. NOT LOCKED.**
+**STATUS: MIXED — 17 OCTOBER 2026.** The principal Amaru $350–650B net beneficial wealth and overlapping $1–2T influence bands are **APPROVED FINANCIAL CANON**. All individual asset allocations, offices, named subsidiaries, historical incidents, and specific criminal affiliations in this document remain **DEVELOPMENT PROPOSALS** unless otherwise identified as established.
 
 This report continues the [Amaru foundation brief](amaru-foundational-development-2026-proposal.md), the [House Amaru dossier](amaru.html), and the [world-wide Great/Major/Lesser territorial doctrine](../world/great-house-power-structure.html#delegated-territorial-hierarchy). It adds a detailed, internally consistent model for how the **already established senior family and existing proposed subordinate-House directory** might operate. **Do not invent additional Major or Lesser Houses.** The directory in the foundation brief remains adequate for this development phase; its previously unapproved names, charters and assignments are not silently ratified by this document.
 
@@ -56,6 +56,10 @@ An Amaru leadership transition should require more than a death certificate: ver
 - Administrative jurisdiction does not transfer subordinate beneficial wealth upward, make public administrators vassals or supersede national law.
 - Legitimate firms, patronage systems, intelligence channels and criminal enterprises are **parallel networks**. Criminal organizations can be attached at any House level and can themselves supervise smaller groups; bottom-tier actors may know nothing of the superior House or Order. No criminal group is invented or attached to Amaru merely because this possibility exists.
 
+### Proposed relationship between senior authority and criminal-affiliate supervision
+
+The **ultimate supremacy over bound enterprises is world-wide canon**; Amaru-specific internal delegations are **still proposed**. One credible arrangement would let directly attached senior-House contacts, regional Major/lesser authorities, and affiliated syndicates each manage ordinary relationships while exceptional disputes and threats to central House interests can be referred upward. Nicolás's work as the proposed future coordinating heir might focus on obligations and institutional consequences, but he **does not have an approved criminal enforcement office**. Rafael's own formal Headship and intervention mandate remain likewise unratified. The narrative should preserve the distinction between authority that exists at the apex and what any individual knows or personally directs.
+
 ## 3. Historical continuity — scenarios anchored to real history, not forged history
 
 The dates below concern **real national or regional history**. The associated Amaru responses are **fictional proposals**, not claims that the House secretly controlled the governments, wars or indigenous populations described.
@@ -84,28 +88,28 @@ The dates below concern **real national or regional history**. The associated Am
 
 These themes can inform a later historical/character image batch **after** events and participants receive approval.
 
-## 4. Proposed wealth model — a peer-scale fortune backed by distinguishable equity
+## 4. Proposed wealth model — approved ranges, hypothetical holdings
 
-### 2026 scale: **Working scenario only**
+### 2026 scale: **Approved bands; no approved component inventory**
 
-- **Principal Amaru Great-House net beneficial wealth:** **US$550–900 billion**, proposed, **not locked**.
-- **Broader nonadditive assets over which Amaru may exert meaningful control or influence:** **US$1.5–2.9 trillion**, proposed, **not personal property** and **not additive** to the principal total.
-- A `$725B` principal midpoint is an **illustrative portfolio test**, not an audited family balance sheet and not a published firm valuation.
+- **Principal Amaru Great-House net beneficial wealth:** **US$350–650 billion**, **APPROVED 2026 CANON**, superseding the $550–900B working proposal.
+- **Broader nonadditive assets over which Amaru may exert meaningful control or influence:** **US$1–2 trillion**, **APPROVED 2026 CANON**, not personally owned assets and not additive to the principal total. This supersedes the $1.5–2.9T draft.
+- A `$500B` principal midpoint is an **illustrative portfolio test**, not an audited family balance sheet and not a published firm valuation.
 - **Exclude** all independently owned Major and Lesser House wealth, private Quispe assets, independently owned affiliates, counterparties, government infrastructure, client money under management, and any individual assets already counted within House-common beneficial equity. Alejandro's approximately **US$300 million personal net worth** stays a **separate existing personal fact** and should never be silently treated as the valuation of Amaru.
 
 ### Illustrative beneficial-ownership reconciliation — net USD billions, midpoint only
 
 | Nonoverlapping senior-line / House-common net equity category | Hypothetical net value | What must be true before ratification |
 |---|---:|---|
-| Long-duration diversified global company ownership stakes | **$245B** | The principal/common House must actually own the attributed economic equity; holdings must exclude separately listed operating-group stakes |
-| Multiple privately owned engineering, industrial service, processing and transport business equities | **$165B** | Numerous plausible businesses, not a single magically huge firm; debt and minority co-owners deducted |
+| Long-duration diversified global company ownership stakes | **$170B** | The principal/common House must actually own the attributed economic equity; holdings must exclude separately listed operating-group stakes |
+| Multiple privately owned engineering, industrial service, processing and transport business equities | **$80B** | Numerous plausible businesses, not a single magically huge firm; debt and minority co-owners deducted |
 | Separate beneficial equity in lawful energy, private infrastructure and productive assets | **$115B** | Contractual/public assets distinguished from truly owned shareholdings; no water or public-road ownership shortcut |
-| Beneficial ownership in financial-services and insurance operating firms | **$90B** | This is the **firm owners' equity**, not policyholder reserves, bank deposits, client AUM or assets already accounted for above |
-| Direct senior/common House property, estates and commercial real estate | **$55B** | Count actual ownership interest net of liens; protected heritage sites and subordinate estates excluded |
-| Net liquid reserves, bonds and other unencumbered financial property | **$55B** | Not another presentation of shares held inside the preceding buckets |
-| **Illustrative total** | **$725B** | No double count, after relevant indebtedness and outside beneficiaries |
+| Beneficial ownership in financial-services and insurance operating firms | **$65B** | This is the **firm owners' equity**, not policyholder reserves, bank deposits, client AUM or assets already accounted for above |
+| Direct senior/common House property, estates and commercial real estate | **$40B** | Count actual ownership interest net of liens; protected heritage sites and subordinate estates excluded |
+| Net liquid reserves, bonds and other unencumbered financial property | **$30B** | Not another presentation of shares held inside the preceding buckets |
+| **Illustrative total** | **$500B** | No double count, after relevant indebtedness and outside beneficiaries |
 
-**The category weights are a draft design choice; none is an approved holding inventory.** The large equity values require eventual credible multi-generational accumulation and distinctly beneficial trusts across multiple countries. The House's influence may be much broader than its attributable shares, but never use influence value to patch an insufficient ownership model.
+**The financial BAND is user-approved. All six specific asset categories and weights remain speculative and unapproved.** The large equity values require eventual credible multi-generational accumulation and distinctly beneficial trusts across multiple countries. The House's influence may be much broader than its attributable shares, but never use influence value to patch an insufficient ownership model.
 
 **Sample capital governance:**
 - Common-House reserves secure continuity obligations and strategic discretion but are not a private checking account for the patriarch.
@@ -114,6 +118,16 @@ These themes can inform a later historical/character image batch **after** event
 - Co-investments and layered trusts must allocate underlying stakes once; recurring income is not an additional capital asset.
 - Disputed public water allocations, environmental liabilities, community restitution and noncompliant extraction practices create genuine risks and potential costs.
 - Order ties, political access or clandestine leverage are neither cash-equivalent wealth nor unencumbered assets.
+
+### Criminal vassalage and illicit influence — applying the locked world-wide doctrine
+
+**Established world principle:** Criminal organizations truly **bound** to a Great House are semi-autonomous vassals. They manage internal affairs and may supervise their own criminal subordinates, while ultimate jurisdiction and reserved enforcement authority reside with the Great House. A large enterprise can be directly attached to Amaru, a regional Major House, a Lesser House, or a more powerful underworld organization; none thereby becomes a constitutional House. Bound groups owe tribute or other agreed underworld obligations upward through the chain, each intermediate superior retaining a share. Do not treat these transfers as public-government tax authority or count the same revenue multiple times.
+
+The Great Houses have substantially more money, intelligence, security, institutional resources and personnel than most criminal affiliates. A subordinate group's defiance may prompt loss of House protection, removal of leadership, compelled restructuring or — in the ruthless politics of this fictional universe — targeted killings, hostile pressure involving other loyal criminal organizations, or direct intervention. None of those possibilities establishes a **named historical crime** or makes violence risk-free: it can invite retaliation, public investigation, damage to innocent people, threatened business interests and Order-Compact conflict.
+
+**Amaru-specific point:** credible access to Andean drug-trade networks is part of the user's intended House identity. However, no particular cartel/syndicate, gang, regional subordinate-House criminal mandate, trafficking route, annual tribute share or specific violent reprisal is presently assigned. Access and authority over **bound** groups are not ownership or authority over the entire market. A street-level criminal may have no knowledge that Amaru or the Order exists. Neither illicit market gross turnover nor independent syndicate wealth automatically constitutes principal Amaru net beneficial wealth.
+
+References: [Criminal Vassalage and Tribute](../world/house-criminal-vassalage-and-tribute.md) · [Great House criminal authority](../world/great-house-power-structure.html#criminal-vassalage-and-tribute).
 
 ### Wealth implications for story
 
@@ -157,9 +171,9 @@ Recognized Amaru sovereignty carries a **Conclave Voice**. Its **2026 representa
 | Sacred Valley / Lima / La Paz sites | Continue as proposed private institutional scenes already depicted | Approval of actual locations, ownership, names and legal functions |
 | Subordinate network | Use existing **proposed** directory; add no Houses | Confirmation only of currently outstanding charters/ranks if desired |
 | Historical family events | Adopt era themes and moral/legal dilemmas before inventing family protagonists | Specific event, date and affected parties approved individually |
-| 2026 principal wealth | **$550–900B proposed**, midpoint accounting test **$725B** | Approval of range and ownership structure; distinguish overlap |
-| Wider influence exposure | **$1.5–2.9T proposed, nonadditive** | Approval of interpretation, scope and actual relationships |
+| 2026 principal wealth | **$350–650B approved**, midpoint test **$500B proposed** | Broad range is canon; actual beneficial ownership register remains open |
+| Wider influence exposure | **$1–2T approved, nonadditive** | Broad range is canon; actual counterpart links and rights still need evidence |
 | Peer relations | Preserve confirmed Ravenscroft/de Villiers ties; others as discussion opportunities | Explicit bilateral treaty or institutional tie approval |
 | Nine mandate | Unassigned | Explicit Council-election canon |
 
-**Next productive step:** review the proposed governance architecture and wealth band, then ratify or amend. Following that, flesh out selected pivotal Amaru historical choices and a limited number of personal dossiers—rather than expanding the subordinate directory or filling a visual batch for its own sake.
+**Next productive step:** review the proposed governance architecture and build credible owned holdings within the approved wealth band; new ranges require an explicit canon revision. Following that, flesh out selected pivotal Amaru historical choices and a limited number of personal dossiers—rather than expanding the subordinate directory or filling a visual batch for its own sake.

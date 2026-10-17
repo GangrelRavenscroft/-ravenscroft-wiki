@@ -3,7 +3,8 @@
 **Status:** Production workflow standard only; not a change to individual House lore or visual canon.
 
 ## Authoring prompts
-- Build an explicit batch manifest A–G (or the exact number of images requested), with stable **letter = subject** identity throughout.
+- For future batches, target **at least six images and preferably nine meaningful images**, plus an identification collage when feasible. **Never invent filler or repetitive scenes solely to reach the target**; if fewer subjects are worthwhile, use fewer.
+- Build an explicit batch manifest (e.g. A–F or A–I), with stable **letter = subject** identity throughout.
 - Write **detailed, standalone, fully specified image prompts**. Every subject gets its own setting, narrative purpose, composition, lighting, wardrobe where relevant, geographic and engineering realism, exclusions and canon limits.
 - Distinguish confirmed visual identities and named relationships from proposed offices, institutions, facilities, property rights and historical claims. An illustration by itself does not ratify the latter.
 - For any recurring identified person, request the **specific approved reference images**: controlling group portrait and latest approved solo portraits, with the correct subject designated. Preserve facial features, apparent age, family resemblance and differentiation from siblings.
@@ -21,7 +22,7 @@
 
 ## Reference collage
 - Build a landscape identification collage with original images resized only for placement, with clear large letters A, B, C, etc. outside the art; never redraw faces, crops or replace objects.
-- Verify every intended image appears exactly once. For seven landscape 4:3 images, prefer 4 images on row 1 and 3 centered on row 2.
+- Verify every intended image appears exactly once. For six images prefer a 3 × 2 collage; for seven landscape 4:3 images prefer 4 images on row 1 and 3 centered on row 2; for nine prefer a 3 × 3 collage. Preserve full subjects and clear labels.
 - The **collage letters refer to conceptual identity**, *not* upload filenames and not numeric GitHub review numbers.
 
 ## GitHub integration and approval

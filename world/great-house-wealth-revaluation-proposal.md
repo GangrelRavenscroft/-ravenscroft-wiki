@@ -23,9 +23,12 @@ Figures are US dollar equivalents, 2026. **All exclude independently owned cadet
 | Veyrholm | **$750 billion–$1.1 trillion** | **$2.5–4 trillion** | Nordic-Baltic shipping, infrastructure, insurance, communications, capital and minority positions; not one flagship business |
 | Falkenrath | **$650–950 billion** | **$2–3.5 trillion** | Separate industrial investment platforms, enduring trusts, property and multinational stakes; retain established Falkenrath Werke values |
 | Volkov | **$550–850 billion** | **$1.5–3 trillion** | Distributed trusts, reserves, transport, energy-adjacent industries, agriculture and cross-border assets; resilient by diversification |
+| Amaru | **$350–650 billion** | **$1–2 trillion** | Approved 17 October 2026; international diversified capital and Andean regional reach, with no invented subsidiary assets or capitalization of illicit turnover |
 | Valdieri | **$3.5–5 billion**, locked weak exception | Undetermined | Recently restored, heavy institutional costs; Genova and Canavese excluded |
 
-Other Great Houses — de Villiers, Amaru, Ashcroft, Shen and Kuroda — must have independent valuations based on their actual institutions. They are not presumed to rank below the examples above. Ravenscroft retains broad strategic primacy.
+**Amaru's approved October 17 revision supersedes the older unapproved $550–900B principal and $1.5–2.9T influence scenarios.** The locked numbers are broad estimates, not an audited register of beneficial holdings. Independent subordinate and allied House assets remain excluded; successive criminal tribute transfers, underworld gross revenue and assets merely influenced cannot be added as owned wealth.
+
+Other Great Houses — de Villiers, Ashcroft, Shen and Kuroda — must have independent valuations based on their actual institutions. They are not presumed to rank below the examples above. Ravenscroft retains broad strategic primacy.
 
 ## Separate approved Valdieri cadet valuations
 

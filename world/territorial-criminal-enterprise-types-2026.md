@@ -4,7 +4,7 @@
 
 | Territorial Great House | Five primary organized-crime categories | Distinct setting logic |
 |---|---|---|
-| Ravenscroft | National and local narcotics networks; Organized financial fraud and illicit financial brokerage; Cyber extortion and organized cybercrime; Interstate cargo theft and contraband; Human trafficking; Prostitution-related criminal enterprises | U.S.-anchored strategic capital, superior intelligence/technology, financial institutions and high-capacity security. |
+| Ravenscroft | National and local narcotics networks; Organized financial fraud and illicit financial brokerage; Cyber extortion and organized cybercrime; Interstate cargo theft and contraband; Human Trafficking; Prostitution | U.S.-anchored strategic capital, superior intelligence/technology, financial institutions and high-capacity security. |
 | Wycliffe | Financial fraud and investment crime; Art and luxury-property trafficking; Cross-channel and Atlantic port contraband; Organized gambling and loan-sharking; Cyber financial extortion | Trusts, finance, institutional law, diplomatic precedent, intelligence and extremely durable wealth. |
 | Falkenrath | Industrial design and intellectual-property theft; High-value industrial freight theft; Construction and procurement corruption; Restricted technological contraband; Organized commercial extortion | Industrial companies, Alpine transport expertise, institutional archives, protected capital and credible coercive capacity. |
 | Veyrholm | Maritime contraband and port syndicates; Cargo theft and illicit freight brokerage; Cyber/data extortion linked to communications; Restricted-goods cross-Baltic trafficking; Coastal commercial protection rackets | Maritime transport, port relationships, communications, insurance/finance and rerouting expertise. |
@@ -27,7 +27,8 @@ The category list is about **what types occur or matter** in the territory, not 
 - Organized financial fraud and illicit financial brokerage
 - Cyber extortion and organized cybercrime
 - Interstate cargo theft and contraband
-- Human trafficking; Prostitution-related criminal enterprises
+- Human Trafficking
+- Prostitution
 
 **Primary context:** U.S.-anchored strategic capital, superior intelligence/technology, financial institutions and high-capacity security. **Territorial limitation:** Atlantic Canadian provinces assigned to Wycliffe; Québec belongs to de Villiers; Canada’s far north needs charter detail; overseas influence is not territory. **Dependency warning:** Delegated local House knowledge, trusted public-facing institutions, legitimate North American logistics, Canadian boundary accords.
 

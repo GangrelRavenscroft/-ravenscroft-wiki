@@ -4,7 +4,7 @@
 
 | Territorial Great House | Five primary organized-crime categories | Distinct setting logic |
 |---|---|---|
-| Ravenscroft | National and local narcotics networks; Organized financial fraud and illicit financial brokerage; Cyber extortion and organized cybercrime; Interstate cargo theft and contraband; Local protection/extortion and gang federations | U.S.-anchored strategic capital, superior intelligence/technology, financial institutions and high-capacity security. |
+| Ravenscroft | National and local narcotics networks; Organized financial fraud and illicit financial brokerage; Cyber extortion and organized cybercrime; Interstate cargo theft and contraband; Human trafficking; Prostitution-related criminal enterprises | U.S.-anchored strategic capital, superior intelligence/technology, financial institutions and high-capacity security. |
 | Wycliffe | Financial fraud and investment crime; Art and luxury-property trafficking; Cross-channel and Atlantic port contraband; Organized gambling and loan-sharking; Cyber financial extortion | Trusts, finance, institutional law, diplomatic precedent, intelligence and extremely durable wealth. |
 | Falkenrath | Industrial design and intellectual-property theft; High-value industrial freight theft; Construction and procurement corruption; Restricted technological contraband; Organized commercial extortion | Industrial companies, Alpine transport expertise, institutional archives, protected capital and credible coercive capacity. |
 | Veyrholm | Maritime contraband and port syndicates; Cargo theft and illicit freight brokerage; Cyber/data extortion linked to communications; Restricted-goods cross-Baltic trafficking; Coastal commercial protection rackets | Maritime transport, port relationships, communications, insurance/finance and rerouting expertise. |
@@ -27,7 +27,7 @@ The category list is about **what types occur or matter** in the territory, not 
 - Organized financial fraud and illicit financial brokerage
 - Cyber extortion and organized cybercrime
 - Interstate cargo theft and contraband
-- Local protection/extortion and gang federations
+- Human trafficking; Prostitution-related criminal enterprises
 
 **Primary context:** U.S.-anchored strategic capital, superior intelligence/technology, financial institutions and high-capacity security. **Territorial limitation:** Atlantic Canadian provinces assigned to Wycliffe; Québec belongs to de Villiers; Canada’s far north needs charter detail; overseas influence is not territory. **Dependency warning:** Delegated local House knowledge, trusted public-facing institutions, legitimate North American logistics, Canadian boundary accords.
 
@@ -100,6 +100,9 @@ The category list is about **what types occur or matter** in the territory, not 
 - Cross-border counterfeit and illicit-goods brokerage
 
 **Primary context:** Andean regional knowledge, cross-border political and professional relationships, deep local loyalty and global investment capital. **Territorial limitation:** Neither Peru nor Bolivia as complete public states, nor Chile, Ecuador, Brazil or Amazonian interior, is automatically exclusive Amaru territory. Individual corridor limits remain open. **Dependency warning:** Trusted local communities, technically competent intermediaries, logistics and ports, regional House cooperation and global lawful finance.
+
+
+**Ravenscroft scope clarification:** Human trafficking and prostitution-related criminal enterprises are distinct categories. Prostitution is not automatically trafficking; the criminal category concerns exploitative, coercive, or otherwise unlawful organized enterprises under applicable law, not all consensual adult sex work. These categories identify underworld sectors within fictional Ravenscroft territory; they do not automatically establish that named Ravenscroft family members personally operate them.
 
 ## Drug-trade distinction
 

@@ -23,8 +23,8 @@ This register is designed to answer: **Who has authority over whom? What can the
 
 | Great House | What makes authority credible | Key internal reliance | Critical external/nonowned dependencies | Principal fragility |
 |---|---|---|---|---|
-| [Ravenscroft](../houses/ravenscroft.html) | U.S.-anchored strategic capital, superior intelligence/technology, financial institutions and high-capacity security | Existing subordinate Major/Lesser and cadet jurisdictions; senior House can retain direct domains | Delegated local House knowledge, trusted public-facing institutions, legitimate North American logistics, Canadian boundary accords | Vast reporting span; reliance on delegated administration; Quebec/Atlantic Canadian rivalry |
-| [Wycliffe](../houses/wycliffe.html) | Trusts, finance, institutional law, diplomatic precedent, intelligence and extremely durable wealth | Wycliffe cadet and bound offices (specific criminal collection chains require later assignment) | Independent fiduciaries and capital markets; London professional networks; Canadian local loyalty and negotiated Raven boundary | Public transparency, fiduciary and reputational exposure; Quebec uncertain |
+| [Ravenscroft](../houses/ravenscroft.html) | U.S.-anchored strategic capital, superior intelligence/technology, financial institutions and high-capacity security | Existing subordinate Major/Lesser and cadet jurisdictions; senior House can retain direct domains | Delegated local House knowledge, trusted public-facing institutions, legitimate North American logistics, Canadian boundary accords | Vast reporting span; reliance on delegated administration; de Villiers Québec territorial interface / Atlantic Canada separation |
+| [Wycliffe](../houses/wycliffe.html) | Trusts, finance, institutional law, diplomatic precedent, intelligence and extremely durable wealth | Wycliffe cadet and bound offices (specific criminal collection chains require later assignment) | Independent fiduciaries and capital markets; London professional networks; Canadian local loyalty and negotiated Raven boundary | Public transparency, fiduciary and reputational exposure; de Villiers Québec jurisdiction |
 | [Falkenrath](../houses/falkenrath.html) | Industrial companies, Alpine transport expertise, institutional archives, protected capital and credible coercive capacity | Existing Lichtenegg and Tannberg cadet mandates; other local implementation not yet named | Specialist technical personnel; manufacturing suppliers; energy and rail systems; cadet/regional consent | Industrial disruption, corporate exposure, contested Alpine approaches |
 | [Veyrholm](../houses/veyrholm.html) | Maritime transport, port relationships, communications, insurance/finance and rerouting expertise | Four established major blood-cadet lines: Kalmar, Øresund, Åbo, Reval; specific Lesser chains as separately approved | Independent port operators and shipowners, labor and shipping networks, coastal institutions, Baltic negotiated access | Shipping chokepoints; Volkov overlap at Baltic ports and land corridors |
 | [Volkov](../houses/volkov.html) | Distributed continuity archives, borderland ties, dispersed reserve structures and overland resilience | Existing separate Volkov blood/branch and professional nodes; avoid fabricating not-yet-chartered local Majors | Rail, road and borderland contacts; cross-border lawful ownership; protected archives; independent Polish/Ukrainian professional partners | War/displacement, sanctions and trade disruption; Baltic territorial disputes |
@@ -44,13 +44,13 @@ This register is designed to answer: **Who has authority over whom? What can the
 
 **Internal and external dependencies:** Delegated local House knowledge, trusted public-facing institutions, legitimate North American logistics, Canadian boundary accords.
 
-**Principal pressure/failure mode:** Vast reporting span; reliance on delegated administration; Quebec/Atlantic Canadian rivalry.
+**Principal pressure/failure mode:** Vast reporting span; reliance on delegated administration; de Villiers Québec territorial interface / Atlantic Canada separation.
 
-**Recognized power limits:** Atlantic Canadian provinces assigned to Wycliffe; Quebec disputed/undelimited; Canada’s far north needs charter detail; overseas influence is not territory.
+**Recognized power limits:** Atlantic Canadian provinces assigned to Wycliffe; Québec belongs to de Villiers; Canada’s far north needs charter detail; overseas influence is not territory.
 
 **Financial scale:** Principal only: unassigned; strategic primacy locked. These figures, where listed, are principal beneficial net worth vs nonadditive influence assets. They do not count criminal turnover as family property.
 
-**Register status:** Core primary; Quebec and northern boundary open.
+**Register status:** Core primary; Québec de Villiers and northern boundary details open.
 
 ### Wycliffe
 
@@ -62,13 +62,13 @@ This register is designed to answer: **Who has authority over whom? What can the
 
 **Internal and external dependencies:** Independent fiduciaries and capital markets; London professional networks; Canadian local loyalty and negotiated Raven boundary.
 
-**Principal pressure/failure mode:** Public transparency, fiduciary and reputational exposure; Quebec uncertain.
+**Principal pressure/failure mode:** Public transparency, fiduciary and reputational exposure; de Villiers Québec jurisdiction.
 
-**Recognized power limits:** Quebec remains disputed with Ravenscroft; Ontario/western Canada Ravenscroft primacy; Commonwealth ties elsewhere not automatic territory.
+**Recognized power limits:** Québec belongs to de Villiers; Ontario/western Canada Ravenscroft primacy; Commonwealth ties elsewhere not automatic territory.
 
 **Financial scale:** $850B–1.25T principal; $3–5T nonadditive reach. These figures, where listed, are principal beneficial net worth vs nonadditive influence assets. They do not count criminal turnover as family property.
 
-**Register status:** UK/Atlantic Canada primary; Quebec open.
+**Register status:** UK/Atlantic Canada primary; Québec de Villiers.
 
 ### Falkenrath
 
@@ -126,7 +126,7 @@ This register is designed to answer: **Who has authority over whom? What can the
 
 ### de Villiers
 
-**Sovereign territorial power:** Mainland France; approved de Bréval Belgian urban charter districts around Brussels, Liège and Antwerp; selected de Corvelles-linked Romand localities.
+**Sovereign territorial power:** Québec (Canada); mainland France; approved de Bréval Belgian urban charter districts around Brussels, Liège and Antwerp; selected de Corvelles-linked Romand localities.
 
 **Power levers:** Civil engineering and strategic works, cross-border professional networks, technically competent six-Major constitution.
 
@@ -182,7 +182,7 @@ This register is designed to answer: **Who has authority over whom? What can the
 
 | Relationship | Asymmetric or shared dependency | Status and narrative consequence |
 |---|---|---|
-| Ravenscroft ↔ Wycliffe (Canada) | Wycliffe Atlantic networks versus Ravenscroft western/Ontario primacy; cross-house finance/education ties | Quebec primary criminal jurisdiction unresolved. Strong commercial influence by either side does not confer local criminal supremacy in the other's awarded core |
+| Ravenscroft ↔ de Villiers ↔ Wycliffe (Canada) | de Villiers Québec supremacy, Wycliffe Atlantic jurisdiction and Ravenscroft western/Ontario primacy; financial and education networks overlap | Québec primary criminal jurisdiction belongs to de Villiers. Strong commercial influence by either side does not confer local criminal supremacy in the other's awarded core |
 | Veyrholm ↔ Volkov (Baltic and Poland) | Veyrholm ports and maritime communications; Volkov overland and records/continuity systems | Ports, rail corridors, Gdańsk/Vilnius/Riga may require treaty demarcation. Neither controls the other's entire national reach |
 | Falkenrath ↔ Valdieri (Alps/northern Italy) | Falkenrath high capital and manufacturing reach versus Valdieri highly localized Italian engineering and House-charter authority | A Falkenrath investment in Piedmont does not replace Valdieri territorial supremacy; Valdieri still needs outside industrial and financial cooperation |
 | de Villiers ↔ Falkenrath ↔ Valdieri (Alpine interfaces) | Technical engineering, transport and Alpine systems touch across several recognized cores | Swiss neutral/cross-border localities cannot be adjudicated by atlas shade. Local charter and inter-House recognition govern, not the richest bidder |
@@ -209,6 +209,6 @@ Use the following field names in any new House or criminal dossier:
 
 ## VI. Open register issues
 
-Exact lines in Quebec, Baltic ports, Switzerland/Geneva, Belgian municipalities, Alpine borderlands, German non-Bavarian regions, Andean corridors, portions of Ukraine/Poland, Canadian far north and other undeveloped Great-House domains remain **undelimited**. This does not revoke established Great-House claims in the cores above. It prevents the wrong House from receiving exclusive jurisdiction solely from a broad influence map.
+Exact lines within Québec's local charters, Baltic ports, Switzerland/Geneva, Belgian municipalities, Alpine borderlands, German non-Bavarian regions, Andean corridors, portions of Ukraine/Poland, Canadian far north and other undeveloped Great-House domains remain **undelimited**. This does not revoke established Great-House claims in the cores above. It prevents the wrong House from receiving exclusive jurisdiction solely from a broad influence map.
 
 No new named criminal organization, tax percentage, covert bank, violent incident or formal subordinate House is created by this register. [Primary jurisdiction register](great-house-jurisdiction-register-2026.md) · [Criminal enterprise types](territorial-criminal-enterprise-types-2026.md).

@@ -29,7 +29,7 @@ The category list is about **what types occur or matter** in the territory, not 
 - Interstate cargo theft and contraband
 - Local protection/extortion and gang federations
 
-**Primary context:** U.S.-anchored strategic capital, superior intelligence/technology, financial institutions and high-capacity security. **Territorial limitation:** Atlantic Canadian provinces assigned to Wycliffe; Quebec disputed/undelimited; Canada’s far north needs charter detail; overseas influence is not territory. **Dependency warning:** Delegated local House knowledge, trusted public-facing institutions, legitimate North American logistics, Canadian boundary accords.
+**Primary context:** U.S.-anchored strategic capital, superior intelligence/technology, financial institutions and high-capacity security. **Territorial limitation:** Atlantic Canadian provinces assigned to Wycliffe; Québec belongs to de Villiers; Canada’s far north needs charter detail; overseas influence is not territory. **Dependency warning:** Delegated local House knowledge, trusted public-facing institutions, legitimate North American logistics, Canadian boundary accords.
 
 ### Wycliffe — principal types
 
@@ -39,7 +39,7 @@ The category list is about **what types occur or matter** in the territory, not 
 - Organized gambling and loan-sharking
 - Cyber financial extortion
 
-**Primary context:** Trusts, finance, institutional law, diplomatic precedent, intelligence and extremely durable wealth. **Territorial limitation:** Quebec remains disputed with Ravenscroft; Ontario/western Canada Ravenscroft primacy; Commonwealth ties elsewhere not automatic territory. **Dependency warning:** Independent fiduciaries and capital markets; London professional networks; Canadian local loyalty and negotiated Raven boundary.
+**Primary context:** Trusts, finance, institutional law, diplomatic precedent, intelligence and extremely durable wealth. **Territorial limitation:** Québec belongs to de Villiers; Ontario/western Canada Ravenscroft primacy; Commonwealth ties elsewhere not automatic territory. **Dependency warning:** Independent fiduciaries and capital markets; London professional networks; Canadian local loyalty and negotiated Raven boundary.
 
 ### Falkenrath — principal types
 
